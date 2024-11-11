@@ -27,3 +27,8 @@ Any additional libraries or dependencies (e.g., transformers, nltk, scikit-learn
 Contact
 For questions or feedback, please reach out to Miruna Clinciu
 
+Citation:
+
+Clinciu, M.-A., Hastie, H., & Eshghi, A. (2024). ExpliCA Dataset [Data set]. Zenodo. https://doi.org/10.5281/zenodo.14066155
+
+
