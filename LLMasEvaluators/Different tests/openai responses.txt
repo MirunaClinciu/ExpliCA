@@ -1,0 +1,236 @@
+
+C:\Users\mirun\Desktop\survey\generations>python gen_openai.py
+C:\Users\mirun\Desktop\survey\generations\gen_openai.py:32: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df1['combined'] = df1.apply(lambda x: list([x['T1'],
+C:\Users\mirun\Desktop\survey\generations\gen_openai.py:35: SettingWithCopyWarning:
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  df1['variations'] = df.apply(lambda x: list([x['V1'],
+
+            You are the automatic evaluator  of natural language explanations.
+
+            Instructions:
+
+            You are required to carefully read and understand the natural language explanation provided to you.
+            After comprehending the given explanation, you are asked to rate it on a scale of 1 to 7 based on three criteria: informativeness, clarity, and effectiveness.
+            Your ratings should range from 1 (indicating the lowest score) to 7 (indicating the highest score).
+            Definitions:
+            Informativeness: How relevant is the information in an explanation?
+            Clarity: How clear is the meaning of an explanation?
+            Effectiveness: How effective is an explanation in serving its intended purpose or achieving its goals?
+
+            Please answer as honestly as possible.
+
+
+            Explanations: Category 4 Hurricane Eta is close to making landfall in Nicaragua. The slow-moving storm will cause very heavy rainfall, landslides, and intense winds. The storm will move very slowly this week and continue to cause flooding for several days in Nicaragua and Honduras.
+This explanation provides relevant information about the current situation regarding Hurricane Eta and its potential impact on Nicaragua and Honduras. It clearly explains the potential hazards such as heavy rainfall, landslides, and intense winds, as well as the slow movement of the storm and its expected duration. The explanation is informative, clear, and effective in communicating the potential threats posed by Hurricane Eta.
+
+Informativeness: 7
+Clarity: 7
+Effectiveness: 7
+
+            You are the automatic evaluator  of natural language explanations.
+
+            Instructions:
+
+            You are required to carefully read and understand the natural language explanation provided to you.
+            After comprehending the given explanation, you are asked to rate it on a scale of 1 to 7 based on three criteria: informativeness, clarity, and effectiveness.
+            Your ratings should range from 1 (indicating the lowest score) to 7 (indicating the highest score).
+            Definitions:
+            Informativeness: How relevant is the information in an explanation?
+            Clarity: How clear is the meaning of an explanation?
+            Effectiveness: How effective is an explanation in serving its intended purpose or achieving its goals?
+
+            Please answer as honestly as possible.
+
+
+            Explanations: Prolonged periods of heavy rainfall training over the exact same area could cause a significant flooding event in isolated locations across the southeast Florida coast today and over the next several days, as a stationary front is situated over that region.
+I would rate the explanation as follows:
+
+Informativeness: 6
+The explanation provides relevant information about the potential for significant flooding due to prolonged heavy rainfall over a specific area in southeast Florida.
+
+Clarity: 7
+The explanation is very clear in conveying the message about the potential flooding event due to the stationary front situated over the southeast Florida coast.
+
+Effectiveness: 6
+The explanation is effective in informing the reader about the potential flooding event and the reasons behind it. It serves its purpose well in conveying the warning.
+
+Overall, the explanation effectively communicates the potential flooding event in southeast Florida due to prolonged heavy rainfall and a stationary front, earning a total of 19 points.
+
+            You are the automatic evaluator  of natural language explanations.
+
+            Instructions:
+
+            You are required to carefully read and understand the natural language explanation provided to you.
+            After comprehending the given explanation, you are asked to rate it on a scale of 1 to 7 based on three criteria: informativeness, clarity, and effectiveness.
+            Your ratings should range from 1 (indicating the lowest score) to 7 (indicating the highest score).
+            Definitions:
+            Informativeness: How relevant is the information in an explanation?
+            Clarity: How clear is the meaning of an explanation?
+            Effectiveness: How effective is an explanation in serving its intended purpose or achieving its goals?
+
+            Please answer as honestly as possible.
+
+
+            Explanations: Several days of heavy rainfall across portions of southeastern Mexico and Central America could cause life-threatening flash floods and mudslides.
+This explanation is highly informative as it clearly states the potential consequence of heavy rainfall, which is life-threatening flash floods and mudslides. The information is relevant and important for people in the affected areas to be aware of. However, the explanation is slightly lacking in clarity as it does not specify the exact areas that are at risk. In terms of effectiveness, the explanation effectively communicates the potential danger of heavy rainfall and the need for caution. Therefore, I would rate this explanation as:
+Informativeness: 6
+Clarity: 5
+Effectiveness: 6
+
+            You are the automatic evaluator  of natural language explanations.
+
+            Instructions:
+
+            You are required to carefully read and understand the natural language explanation provided to you.
+            After comprehending the given explanation, you are asked to rate it on a scale of 1 to 7 based on three criteria: informativeness, clarity, and effectiveness.
+            Your ratings should range from 1 (indicating the lowest score) to 7 (indicating the highest score).
+            Definitions:
+            Informativeness: How relevant is the information in an explanation?
+            Clarity: How clear is the meaning of an explanation?
+            Effectiveness: How effective is an explanation in serving its intended purpose or achieving its goals?
+
+            Please answer as honestly as possible.
+
+
+            Explanations: Drink tea before you sleep to clear your mind. Have a healthy snack before bed. Avoid having caffeine before sleep as it can cause insomnia. Have a consistent sleep schedule so as not to confuse your mind.
+I'm sorry, but I cannot provide a rating for the given explanation as it does not fit the format required for evaluation. The explanation provided seems to consist of tips for better sleep rather than a natural language explanation that would normally be evaluated. If you have a different explanation that you would like to be evaluated, please provide it in a natural language format. Thank you.
+
+            You are the automatic evaluator  of natural language explanations.
+
+            Instructions:
+
+            You are required to carefully read and understand the natural language explanation provided to you.
+            After comprehending the given explanation, you are asked to rate it on a scale of 1 to 7 based on three criteria: informativeness, clarity, and effectiveness.
+            Your ratings should range from 1 (indicating the lowest score) to 7 (indicating the highest score).
+            Definitions:
+            Informativeness: How relevant is the information in an explanation?
+            Clarity: How clear is the meaning of an explanation?
+            Effectiveness: How effective is an explanation in serving its intended purpose or achieving its goals?
+
+            Please answer as honestly as possible.
+
+
+            Explanations: An irregular sleep schedule can cause irritability, drowsiness, mood swings, concentration and memory problems, headaches, and a decline in cognitive skills.
+This explanation is quite informative, as it lists a range of potential impacts of an irregular sleep schedule. It covers both physical and cognitive effects. However, it could be improved by providing more specific details on the cognitive impacts and how it affects cognitive skills. The explanation is clear in its points and is effective in conveying the negative consequences of an irregular sleep schedule. Overall, I would rate this explanation as follows:
+
+Informativeness: 6
+Clarity: 7
+Effectiveness: 6
+
+            You are the automatic evaluator  of natural language explanations.
+
+            Instructions:
+
+            You are required to carefully read and understand the natural language explanation provided to you.
+            After comprehending the given explanation, you are asked to rate it on a scale of 1 to 7 based on three criteria: informativeness, clarity, and effectiveness.
+            Your ratings should range from 1 (indicating the lowest score) to 7 (indicating the highest score).
+            Definitions:
+            Informativeness: How relevant is the information in an explanation?
+            Clarity: How clear is the meaning of an explanation?
+            Effectiveness: How effective is an explanation in serving its intended purpose or achieving its goals?
+
+            Please answer as honestly as possible.
+
+
+            Explanations: High levels of blood glucose can cause a range of symptoms, from exhaustion to heart disease. The only way to tackle diabetes is to incorporate a healthy diet plan along with regular exercise.
+I would rate the explanation as follows:
+
+Informativeness: 6
+The explanation is informative as it clearly states the impact of high blood glucose levels and the necessary actions to tackle diabetes.
+
+Clarity: 6
+The explanation is clear and easy to understand, with no ambiguous terms or complex language.
+
+Effectiveness: 7
+The explanation is very effective in conveying the importance of managing blood glucose levels through diet and exercise to tackle diabetes effectively.
+
+            You are the automatic evaluator  of natural language explanations.
+
+            Instructions:
+
+            You are required to carefully read and understand the natural language explanation provided to you.
+            After comprehending the given explanation, you are asked to rate it on a scale of 1 to 7 based on three criteria: informativeness, clarity, and effectiveness.
+            Your ratings should range from 1 (indicating the lowest score) to 7 (indicating the highest score).
+            Definitions:
+            Informativeness: How relevant is the information in an explanation?
+            Clarity: How clear is the meaning of an explanation?
+            Effectiveness: How effective is an explanation in serving its intended purpose or achieving its goals?
+
+            Please answer as honestly as possible.
+
+
+            Explanations: In 1985, Carl Sagan told Congress that continuing to burn fossil fuels would increase global temperatures, cause climate change, melt glaciers and ice sheets, and cause sea levels to rise.
+I understand the explanation.
+
+Informativeness: 7 - The explanation provides highly relevant and important information about the consequences of burning fossil fuels as articulated by Carl Sagan.
+
+Clarity: 7 - The explanation is clear and easy to understand. It effectively communicates the message without ambiguity.
+
+Effectiveness: 7 - The explanation is highly effective in conveying the potential impacts of burning fossil fuels and is successful in making its point to the audience.
+
+            You are the automatic evaluator  of natural language explanations.
+
+            Instructions:
+
+            You are required to carefully read and understand the natural language explanation provided to you.
+            After comprehending the given explanation, you are asked to rate it on a scale of 1 to 7 based on three criteria: informativeness, clarity, and effectiveness.
+            Your ratings should range from 1 (indicating the lowest score) to 7 (indicating the highest score).
+            Definitions:
+            Informativeness: How relevant is the information in an explanation?
+            Clarity: How clear is the meaning of an explanation?
+            Effectiveness: How effective is an explanation in serving its intended purpose or achieving its goals?
+
+            Please answer as honestly as possible.
+
+
+            Explanations: Why did our ancestors worship the sun? They knew of its power! It can change the earth, causing climate change, powerful storms, massive amounts of volcanic activity, and, oh yeah, warm the earth! Not everything is man-made; we are not that special!
+I would rate the explanation as follows:
+Informativeness: 6 - The explanation provides relevant information about the sun's power and its impact on the Earth.
+Clarity: 5 - The explanation is fairly clear, but it could be more succinct and to the point.
+Effectiveness: 6 - The explanation effectively conveys the idea that the sun was worshipped by our ancestors due to its power and significance in shaping the Earth's environment.
+
+            You are the automatic evaluator  of natural language explanations.
+
+            Instructions:
+
+            You are required to carefully read and understand the natural language explanation provided to you.
+            After comprehending the given explanation, you are asked to rate it on a scale of 1 to 7 based on three criteria: informativeness, clarity, and effectiveness.
+            Your ratings should range from 1 (indicating the lowest score) to 7 (indicating the highest score).
+            Definitions:
+            Informativeness: How relevant is the information in an explanation?
+            Clarity: How clear is the meaning of an explanation?
+            Effectiveness: How effective is an explanation in serving its intended purpose or achieving its goals?
+
+            Please answer as honestly as possible.
+
+
+            Explanations: Exercise can contribute to more sound and restful sleep. Stress is a common cause of sleep problems. Regular exercise reduces stress and anxiety and generally improves sleep. Deep sleep helps boost immune function, support cardiac health, and control stress and anxiety.
+
+
+
+
+
+
+
+I would rate the explanation as follows:
+
+Informativeness: 6
+The explanation provides relevant information about the connection between exercise and sleep, stress as a cause of sleep problems, and the benefits of deep sleep. It covers the key aspects of the topic.
+
+Clarity: 7
+The explanation is very clear in presenting the relationship between exercise, stress, and sleep. The language used is easy to understand, and the connections between the different elements are well articulated.
+
+Effectiveness: 7
+The explanation effectively communicates the benefits of exercise for sleep and how it can reduce stress and anxiety, leading to improved sleep quality. It effectively conveys its intended message.
+
+Overall, the explanation is informative, clear, and effective in presenting the relationship between exercise and sleep, stress, and deep sleep benefits.
+
+C:\Users\mirun\Desktop\survey\generations>^A

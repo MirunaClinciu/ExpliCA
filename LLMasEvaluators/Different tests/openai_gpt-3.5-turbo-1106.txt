@@ -1,0 +1,605 @@
+
+C:\Users\mirun\Desktop\survey\generations>python gen_openai.py
+1_T2
+Informativeness: 7
+Clarity: 6
+Effectiveness: 7
+
+
+2_T2
+Informativeness: 6
+Clarity: 5
+Effectiveness: 6
+
+
+3_T2
+Informativeness: 7
+Clarity: 6
+Effectiveness: 7
+
+
+4_T2
+Informativeness: 6
+Clarity: 6
+Effectiveness: 6
+
+
+5_T2
+Informativeness: 7
+Clarity: 7
+Effectiveness: 7
+
+
+6_T2
+Informativeness: 7
+Clarity: 6
+Effectiveness: 7
+
+
+7_T2
+Informativeness: 7
+Clarity: 7
+Effectiveness: 7
+
+
+8_T2
+Informativeness: 6
+Clarity: 5
+Effectiveness: 6
+
+
+9_T2
+Informativeness: 7
+Clarity: 7
+Effectiveness: 7
+
+
+10_T2
+Informativeness: 7
+Clarity: 7
+Effectiveness: 7
+
+
+11_T2
+Informativeness: 5
+Clarity: 6
+Effectiveness: 7
+
+
+12_T2
+Informativeness: 7
+Clarity: 6
+Effectiveness: 7
+
+
+13_T2
+Informativeness: 6
+Clarity: 6
+Effectiveness: 6
+
+
+14_T2
+Informativeness: 4
+Clarity: 5
+Effectiveness: 6
+
+
+15_T2
+Informativeness: 5
+Clarity: 6
+Effectiveness: 6
+
+
+16_T2
+Informativeness: 7
+Clarity: 7
+Effectiveness: 7
+
+
+17_T2
+Informativeness: 7
+Clarity: 7
+Effectiveness: 7
+
+
+18_T2
+Informativeness: 3
+Clarity: 4
+Effectiveness: 5
+
+
+19_T2
+Informativeness: 5
+Clarity: 4
+Effectiveness: 4
+
+
+20_T2
+Informativeness: 6
+Clarity: 6
+Effectiveness: 7
+
+
+21_T2
+Informativeness: 5
+Clarity: 6
+Effectiveness: 7
+
+
+22_T2
+Informativeness: 7
+Clarity: 7
+Effectiveness: 7
+
+
+23_T2
+Informativeness: 6
+Clarity: 5
+Effectiveness: 6
+
+
+24_T2
+Informativeness: 6
+Clarity: 7
+Effectiveness: 7
+
+
+25_T2
+Informativeness: 7
+Clarity: 6
+Effectiveness: 7
+
+
+26_T2
+Informativeness: 7
+Clarity: 6
+Effectiveness: 7
+
+
+27_T2
+Informativeness: 7
+Clarity: 7
+Effectiveness: 7
+
+
+28_T2
+Informativeness: 6
+Clarity: 5
+Effectiveness: 7
+
+
+29_T2
+Informativeness: 6
+Clarity: 7
+Effectiveness: 7
+
+
+30_T2
+Informativeness: 6
+Clarity: 7
+Effectiveness: 6
+
+
+31_T2
+Informativeness: 5
+Clarity: 6
+Effectiveness: 5
+
+
+32_T2
+Informativeness: 5
+Clarity: 6
+Effectiveness: 5
+
+
+33_T2
+Informativeness: 7
+Clarity: 6
+Effectiveness: 7
+
+
+34_T2
+Informativeness: 5
+Clarity: 6
+Effectiveness: 7
+
+
+35_T2
+Informativeness: 3
+Clarity: 2
+Effectiveness: 4
+
+
+36_T2
+Informativeness: 5
+Clarity: 6
+Effectiveness: 7
+
+
+37_T2
+Informativeness: 7
+Clarity: 6
+Effectiveness: 7
+
+
+38_T2
+Informativeness: 6
+Clarity: 5
+Effectiveness: 6
+
+
+39_T2
+Informativeness: 5
+Clarity: 6
+Effectiveness: 4
+
+
+40_T2
+Informativeness: 7
+Clarity: 6
+Effectiveness: 7
+
+
+41_T2
+Informativeness: 7
+Clarity: 6
+Effectiveness: 7
+
+
+42_T2
+Informativeness: 6
+Clarity: 6
+Effectiveness: 7
+
+
+43_T2
+Informativeness: 6
+Clarity: 7
+Effectiveness: 7
+
+
+44_T2
+Informativeness: 6
+Clarity: 7
+Effectiveness: 7
+
+
+45_T2
+Informativeness: 7
+Clarity: 7
+Effectiveness: 7
+
+
+46_T2
+Informativeness: 7
+Clarity: 6
+Effectiveness: 7
+
+
+47_T2
+Informativeness: 7
+Clarity: 6
+Effectiveness: 7
+
+
+48_T2
+Informativeness: 7
+Clarity: 6
+Effectiveness: 7
+
+
+49_T2
+Informativeness: 2
+Clarity: 3
+Effectiveness: 3
+
+
+50_T2
+Informativeness: 7
+Clarity: 6
+Effectiveness: 7
+
+
+51_T2
+Informativeness: 6
+Clarity: 5
+Effectiveness: 7
+
+
+52_T2
+Informativeness: 6
+Clarity: 6
+Effectiveness: 7
+
+
+53_T2
+Informativeness: 4
+Clarity: 3
+Effectiveness: 2
+
+
+54_T2
+Informativeness: 7
+Clarity: 6
+Effectiveness: 7
+
+
+55_T2
+Informativeness: 6
+Clarity: 5
+Effectiveness: 6
+
+
+56_T2
+Informativeness: 7
+Clarity: 6
+Effectiveness: 7
+
+
+57_T2
+Informativeness: 6
+Clarity: 7
+Effectiveness: 7
+
+
+58_T2
+Informativeness: 7
+Clarity: 6
+Effectiveness: 7
+
+
+59_T2
+Informativeness: 7
+Clarity: 7
+Effectiveness: 7
+
+
+60_T2
+7, 6, 7
+
+
+61_T2
+Informativeness: 6
+Clarity: 5
+Effectiveness: 7
+
+
+62_T2
+Informativeness: 6
+Clarity: 5
+Effectiveness: 6
+
+
+63_T2
+Informativeness: 7
+Clarity: 7
+Effectiveness: 7
+
+
+64_T2
+Informativeness: 6
+Clarity: 7
+Effectiveness: 7
+
+
+65_T2
+Informativeness: 7
+Clarity: 7
+Effectiveness: 7
+
+
+66_T2
+Informativeness: 7
+Clarity: 6
+Effectiveness: 6
+
+
+67_T2
+Informativeness: 6
+Clarity: 7
+Effectiveness: 6
+
+
+68_T2
+Informativeness: 7
+Clarity: 6
+Effectiveness: 7
+
+
+69_T2
+Informativeness: 6
+Clarity: 5
+Effectiveness: 6
+
+
+70_T2
+Informativeness: 7
+Clarity: 7
+Effectiveness: 7
+
+
+71_T2
+Informativeness: 7
+Clarity: 7
+Effectiveness: 7
+
+
+72_T2
+Informativeness: 7
+Clarity: 6
+Effectiveness: 7
+
+
+73_T2
+Informativeness: 6
+Clarity: 7
+Effectiveness: 6
+
+
+74_T2
+Informativeness: 7
+Clarity: 6
+Effectiveness: 7
+
+
+75_T2
+Informativeness: 6
+Clarity: 7
+Effectiveness: 5
+
+
+76_T2
+Informativeness: 5
+Clarity: 6
+Effectiveness: 7
+
+
+77_T2
+Informativeness: 6
+Clarity: 7
+Effectiveness: 7
+
+
+78_T2
+Informativeness: 6
+Clarity: 7
+Effectiveness: 7
+
+
+79_T2
+Informativeness: 5
+Clarity: 5
+Effectiveness: 6
+
+
+80_T2
+Informativeness: 6
+Clarity: 6
+Effectiveness: 7
+
+
+81_T2
+Informativeness: 6
+Clarity: 5
+Effectiveness: 7
+
+
+82_T2
+Informativeness: 4
+Clarity: 5
+Effectiveness: 6
+
+
+83_T2
+Informativeness: 5
+Clarity: 6
+Effectiveness: 6
+
+
+84_T2
+Informativeness: 6
+Clarity: 5
+Effectiveness: 6
+
+
+85_T2
+Informativeness: 6
+Clarity: 6
+Effectiveness: 7
+
+
+86_T2
+Informativeness: 7
+Clarity: 7
+Effectiveness: 7
+
+
+87_T2
+Informativeness: 7
+Clarity: 6
+Effectiveness: 7
+
+
+88_T2
+Informativeness: 5
+Clarity: 6
+Effectiveness: 7
+
+
+89_T2
+Informativeness: 6
+Clarity: 6
+Effectiveness: 7
+
+
+90_T2
+Informativeness: 7
+Clarity: 6
+Effectiveness: 7
+
+
+91_T2
+Informativeness: 3
+Clarity: 4
+Effectiveness: 2
+
+
+92_T2
+Informativeness: 7
+Clarity: 6
+Effectiveness: 7
+
+
+93_T2
+Informativeness: 5
+Clarity: 6
+Effectiveness: 7
+
+
+94_T2
+Informativeness: 7
+Clarity: 6
+Effectiveness: 7
+
+
+95_T2
+Informativeness: 6
+Clarity: 6
+Effectiveness: 5
+
+
+96_T2
+Informativeness: 6
+Clarity: 5
+Effectiveness: 6
+
+
+97_T2
+Informativeness: 7
+Clarity: 6
+Effectiveness: 7
+
+
+98_T2
+Informativeness: 6
+Clarity: 7
+Effectiveness: 6
+
+
+99_T2
+Informativeness: 7
+Clarity: 6
+Effectiveness: 7
+
+
+100_T2
+Informativeness: 7
+Clarity: 7
+Effectiveness: 7
+
+
+101_T2
+Informativeness: 7
+Clarity: 6
+Effectiveness: 7
+

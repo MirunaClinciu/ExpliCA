@@ -1,0 +1,541 @@
+StartDate,EndDate,Progress,Duration (in seconds),Finished,RecordedDate,UserLanguage,C1,C2,C3,C4,C5,C6,ID,1_T1_1,1_T1_2,1_T1_3,1_T2,2_T1_1,2_T1_2,2_T1_3,2_T2,3_T1_1,3_T1_2,3_T1_3,3_T2,4_T1_1,4_T1_2,4_T1_3,4_T2,5_T1_1,5_T1_2,5_T1_3,5_T2,6_T1_1,6_T1_2,6_T1_3,6_T2,7_T1_1,7_T1_2,7_T1_3,7_T2,8_T1_1,8_T1_2,8_T1_3,8_T2,11_T1_1,11_T1_2,11_T1_3,11_T2,12_T1_1,12_T1_2,12_T1_3,12_T2,13_T1_1,13_T1_2,13_T1_3,13_T2,14_T1_1,14_T1_2,14_T1_3,14_T2,15_T1_1,15_T1_2,15_T1_3,15_T2,16_T1_1,16_T1_2,16_T1_3,16_T2,17_T1_1,17_T1_2,17_T1_3,17_T2,18_T1_1,18_T1_2,18_T1_3,18_T2,19_T1_1,19_T1_2,19_T1_3,19_T2,20_T1_1,20_T1_2,20_T1_3,20_T2,21_T1_1,21_T1_2,21_T1_3,21_T2,22_T1_1,22_T1_2,22_T1_3,22_T2
+Start Date,End Date,Progress,Duration (in seconds),Finished,Recorded Date,User Language,1. I confirm I have understood the information on the previous page about the study.,"2. I understand that my participation is voluntary, and that I can withdraw at any time without giving a reason. Withdrawing will not affect any of my rights.",3. I consent to my anonymised data being used in academic publications and presentations.,4. I understand that my anonymised data can be stored for a minimum of two years.,5. I am prepared to allow my data to be used in future ethically approved research.,6. I agree to take part in this study.,What is your Prolific ID ?,"Explanation:
+
+[Field-1] - It is time that lifestyle choices be called out as often as the media calls out anti-vaccine sentiments. Obesity, lack of exercise, poor sleep, and sunshine avoidance are the true causes of most people's health issues but because people are lazy they just want a shot to fix them. - 1","Explanation:
+
+[Field-1] - It is time that lifestyle choices be called out as often as the media calls out anti-vaccine sentiments. Obesity, lack of exercise, poor sleep, and sunshine avoidance are the true causes of most people's health issues but because people are lazy they just want a shot to fix them. - 2","Explanation:
+
+[Field-1] - It is time that lifestyle choices be called out as often as the media calls out anti-vaccine sentiments. Obesity, lack of exercise, poor sleep, and sunshine avoidance are the true causes of most people's health issues but because people are lazy they just want a shot to fix them. - 3","It is time that lifestyle choices be called out as often as the media calls out anti-vaccine sentiments. Obesity, lack of exercise, poor sleep, and sunshine avoidance are the true causes of most people's health issues but because people are lazy they just want a shot to fix them. - Your task:
+
+
+
+Original explanation:
+
+[Field-1]
+
+
+
+Concepts-Set:
+
+[Field-2]
+
+[Field-3]
+
+[Field-4]
+
+
+
+Please provide a better explanation that is informative, clear and effective.","Explanation:
+
+[Field-1] - Do you think?! This is like a no-brainer. This is why I'm so fucked up all the time, I don't sleep well at all. My therapist always says stressors and lack of sleep will cause mental health issues, she's been drilling it into me for years. - 1","Explanation:
+
+[Field-1] - Do you think?! This is like a no-brainer. This is why I'm so fucked up all the time, I don't sleep well at all. My therapist always says stressors and lack of sleep will cause mental health issues, she's been drilling it into me for years. - 2","Explanation:
+
+[Field-1] - Do you think?! This is like a no-brainer. This is why I'm so fucked up all the time, I don't sleep well at all. My therapist always says stressors and lack of sleep will cause mental health issues, she's been drilling it into me for years. - 3","Do you think?! This is like a no-brainer. This is why I'm so fucked up all the time, I don't sleep well at all. My therapist always says stressors and lack of sleep will cause mental health issues, she's been drilling it into me for years. - Your task:
+
+
+
+Original explanation:
+
+[Field-1]
+
+
+
+Concepts-Set:
+
+[Field-2]
+
+[Field-3]
+
+[Field-4]
+
+
+
+Please provide a better explanation that is informative, clear and effective.","Explanation:
+
+[Field-1] - 3) Using electronic devices such as smartphones, laptops, and other devices for extended periods can cause eye strain and affect mental health. It's essential to take breaks and reduce screen time to avoid these issues. - 1","Explanation:
+
+[Field-1] - 3) Using electronic devices such as smartphones, laptops, and other devices for extended periods can cause eye strain and affect mental health. It's essential to take breaks and reduce screen time to avoid these issues. - 2","Explanation:
+
+[Field-1] - 3) Using electronic devices such as smartphones, laptops, and other devices for extended periods can cause eye strain and affect mental health. It's essential to take breaks and reduce screen time to avoid these issues. - 3","3) Using electronic devices such as smartphones, laptops, and other devices for extended periods can cause eye strain and affect mental health. It's essential to take breaks and reduce screen time to avoid these issues. - Your task:
+
+
+
+Original explanation:
+
+[Field-1]
+
+
+
+Concepts-Set:
+
+[Field-2]
+
+[Field-3]
+
+[Field-4]
+
+
+
+Please provide a better explanation that is informative, clear and effective.","Explanation:
+
+[Field-1] - Looking at a computer screen for too long can cause digital eye strain. Plus, the blue light from electronic screens can disrupt your sleep patterns. Make sure to take breaks, rest your eyes, and stay away from devices before bedtime. - 1","Explanation:
+
+[Field-1] - Looking at a computer screen for too long can cause digital eye strain. Plus, the blue light from electronic screens can disrupt your sleep patterns. Make sure to take breaks, rest your eyes, and stay away from devices before bedtime. - 2","Explanation:
+
+[Field-1] - Looking at a computer screen for too long can cause digital eye strain. Plus, the blue light from electronic screens can disrupt your sleep patterns. Make sure to take breaks, rest your eyes, and stay away from devices before bedtime. - 3","Looking at a computer screen for too long can cause digital eye strain. Plus, the blue light from electronic screens can disrupt your sleep patterns. Make sure to take breaks, rest your eyes, and stay away from devices before bedtime. - Your task:
+
+
+
+Original explanation:
+
+[Field-1]
+
+
+
+Concepts-Set:
+
+[Field-2]
+
+[Field-3]
+
+[Field-4]
+
+
+
+Please provide a better explanation that is informative, clear and effective.","Explanation:
+
+[Field-1] - Blue light-blocking glasses are designed to protect your eyes from the harmful effects of blue light emitted by electronic devices such as computers, smartphones, and televisions. Blue light can cause eye strain, headaches, and disrupted sleep patterns. - 1","Explanation:
+
+[Field-1] - Blue light-blocking glasses are designed to protect your eyes from the harmful effects of blue light emitted by electronic devices such as computers, smartphones, and televisions. Blue light can cause eye strain, headaches, and disrupted sleep patterns. - 2","Explanation:
+
+[Field-1] - Blue light-blocking glasses are designed to protect your eyes from the harmful effects of blue light emitted by electronic devices such as computers, smartphones, and televisions. Blue light can cause eye strain, headaches, and disrupted sleep patterns. - 3","Blue light-blocking glasses are designed to protect your eyes from the harmful effects of blue light emitted by electronic devices such as computers, smartphones, and televisions. Blue light can cause eye strain, headaches, and disrupted sleep patterns. - Your task:
+
+
+
+Original explanation:
+
+[Field-1]
+
+
+
+Concepts-Set:
+
+[Field-2]
+
+[Field-3]
+
+[Field-4]
+
+
+
+Please provide a better explanation that is informative, clear and effective.","Explanation:
+
+[Field-1] - How about we talk about the rise in electronic entertainment (internet, gaming, phones, social media, movies, TV) leading to a more sedentary lifestyle? Coupled with the rising consumption of crap food. Then we are onto a real cause of obesity, stress and poor sleep patterns. - 1","Explanation:
+
+[Field-1] - How about we talk about the rise in electronic entertainment (internet, gaming, phones, social media, movies, TV) leading to a more sedentary lifestyle? Coupled with the rising consumption of crap food. Then we are onto a real cause of obesity, stress and poor sleep patterns. - 2","Explanation:
+
+[Field-1] - How about we talk about the rise in electronic entertainment (internet, gaming, phones, social media, movies, TV) leading to a more sedentary lifestyle? Coupled with the rising consumption of crap food. Then we are onto a real cause of obesity, stress and poor sleep patterns. - 3","How about we talk about the rise in electronic entertainment (internet, gaming, phones, social media, movies, TV) leading to a more sedentary lifestyle? Coupled with the rising consumption of crap food. Then we are onto a real cause of obesity, stress and poor sleep patterns. - Your task:
+
+
+
+Original explanation:
+
+[Field-1]
+
+
+
+Concepts-Set:
+
+[Field-2]
+
+[Field-3]
+
+[Field-4]
+
+
+
+Please provide a better explanation that is informative, clear and effective.","Explanation:
+
+[Field-1] - Too much unemployment will cause society to become overly dependent on subsidy funds!  - 1","Explanation:
+
+[Field-1] - Too much unemployment will cause society to become overly dependent on subsidy funds!  - 2","Explanation:
+
+[Field-1] - Too much unemployment will cause society to become overly dependent on subsidy funds!  - 3","Too much unemployment will cause society to become overly dependent on subsidy funds!  - Your task:
+
+
+
+Original explanation:
+
+[Field-1]
+
+
+
+Concepts-Set:
+
+[Field-2]
+
+[Field-3]
+
+[Field-4]
+
+
+
+Please provide a better explanation that is informative, clear and effective.","Explanation:
+
+[Field-1] - The cause of the climate crisis, burning fossil fuels, is also at the root cause of poor air quality and food sources. - 1","Explanation:
+
+[Field-1] - The cause of the climate crisis, burning fossil fuels, is also at the root cause of poor air quality and food sources. - 2","Explanation:
+
+[Field-1] - The cause of the climate crisis, burning fossil fuels, is also at the root cause of poor air quality and food sources. - 3","The cause of the climate crisis, burning fossil fuels, is also at the root cause of poor air quality and food sources. - Your task:
+
+
+
+Original explanation:
+
+[Field-1]
+
+
+
+Concepts-Set:
+
+[Field-2]
+
+[Field-3]
+
+[Field-4]
+
+
+
+Please provide a better explanation that is informative, clear and effective.","Explanation:
+
+[Field-1] - Extreme weather events driven by climate change can cause devastation and impact both indoor and outdoor air. For example, the CDC and US EPA suggest a link between more frequent and severe wildfires, smoke, and decreased air quality.  - 1","Explanation:
+
+[Field-1] - Extreme weather events driven by climate change can cause devastation and impact both indoor and outdoor air. For example, the CDC and US EPA suggest a link between more frequent and severe wildfires, smoke, and decreased air quality.  - 2","Explanation:
+
+[Field-1] - Extreme weather events driven by climate change can cause devastation and impact both indoor and outdoor air. For example, the CDC and US EPA suggest a link between more frequent and severe wildfires, smoke, and decreased air quality.  - 3","Extreme weather events driven by climate change can cause devastation and impact both indoor and outdoor air. For example, the CDC and US EPA suggest a link between more frequent and severe wildfires, smoke, and decreased air quality.  - Your task:
+
+
+
+Original explanation:
+
+[Field-1]
+
+
+
+Concepts-Set:
+
+[Field-2]
+
+[Field-3]
+
+[Field-4]
+
+
+
+Please provide a better explanation that is informative, clear and effective.","Explanation:
+
+[Field-1] - Severe drought can increase the risk of wildfires and dust storms, which contribute to worsening air quality. Poor air quality can both cause and exacerbate respiratory and cardiovascular disease, as fine particulate matter penetrates the lungs and bloodstream following inhalation. - 1","Explanation:
+
+[Field-1] - Severe drought can increase the risk of wildfires and dust storms, which contribute to worsening air quality. Poor air quality can both cause and exacerbate respiratory and cardiovascular disease, as fine particulate matter penetrates the lungs and bloodstream following inhalation. - 2","Explanation:
+
+[Field-1] - Severe drought can increase the risk of wildfires and dust storms, which contribute to worsening air quality. Poor air quality can both cause and exacerbate respiratory and cardiovascular disease, as fine particulate matter penetrates the lungs and bloodstream following inhalation. - 3","Severe drought can increase the risk of wildfires and dust storms, which contribute to worsening air quality. Poor air quality can both cause and exacerbate respiratory and cardiovascular disease, as fine particulate matter penetrates the lungs and bloodstream following inhalation. - Your task:
+
+
+
+Original explanation:
+
+[Field-1]
+
+
+
+Concepts-Set:
+
+[Field-2]
+
+[Field-3]
+
+[Field-4]
+
+
+
+Please provide a better explanation that is informative, clear and effective.","Explanation:
+
+[Field-1] - ""Poor air quality, which can be influenced by a variety of fumes, chemicals, and allergens, is arguably the leading cause of triggers for most asthmatics in urban areas"" - Ian Smith - 1","Explanation:
+
+[Field-1] - ""Poor air quality, which can be influenced by a variety of fumes, chemicals, and allergens, is arguably the leading cause of triggers for most asthmatics in urban areas"" - Ian Smith - 2","Explanation:
+
+[Field-1] - ""Poor air quality, which can be influenced by a variety of fumes, chemicals, and allergens, is arguably the leading cause of triggers for most asthmatics in urban areas"" - Ian Smith - 3","""Poor air quality, which can be influenced by a variety of fumes, chemicals, and allergens, is arguably the leading cause of triggers for most asthmatics in urban areas"" - Ian Smith - Your task:
+
+
+
+Original explanation:
+
+[Field-1]
+
+
+
+Concepts-Set:
+
+[Field-2]
+
+[Field-3]
+
+[Field-4]
+
+
+
+Please provide a better explanation that is informative, clear and effective.","Explanation:
+
+[Field-1] - As the arrow moves to the right, the air quality gets more and more unhealthy. If you are a member of a sensitive group, it may be harder for you to breathe when outdoors (or indoors). Air pollution can cause serious health problems: particulate matter, ozone ... - 1","Explanation:
+
+[Field-1] - As the arrow moves to the right, the air quality gets more and more unhealthy. If you are a member of a sensitive group, it may be harder for you to breathe when outdoors (or indoors). Air pollution can cause serious health problems: particulate matter, ozone ... - 2","Explanation:
+
+[Field-1] - As the arrow moves to the right, the air quality gets more and more unhealthy. If you are a member of a sensitive group, it may be harder for you to breathe when outdoors (or indoors). Air pollution can cause serious health problems: particulate matter, ozone ... - 3","As the arrow moves to the right, the air quality gets more and more unhealthy. If you are a member of a sensitive group, it may be harder for you to breathe when outdoors (or indoors). Air pollution can cause serious health problems: particulate matter, ozone ... - Your task:
+
+
+
+Original explanation:
+
+[Field-1]
+
+
+
+Concepts-Set:
+
+[Field-2]
+
+[Field-3]
+
+[Field-4]
+
+
+
+Please provide a better explanation that is informative, clear and effective.","Explanation:
+
+[Field-1] - Air quality is crucial when it comes to sleep. Research shows that poor indoor air quality affects respiratory organs and can thereby cause sleeping problems.  - 1","Explanation:
+
+[Field-1] - Air quality is crucial when it comes to sleep. Research shows that poor indoor air quality affects respiratory organs and can thereby cause sleeping problems.  - 2","Explanation:
+
+[Field-1] - Air quality is crucial when it comes to sleep. Research shows that poor indoor air quality affects respiratory organs and can thereby cause sleeping problems.  - 3","Air quality is crucial when it comes to sleep. Research shows that poor indoor air quality affects respiratory organs and can thereby cause sleeping problems.  - Your task:
+
+
+
+Original explanation:
+
+[Field-1]
+
+
+
+Concepts-Set:
+
+[Field-2]
+
+[Field-3]
+
+[Field-4]
+
+
+
+Please provide a better explanation that is informative, clear and effective.","Explanation:
+
+[Field-1] - There was a real concern when the pandemic hit that remote work was going to cause a drop in productivity.  - 1","Explanation:
+
+[Field-1] - There was a real concern when the pandemic hit that remote work was going to cause a drop in productivity.  - 2","Explanation:
+
+[Field-1] - There was a real concern when the pandemic hit that remote work was going to cause a drop in productivity.  - 3","There was a real concern when the pandemic hit that remote work was going to cause a drop in productivity.  - Your task:
+
+
+
+Original explanation:
+
+[Field-1]
+
+
+
+Concepts-Set:
+
+[Field-2]
+
+[Field-3]
+
+[Field-4]
+
+
+
+Please provide a better explanation that is informative, clear and effective.","Explanation:
+
+[Field-1] - This was my main long-term concern about the pandemic. Remote work (a good thing) would cause more workers to flock to suburban and exurban sprawl (a bad thing). We need more space in our homes to be able to work there. - 1","Explanation:
+
+[Field-1] - This was my main long-term concern about the pandemic. Remote work (a good thing) would cause more workers to flock to suburban and exurban sprawl (a bad thing). We need more space in our homes to be able to work there. - 2","Explanation:
+
+[Field-1] - This was my main long-term concern about the pandemic. Remote work (a good thing) would cause more workers to flock to suburban and exurban sprawl (a bad thing). We need more space in our homes to be able to work there. - 3","This was my main long-term concern about the pandemic. Remote work (a good thing) would cause more workers to flock to suburban and exurban sprawl (a bad thing). We need more space in our homes to be able to work there. - Your task:
+
+
+
+Original explanation:
+
+[Field-1]
+
+
+
+Concepts-Set:
+
+[Field-2]
+
+[Field-3]
+
+[Field-4]
+
+
+
+Please provide a better explanation that is informative, clear and effective.","Explanation:
+
+[Field-1] - As far as depression is concerned, Romo says, a multi-country review of studies measuring remote work’s impact on mental health for the 20 years prior to the pandemic indicated that remote work itself does not cause depression. - 1","Explanation:
+
+[Field-1] - As far as depression is concerned, Romo says, a multi-country review of studies measuring remote work’s impact on mental health for the 20 years prior to the pandemic indicated that remote work itself does not cause depression. - 2","Explanation:
+
+[Field-1] - As far as depression is concerned, Romo says, a multi-country review of studies measuring remote work’s impact on mental health for the 20 years prior to the pandemic indicated that remote work itself does not cause depression. - 3","As far as depression is concerned, Romo says, a multi-country review of studies measuring remote work’s impact on mental health for the 20 years prior to the pandemic indicated that remote work itself does not cause depression. - Your task:
+
+
+
+Original explanation:
+
+[Field-1]
+
+
+
+Concepts-Set:
+
+[Field-2]
+
+[Field-3]
+
+[Field-4]
+
+
+
+Please provide a better explanation that is informative, clear and effective.","Explanation:
+
+[Field-1] - The pandemic causes people without jobs to look elsewhere, or those who could work remotely, can have more choice. - 1","Explanation:
+
+[Field-1] - The pandemic causes people without jobs to look elsewhere, or those who could work remotely, can have more choice. - 2","Explanation:
+
+[Field-1] - The pandemic causes people without jobs to look elsewhere, or those who could work remotely, can have more choice. - 3","The pandemic causes people without jobs to look elsewhere, or those who could work remotely, can have more choice. - Your task:
+
+
+
+Original explanation:
+
+[Field-1]
+
+
+
+Concepts-Set:
+
+[Field-2]
+
+[Field-3]
+
+[Field-4]
+
+
+
+Please provide a better explanation that is informative, clear and effective.","Explanation:
+
+[Field-1] - These people claim that poverty and lack of education cause crime and then accuse the richest most educated people in the world of being the greatest criminals on this earth by the nature of their wealth. - 1","Explanation:
+
+[Field-1] - These people claim that poverty and lack of education cause crime and then accuse the richest most educated people in the world of being the greatest criminals on this earth by the nature of their wealth. - 2","Explanation:
+
+[Field-1] - These people claim that poverty and lack of education cause crime and then accuse the richest most educated people in the world of being the greatest criminals on this earth by the nature of their wealth. - 3","These people claim that poverty and lack of education cause crime and then accuse the richest most educated people in the world of being the greatest criminals on this earth by the nature of their wealth. - Your task:
+
+
+
+Original explanation:
+
+[Field-1]
+
+
+
+Concepts-Set:
+
+[Field-2]
+
+[Field-3]
+
+[Field-4]
+
+
+
+Please provide a better explanation that is informative, clear and effective.","Explanation:
+
+[Field-1] - Poor education on how to budget, and sort taxes and lack of education on household abilities like how to cook at home can cause poverty. If you can not do these simple things then you find yourself spending on takeaways and not budgeting properly. Better Education - Better Parents. - 1","Explanation:
+
+[Field-1] - Poor education on how to budget, and sort taxes and lack of education on household abilities like how to cook at home can cause poverty. If you can not do these simple things then you find yourself spending on takeaways and not budgeting properly. Better Education - Better Parents. - 2","Explanation:
+
+[Field-1] - Poor education on how to budget, and sort taxes and lack of education on household abilities like how to cook at home can cause poverty. If you can not do these simple things then you find yourself spending on takeaways and not budgeting properly. Better Education - Better Parents. - 3","Poor education on how to budget, and sort taxes and lack of education on household abilities like how to cook at home can cause poverty. If you can not do these simple things then you find yourself spending on takeaways and not budgeting properly. Better Education - Better Parents. - Your task:
+
+
+
+Original explanation:
+
+[Field-1]
+
+
+
+Concepts-Set:
+
+[Field-2]
+
+[Field-3]
+
+[Field-4]
+
+
+
+Please provide a better explanation that is informative, clear and effective.","Explanation:
+
+[Field-1] - That's not true. The largest cause of homelessness is poverty and the largest causes of poverty are shitty or no jobs and poor education. You don't really get a say in where you grow up going to school or what the job market looks like. - 1","Explanation:
+
+[Field-1] - That's not true. The largest cause of homelessness is poverty and the largest causes of poverty are shitty or no jobs and poor education. You don't really get a say in where you grow up going to school or what the job market looks like. - 2","Explanation:
+
+[Field-1] - That's not true. The largest cause of homelessness is poverty and the largest causes of poverty are shitty or no jobs and poor education. You don't really get a say in where you grow up going to school or what the job market looks like. - 3","That's not true. The largest cause of homelessness is poverty and the largest causes of poverty are shitty or no jobs and poor education. You don't really get a say in where you grow up going to school or what the job market looks like. - Your task:
+
+
+
+Original explanation:
+
+[Field-1]
+
+
+
+Concepts-Set:
+
+[Field-2]
+
+[Field-3]
+
+[Field-4]
+
+
+
+Please provide a better explanation that is informative, clear and effective."
+"{""ImportId"":""startDate"",""timeZone"":""Europe/London""}","{""ImportId"":""endDate"",""timeZone"":""Europe/London""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""Europe/London""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID6""}","{""ImportId"":""QID7""}","{""ImportId"":""QID8""}","{""ImportId"":""QID9""}","{""ImportId"":""QID10""}","{""ImportId"":""QID11""}","{""ImportId"":""QID41_TEXT""}","{""ImportId"":""1_QID30_1""}","{""ImportId"":""1_QID30_2""}","{""ImportId"":""1_QID30_3""}","{""ImportId"":""1_QID23_TEXT""}","{""ImportId"":""2_QID30_1""}","{""ImportId"":""2_QID30_2""}","{""ImportId"":""2_QID30_3""}","{""ImportId"":""2_QID23_TEXT""}","{""ImportId"":""3_QID30_1""}","{""ImportId"":""3_QID30_2""}","{""ImportId"":""3_QID30_3""}","{""ImportId"":""3_QID23_TEXT""}","{""ImportId"":""4_QID30_1""}","{""ImportId"":""4_QID30_2""}","{""ImportId"":""4_QID30_3""}","{""ImportId"":""4_QID23_TEXT""}","{""ImportId"":""5_QID30_1""}","{""ImportId"":""5_QID30_2""}","{""ImportId"":""5_QID30_3""}","{""ImportId"":""5_QID23_TEXT""}","{""ImportId"":""6_QID30_1""}","{""ImportId"":""6_QID30_2""}","{""ImportId"":""6_QID30_3""}","{""ImportId"":""6_QID23_TEXT""}","{""ImportId"":""7_QID30_1""}","{""ImportId"":""7_QID30_2""}","{""ImportId"":""7_QID30_3""}","{""ImportId"":""7_QID23_TEXT""}","{""ImportId"":""8_QID30_1""}","{""ImportId"":""8_QID30_2""}","{""ImportId"":""8_QID30_3""}","{""ImportId"":""8_QID23_TEXT""}","{""ImportId"":""11_QID30_1""}","{""ImportId"":""11_QID30_2""}","{""ImportId"":""11_QID30_3""}","{""ImportId"":""11_QID23_TEXT""}","{""ImportId"":""12_QID30_1""}","{""ImportId"":""12_QID30_2""}","{""ImportId"":""12_QID30_3""}","{""ImportId"":""12_QID23_TEXT""}","{""ImportId"":""13_QID30_1""}","{""ImportId"":""13_QID30_2""}","{""ImportId"":""13_QID30_3""}","{""ImportId"":""13_QID23_TEXT""}","{""ImportId"":""14_QID30_1""}","{""ImportId"":""14_QID30_2""}","{""ImportId"":""14_QID30_3""}","{""ImportId"":""14_QID23_TEXT""}","{""ImportId"":""15_QID30_1""}","{""ImportId"":""15_QID30_2""}","{""ImportId"":""15_QID30_3""}","{""ImportId"":""15_QID23_TEXT""}","{""ImportId"":""16_QID30_1""}","{""ImportId"":""16_QID30_2""}","{""ImportId"":""16_QID30_3""}","{""ImportId"":""16_QID23_TEXT""}","{""ImportId"":""17_QID30_1""}","{""ImportId"":""17_QID30_2""}","{""ImportId"":""17_QID30_3""}","{""ImportId"":""17_QID23_TEXT""}","{""ImportId"":""18_QID30_1""}","{""ImportId"":""18_QID30_2""}","{""ImportId"":""18_QID30_3""}","{""ImportId"":""18_QID23_TEXT""}","{""ImportId"":""19_QID30_1""}","{""ImportId"":""19_QID30_2""}","{""ImportId"":""19_QID30_3""}","{""ImportId"":""19_QID23_TEXT""}","{""ImportId"":""20_QID30_1""}","{""ImportId"":""20_QID30_2""}","{""ImportId"":""20_QID30_3""}","{""ImportId"":""20_QID23_TEXT""}","{""ImportId"":""21_QID30_1""}","{""ImportId"":""21_QID30_2""}","{""ImportId"":""21_QID30_3""}","{""ImportId"":""21_QID23_TEXT""}","{""ImportId"":""22_QID30_1""}","{""ImportId"":""22_QID30_2""}","{""ImportId"":""22_QID30_3""}","{""ImportId"":""22_QID23_TEXT""}"
+3/24/2024 12:13,3/24/2024 12:19,100,345,TRUE,3/24/2024 12:19,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,4444444444444444444444444444444444444,,,,,,,,,,,,1111111111111111111111111111111111111111111111111111111111111,,,,,,,,,,,,22222222222222222222222222222222222222222222222222,,,,,,,,,,,,333333333333333333333333333333333333,,,,,,,,,,,,55555555555555555555555555555555555555555555555,,,,,,,,,,,,
+3/24/2024 12:32,3/24/2024 12:40,100,477,TRUE,3/24/2024 12:40,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,5,5,6,Stressors and lack of sleep can cause metal health issues ,6,6,6,Electronic devices can cause eye strain and can affect metal health. ,,,,,,,,,6,6,6,Rise in electronic entertainment can lead to more sedentary lifestyle. ,6,6,6,Unemployment can cause society to be overly dependent on subsidy funds ,5,5,6,"Burning fossil fuels can cause climat crisis, poor quality od air and food. ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3/24/2024 12:30,3/24/2024 12:42,100,713,TRUE,3/24/2024 12:42,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,3,4,1,Mental health issues are frequently caused by stressors and a lack of sleep.,,,,,,,,,,,,,,,,,7,7,6,High unemployment can cause society to become overly dependent on subsidy funds.,7,6,7,"Climate crisis is caused by the burning of fossil fuels, leading to poor air quality and food sources",,,,,,,,,7,7,7,Poor air quality is the leading cause of triggers for most asthmatics.,,,,,,,,,,,,,,,,,,,,,,,,,6,3,5,Poverty and a lack of education is normally the cause of crimes commited.,,,,,,,,
+3/24/2024 12:31,3/24/2024 12:44,100,753,TRUE,3/24/2024 12:44,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,7,7,7,"Blue light-blocking glasses are designed to reduce the effects of blue light, emitted by electronic devices such as computers, smartphones, and televisions. By reducing blue light, they are thought to help with eye strain and headaches. They can also help sleep patterns, as blue light inhibits the production of melatonin, which the body uses to signal sleep.",,,,,,,,,,,,,7,7,7,"Climate change is driving extreme weather events around the world. Severe wildfires and the smoke they produce, not only causes large scale devastation local to the flames, but decreases air quality, both indoors and outdoors, wherever the smoke travels.",7,7,7,"Severe drought causes the land to dry out, increasing the risk of wildfires and dust storms. The smoke and fine particulate matter produced by wildfires or dust storms, penetrates the lungs and bloodstream following inhalation. These effects can not only worsen existing respiratory and cardiovascular diseases, but be the cause for them, in previously healthy individuals.",7,7,7,"Within urban areas, the leading cause of triggers for most asthmatics is poor air quality. Air quality in these environments is influenced by fumes, chemicals, and allergens",,,,,,,,,,,,,7,6,6,"My long-term concern during the pandemic was the effect remote work would have on where workers would live. Whilst remote work is beneficial for many, workers moving to suburban and exurban areas poses a problem to footfall in the city. Urban houses would need more space to properly facilitate remote working.",,,,,,,,,,,,,,,,,,,,
+3/24/2024 12:33,3/24/2024 12:49,100,943,TRUE,3/24/2024 12:49,EN,Yes,Yes,Yes,Yes,Yes,Yes,,6,7,7,Obesity in most cases is caused by incorrect lifestyles.,,,,,,,,,,,,,,,,,,,,,6,7,7,"In this vision, poverty is recognized as a multidimensional and complex problem linked not only to unemployment",6,7,7,The main cause of climate change is the greenhouse effect.,,,,,7,7,7,Climate change may also cause an increase in heavy rainfall and storms and increase the risk of flooding.,,,,,,,,,6,7,7,The air we breathe is important for our psychophysical well-being and allows us to sleep better.,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3/24/2024 12:44,3/24/2024 12:52,100,456,TRUE,3/24/2024 12:52,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,6,6,6,"Let's discuss how the increased use of electronic entertainment (TV, movies, social media, games, phones, and the internet) is contributing to a more sedentary way of living. along with the growing intake of junk food. Next, we will examine a plausible reason for obesity, stress, and irregular sleep habits.",6,6,6,An excessive rate of unemployment will make society unduly reliant on government subsidies!,,,,,,,,,,,,,6,6,6,"Poor air quality is probably the main source of triggers for the majority of asthmatics in metropolitan settings, as it can be affected by a wide range of pollutants, chemicals, and allergens.",,,,,7,6,6,"The quality of the air matters when it comes to sleeping. According to research, breathing organs are impacted by poor indoor air quality, which can lead to issues with sleeping.",,,,,,,,,6,6,6,Consuming highly processed foods on a regular basis may raise your risk of cardiovascular disease.,,,,,,,,,,,,,,,,
+3/24/2024 12:32,3/24/2024 12:55,100,1369,TRUE,3/24/2024 12:55,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,7,6,6,Stressors and lack of sleep are the cause of mental health issues.,,,,,6,7,7,"Looking at a computer screen and the blue light from the screen can cause digital eye strain and may cause problems with sleeping. To avoid it, take rest from any devices for some time and before bedtime.",,,,,,,,,6,7,6,A high level of unemployment will cause society to become overly dependent on subsidy funds.,,,,,,,,,,,,,6,6,6,Poor air quality is most likely a cause of triggers for most astmatics.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,6,"Most of the time homelessness is caused by poverty, and the cause of poverty is luck of jobs and poor education. You can't choose where you grow up, go to school and how job market looks like."
+3/24/2024 12:43,3/24/2024 12:56,100,790,TRUE,3/24/2024 12:56,EN,Yes,Yes,Yes,Yes,Yes,Yes,,5,4,3,"It's high time we give as much attention to lifestyle choices as we do to addressing anti-vaccine sentiments in the media. ⁤Obesity, sedentary lifestyles, inadequate sleep, and avoiding sunlight are often the underlying factors behind many health issues. Laziness causes people to seek quick fixes instead of addressing these root causes.",,,,,,,,,,,,,5,5,6,"Blue light-blocking glasses are specifically created to shield your eyes from bad effects of the blue light emitted by electronic gadgets like computers, smartphones, and TVs. This type of light has been linked to issues such as eye strain, headaches, and disturbances in sleep patterns.",,,,,,,,,,,,,,,,,7,5,6,"Prolonged periods of drought can escalate the likelihood of wildfires and dust storms, exacerbating air quality issues. This compromised air quality, laden with fine particulate matter, can infiltrate the respiratory system upon inhalation, heightening the risk of both respiratory and cardiovascular diseases.",,,,,,,,,5,6,6,"A critical factor influencing sleep quality is indoor air quality. Studies indicate that inadequate indoor air quality can impact the respiratory system, leading to potential sleeping difficulties.",,,,,,,,,5,5,5,"Regarding depression, Romo highlights findings from a comprehensive multi-country review spanning two decades before the pandemic. This review concluded that remote work, in and of itself, does not serve as a direct cause of depression.",,,,,,,,,,,,,,,,
+3/24/2024 12:45,3/24/2024 12:57,100,710,TRUE,3/24/2024 12:57,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,6,7,"Severe droughts can escalate wildfire and dust storm occurrences, crating poor air quality. This deterioration can cause respiratory and cardiovascular diseases due to the inhalation of fine particulate matter.",,,,,5,5,6,"As time goes by, the air quality decreases due to the high levels of contamination and so on. Air pollution can cause serious health problems that can be more dangerous if you already have respiratory pathologies. ",,,,,,,,,,,,,5,4,5,"Regarding depression, Romo states that a multi-country review of studies spanning the 20 years before the pandemic found that remote work alone does not cause depression.",3,2,3,"The pandemic causes people without jobs to look elsewhere, while those able to work remotely have greater flexibility.",,,,,5,5,6,"Poor education on budgeting, taxes, and household skills like cooking at home can lead to poverty. Without these skills, individuals may overspend on takeaways and struggle with proper budgeting. Better education and parental guidance are essential.",,,,
+3/24/2024 13:30,3/24/2024 13:45,100,876,TRUE,3/24/2024 13:45,EN,Yes,Yes,Yes,Yes,Yes,Yes,,5,3,4,"It is obvious that obesity, lack of exercise, poor sleep, and sunshine avoidance causes health issues. ",,,,,7,7,7,"Unless reducing screen time and taking breaks, electronic devices which requires long screen times can cause eye strain and mental health issues ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,3,3,"As air pollution gets higher, it is causing more health problems",,,,,,,,,,,,,6,3,3,Remote work does not cause depression. This statement was supported by a multi country review of studies measuring remote works impact on mental health. These studies cover 20 years prior the pandemic. ,,,,,,,,,,,,,6,6,6,"As a person is not always able to choose where to grow up and go to school, this situation almost always is the reason of poverty, which is also one of the main causes of homelessness. "
+3/24/2024 12:32,3/24/2024 13:49,100,4620,TRUE,3/24/2024 13:49,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,2,3,"People are too lazy to fix their mental health issues as they fail to make the correct lifestyle choices required to fix their mental health rather people fixate on issues such as obesity, lack of exercise, poor sleep, and sunshine avoidance.",,,,,,,,,,,,,,,,,5,3,6,Rise in electronic entertainment coupled with rising consumption of crap food leads to a sedentary lifestyle.,,,,,,,,,,,,,,,,,,,,,,,,,6,7,1,"Sleeping problems are caused by poor air quality, Research shows that poor indoor air quality affects respiratory organs.",,,,,,,,,,,,,1,1,1,"The pandemic causes people without jobs to look elsewhere, those with the ability to work remotely have more choice.",,,,,,,,,3,6,7,"The largest cause of homelessness is poverty. The largest cause of poverty is shitty or no jobs, The largest cause of unemployment or shitty jobs is poor education. The largest cause of poor education is the area where you are born which an individual has no control over."
+3/24/2024 13:31,3/24/2024 14:13,100,2553,TRUE,3/24/2024 14:13,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,7,7,7,Looking at a computer screen for a long time cause eye strain. It's a common problem faced by many people who spend a lot time starring at their computer screens. It is advisable to take breaks to rest your eyes.,,,,,7,7,7,"With the rise in electronic entertainment, we are spending more time sitting and less time being active. This has a negative effect on our health and well being.",,,,,,,,,,,,,7,7,7,It's not just uncomfortable but poor air quality can cause respiratory and cardiovascular disease. Wild fires and dust storm do cause air pollution.,7,7,7,Air pollution can be a major trigger for asthma. Studies have shown that people living in areas with poor air quality are more likely to experience asthma symptoms. ,7,7,7,"Air pollution can be a major cause of health problems. Inhaling polluted air can cause a variety of problems such as, respiratory issues, heart disease and even cancer.  ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3/24/2024 12:32,3/24/2024 12:32,67,20,FALSE,3/31/2024 13:32,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3/24/2024 12:32,3/24/2024 12:37,67,340,FALSE,3/31/2024 13:37,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,2,2,"Burning fossil fuels is the main cause of the climate crisis, leads to poor air quality, and through that to reduction of good quality food sources.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3/24/2024 12:33,3/24/2024 12:41,67,453,FALSE,3/31/2024 13:41,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,6,7,Drought increases the chances of respiratory and cardiovascular disease. Which is caused by poor air quality.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3/24/2024 12:30,3/24/2024 12:44,67,843,FALSE,3/31/2024 13:44,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,7,7,7,"Blue light from looking at a computer screen can cause digital eye strain. Make sure to take breaks, rest your eyes, and stay away from devices before bedtime ",7,7,7,"The effects of blue light are prevented by the use of blue light-blocking glasses. Blue light can cause eye strain, headaches, and disrupted sleep patterns.",,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,"Air pollution  can cause serious health problems, when you are a member of the sensitive group it may be harder to breathe when you are outside.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3/24/2024 12:38,3/24/2024 12:45,67,459,FALSE,3/31/2024 13:45,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3/24/2024 12:32,3/24/2024 12:54,67,1351,FALSE,3/31/2024 13:55,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

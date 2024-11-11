@@ -1,0 +1,462 @@
+StartDate,EndDate,Progress,Duration (in seconds),Finished,RecordedDate,UserLanguage,C1,C2,C3,C4,C5,C6,ID,1_T1_1,1_T1_2,1_T1_3,1_T2,2_T1_1,2_T1_2,2_T1_3,2_T2,3_T1_1,3_T1_2,3_T1_3,3_T2,4_T1_1,4_T1_2,4_T1_3,4_T2,5_T1_1,5_T1_2,5_T1_3,5_T2,6_T1_1,6_T1_2,6_T1_3,6_T2,7_T1_1,7_T1_2,7_T1_3,7_T2,8_T1_1,8_T1_2,8_T1_3,8_T2,10_T1_1,10_T1_2,10_T1_3,10_T2,12_T1_1,12_T1_2,12_T1_3,12_T2,13_T1_1,13_T1_2,13_T1_3,13_T2,15_T1_1,15_T1_2,15_T1_3,15_T2,16_T1_1,16_T1_2,16_T1_3,16_T2,17_T1_1,17_T1_2,17_T1_3,17_T2,18_T1_1,18_T1_2,18_T1_3,18_T2,19_T1_1,19_T1_2,19_T1_3,19_T2,20_T1_1,20_T1_2,20_T1_3,20_T2
+Start Date,End Date,Progress,Duration (in seconds),Finished,Recorded Date,User Language,1. I confirm I have understood the information on the previous page about the study.,"2. I understand that my participation is voluntary, and that I can withdraw at any time without giving a reason. Withdrawing will not affect any of my rights.",3. I consent to my anonymised data being used in academic publications and presentations.,4. I understand that my anonymised data can be stored for a minimum of two years.,5. I am prepared to allow my data to be used in future ethically approved research.,6. I agree to take part in this study.,What is your Prolific ID ?,"Explanation:
+
+[Field-1] - Category 4 Hurricane Eta is close to making landfall in Nicaragua. The slow-moving storm will cause very heavy rainfall, landslides, and intense winds. The storm will move very slowly this week and continue to cause flooding for several days in Nicaragua and Honduras. - 1","Explanation:
+
+[Field-1] - Category 4 Hurricane Eta is close to making landfall in Nicaragua. The slow-moving storm will cause very heavy rainfall, landslides, and intense winds. The storm will move very slowly this week and continue to cause flooding for several days in Nicaragua and Honduras. - 2","Explanation:
+
+[Field-1] - Category 4 Hurricane Eta is close to making landfall in Nicaragua. The slow-moving storm will cause very heavy rainfall, landslides, and intense winds. The storm will move very slowly this week and continue to cause flooding for several days in Nicaragua and Honduras. - 3","Category 4 Hurricane Eta is close to making landfall in Nicaragua. The slow-moving storm will cause very heavy rainfall, landslides, and intense winds. The storm will move very slowly this week and continue to cause flooding for several days in Nicaragua and Honduras. - Your task:
+
+
+
+Original explanation:
+
+[Field-1]
+
+
+
+Concepts-Set:
+
+[Field-2]
+
+[Field-3]
+
+[Field-4]
+
+
+
+Please provide a better explanation that is informative, clear and effective.","Explanation:
+
+[Field-1] - Prolonged periods of heavy rainfall training over the exact same area could cause a significant flooding event in isolated locations across the southeast Florida coast today and over the next several days, as a stationary front is situated over that region.  - 1","Explanation:
+
+[Field-1] - Prolonged periods of heavy rainfall training over the exact same area could cause a significant flooding event in isolated locations across the southeast Florida coast today and over the next several days, as a stationary front is situated over that region.  - 2","Explanation:
+
+[Field-1] - Prolonged periods of heavy rainfall training over the exact same area could cause a significant flooding event in isolated locations across the southeast Florida coast today and over the next several days, as a stationary front is situated over that region.  - 3","Prolonged periods of heavy rainfall training over the exact same area could cause a significant flooding event in isolated locations across the southeast Florida coast today and over the next several days, as a stationary front is situated over that region.  - Your task:
+
+
+
+Original explanation:
+
+[Field-1]
+
+
+
+Concepts-Set:
+
+[Field-2]
+
+[Field-3]
+
+[Field-4]
+
+
+
+Please provide a better explanation that is informative, clear and effective.","Explanation:
+
+[Field-1] - Several days of heavy rainfall across portions of southeastern Mexico and Central America could cause life-threatening flash floods and mudslides. - 1","Explanation:
+
+[Field-1] - Several days of heavy rainfall across portions of southeastern Mexico and Central America could cause life-threatening flash floods and mudslides. - 2","Explanation:
+
+[Field-1] - Several days of heavy rainfall across portions of southeastern Mexico and Central America could cause life-threatening flash floods and mudslides. - 3","Several days of heavy rainfall across portions of southeastern Mexico and Central America could cause life-threatening flash floods and mudslides. - Your task:
+
+
+
+Original explanation:
+
+[Field-1]
+
+
+
+Concepts-Set:
+
+[Field-2]
+
+[Field-3]
+
+[Field-4]
+
+
+
+Please provide a better explanation that is informative, clear and effective.","Explanation:
+
+[Field-1] - Drink tea before you sleep to clear your mind. Have a healthy snack before bed. Avoid having caffeine before sleep as it can cause insomnia. Have a consistent sleep schedule so as not to confuse your mind. - 1","Explanation:
+
+[Field-1] - Drink tea before you sleep to clear your mind. Have a healthy snack before bed. Avoid having caffeine before sleep as it can cause insomnia. Have a consistent sleep schedule so as not to confuse your mind. - 2","Explanation:
+
+[Field-1] - Drink tea before you sleep to clear your mind. Have a healthy snack before bed. Avoid having caffeine before sleep as it can cause insomnia. Have a consistent sleep schedule so as not to confuse your mind. - 3","Drink tea before you sleep to clear your mind. Have a healthy snack before bed. Avoid having caffeine before sleep as it can cause insomnia. Have a consistent sleep schedule so as not to confuse your mind. - Your task:
+
+
+
+Original explanation:
+
+[Field-1]
+
+
+
+Concepts-Set:
+
+[Field-2]
+
+[Field-3]
+
+[Field-4]
+
+
+
+Please provide a better explanation that is informative, clear and effective.","Explanation:
+
+[Field-1] - An irregular sleep schedule can cause irritability, drowsiness, mood swings, concentration and memory problems, headaches, and a decline in cognitive skills. - 1","Explanation:
+
+[Field-1] - An irregular sleep schedule can cause irritability, drowsiness, mood swings, concentration and memory problems, headaches, and a decline in cognitive skills. - 2","Explanation:
+
+[Field-1] - An irregular sleep schedule can cause irritability, drowsiness, mood swings, concentration and memory problems, headaches, and a decline in cognitive skills. - 3","An irregular sleep schedule can cause irritability, drowsiness, mood swings, concentration and memory problems, headaches, and a decline in cognitive skills. - Your task:
+
+
+
+Original explanation:
+
+[Field-1]
+
+
+
+Concepts-Set:
+
+[Field-2]
+
+[Field-3]
+
+[Field-4]
+
+
+
+Please provide a better explanation that is informative, clear and effective.","Explanation:
+
+[Field-1] - High levels of blood glucose can cause a range of symptoms, from exhaustion to heart disease. The only way to tackle diabetes is to incorporate a healthy diet plan along with regular exercise. - 1","Explanation:
+
+[Field-1] - High levels of blood glucose can cause a range of symptoms, from exhaustion to heart disease. The only way to tackle diabetes is to incorporate a healthy diet plan along with regular exercise. - 2","Explanation:
+
+[Field-1] - High levels of blood glucose can cause a range of symptoms, from exhaustion to heart disease. The only way to tackle diabetes is to incorporate a healthy diet plan along with regular exercise. - 3","High levels of blood glucose can cause a range of symptoms, from exhaustion to heart disease. The only way to tackle diabetes is to incorporate a healthy diet plan along with regular exercise. - Your task:
+
+
+
+Original explanation:
+
+[Field-1]
+
+
+
+Concepts-Set:
+
+[Field-2]
+
+[Field-3]
+
+[Field-4]
+
+
+
+Please provide a better explanation that is informative, clear and effective.","Explanation:
+
+[Field-1] - In 1985, Carl Sagan told Congress that continuing to burn fossil fuels would increase global temperatures, cause climate change, melt glaciers and ice sheets, and cause sea levels to rise. - 1","Explanation:
+
+[Field-1] - In 1985, Carl Sagan told Congress that continuing to burn fossil fuels would increase global temperatures, cause climate change, melt glaciers and ice sheets, and cause sea levels to rise. - 2","Explanation:
+
+[Field-1] - In 1985, Carl Sagan told Congress that continuing to burn fossil fuels would increase global temperatures, cause climate change, melt glaciers and ice sheets, and cause sea levels to rise. - 3","In 1985, Carl Sagan told Congress that continuing to burn fossil fuels would increase global temperatures, cause climate change, melt glaciers and ice sheets, and cause sea levels to rise. - Your task:
+
+
+
+Original explanation:
+
+[Field-1]
+
+
+
+Concepts-Set:
+
+[Field-2]
+
+[Field-3]
+
+[Field-4]
+
+
+
+Please provide a better explanation that is informative, clear and effective.","Explanation:
+
+[Field-1] - Why did our ancestors worship the sun? They knew of its power! It can change the earth, causing climate change, powerful storms, massive amounts of volcanic activity, and, oh yeah, warm the earth! Not everything is man-made; we are not that special! - 1","Explanation:
+
+[Field-1] - Why did our ancestors worship the sun? They knew of its power! It can change the earth, causing climate change, powerful storms, massive amounts of volcanic activity, and, oh yeah, warm the earth! Not everything is man-made; we are not that special! - 2","Explanation:
+
+[Field-1] - Why did our ancestors worship the sun? They knew of its power! It can change the earth, causing climate change, powerful storms, massive amounts of volcanic activity, and, oh yeah, warm the earth! Not everything is man-made; we are not that special! - 3","Why did our ancestors worship the sun? They knew of its power! It can change the earth, causing climate change, powerful storms, massive amounts of volcanic activity, and, oh yeah, warm the earth! Not everything is man-made; we are not that special! - Your task:
+
+
+
+Original explanation:
+
+[Field-1]
+
+
+
+Concepts-Set:
+
+[Field-2]
+
+[Field-3]
+
+[Field-4]
+
+
+
+Please provide a better explanation that is informative, clear and effective.","Explanation:
+
+[Field-1] - Exercise can contribute to more sound and restful sleep. Stress is a common cause of sleep problems. Regular exercise reduces stress and anxiety and generally improves sleep. Deep sleep helps boost immune function, support cardiac health, and control stress and anxiety. - 1","Explanation:
+
+[Field-1] - Exercise can contribute to more sound and restful sleep. Stress is a common cause of sleep problems. Regular exercise reduces stress and anxiety and generally improves sleep. Deep sleep helps boost immune function, support cardiac health, and control stress and anxiety. - 2","Explanation:
+
+[Field-1] - Exercise can contribute to more sound and restful sleep. Stress is a common cause of sleep problems. Regular exercise reduces stress and anxiety and generally improves sleep. Deep sleep helps boost immune function, support cardiac health, and control stress and anxiety. - 3","Exercise can contribute to more sound and restful sleep. Stress is a common cause of sleep problems. Regular exercise reduces stress and anxiety and generally improves sleep. Deep sleep helps boost immune function, support cardiac health, and control stress and anxiety. - Your task:
+
+
+
+Original explanation:
+
+[Field-1]
+
+
+
+Concepts-Set:
+
+[Field-2]
+
+[Field-3]
+
+[Field-4]
+
+
+
+Please provide a better explanation that is informative, clear and effective.","Explanation:
+
+[Field-1] - Exercise can keep weight, blood pressure, and cholesterol in check, staving off other health conditions that can hinder sleep. It also boosts energy levels during the day and can help give you more restful sleep. Exercise can also relieve stress, another major cause of insomnia. - 1","Explanation:
+
+[Field-1] - Exercise can keep weight, blood pressure, and cholesterol in check, staving off other health conditions that can hinder sleep. It also boosts energy levels during the day and can help give you more restful sleep. Exercise can also relieve stress, another major cause of insomnia. - 2","Explanation:
+
+[Field-1] - Exercise can keep weight, blood pressure, and cholesterol in check, staving off other health conditions that can hinder sleep. It also boosts energy levels during the day and can help give you more restful sleep. Exercise can also relieve stress, another major cause of insomnia. - 3","Exercise can keep weight, blood pressure, and cholesterol in check, staving off other health conditions that can hinder sleep. It also boosts energy levels during the day and can help give you more restful sleep. Exercise can also relieve stress, another major cause of insomnia. - Your task:
+
+
+
+Original explanation:
+
+[Field-1]
+
+
+
+Concepts-Set:
+
+[Field-2]
+
+[Field-3]
+
+[Field-4]
+
+
+
+Please provide a better explanation that is informative, clear and effective.","Explanation:
+
+[Field-1] - Warning! Exercise may cause increased energy, a good mood and extreme self-confidence. - 1","Explanation:
+
+[Field-1] - Warning! Exercise may cause increased energy, a good mood and extreme self-confidence. - 2","Explanation:
+
+[Field-1] - Warning! Exercise may cause increased energy, a good mood and extreme self-confidence. - 3","Warning! Exercise may cause increased energy, a good mood and extreme self-confidence. - Your task:
+
+
+
+Original explanation:
+
+[Field-1]
+
+
+
+Concepts-Set:
+
+[Field-2]
+
+[Field-3]
+
+[Field-4]
+
+
+
+Please provide a better explanation that is informative, clear and effective.","Explanation:
+
+[Field-1] - Climate change leads to global temperature rise, impacting ecosystems, weather patterns, and sea levels. This increase in temperature is driven by greenhouse gas emissions, affecting biodiversity, human health, and food security. Urgent action to reduce emissions and adapt to changing climate conditions is crucial for a sustainable future. - 1","Explanation:
+
+[Field-1] - Climate change leads to global temperature rise, impacting ecosystems, weather patterns, and sea levels. This increase in temperature is driven by greenhouse gas emissions, affecting biodiversity, human health, and food security. Urgent action to reduce emissions and adapt to changing climate conditions is crucial for a sustainable future. - 2","Explanation:
+
+[Field-1] - Climate change leads to global temperature rise, impacting ecosystems, weather patterns, and sea levels. This increase in temperature is driven by greenhouse gas emissions, affecting biodiversity, human health, and food security. Urgent action to reduce emissions and adapt to changing climate conditions is crucial for a sustainable future. - 3","Climate change leads to global temperature rise, impacting ecosystems, weather patterns, and sea levels. This increase in temperature is driven by greenhouse gas emissions, affecting biodiversity, human health, and food security. Urgent action to reduce emissions and adapt to changing climate conditions is crucial for a sustainable future. - Your task:
+
+
+
+Original explanation:
+
+[Field-1]
+
+
+
+Concepts-Set:
+
+[Field-2]
+
+[Field-3]
+
+[Field-4]
+
+
+
+Please provide a better explanation that is informative, clear and effective.","Explanation:
+
+[Field-1] - That's true; Milankovitch cycles and natural climate change can cause fluctuations in temperature, but we can observe a direct change in temperature linked to greenhouse gas emissions. Global temperatures have been rising since the beginning of the 20th century. - 1","Explanation:
+
+[Field-1] - That's true; Milankovitch cycles and natural climate change can cause fluctuations in temperature, but we can observe a direct change in temperature linked to greenhouse gas emissions. Global temperatures have been rising since the beginning of the 20th century. - 2","Explanation:
+
+[Field-1] - That's true; Milankovitch cycles and natural climate change can cause fluctuations in temperature, but we can observe a direct change in temperature linked to greenhouse gas emissions. Global temperatures have been rising since the beginning of the 20th century. - 3","That's true; Milankovitch cycles and natural climate change can cause fluctuations in temperature, but we can observe a direct change in temperature linked to greenhouse gas emissions. Global temperatures have been rising since the beginning of the 20th century. - Your task:
+
+
+
+Original explanation:
+
+[Field-1]
+
+
+
+Concepts-Set:
+
+[Field-2]
+
+[Field-3]
+
+[Field-4]
+
+
+
+Please provide a better explanation that is informative, clear and effective.","Explanation:
+
+[Field-1] - Limited to 1.5 degrees and greenhouse gas emissions that cause global warming should be reduced after reaching their peak in 2025 at the latest. If we do not reduce the greenhouse gas emissions that cause global warming and related climate change, the global temperature increase. - 1","Explanation:
+
+[Field-1] - Limited to 1.5 degrees and greenhouse gas emissions that cause global warming should be reduced after reaching their peak in 2025 at the latest. If we do not reduce the greenhouse gas emissions that cause global warming and related climate change, the global temperature increase. - 2","Explanation:
+
+[Field-1] - Limited to 1.5 degrees and greenhouse gas emissions that cause global warming should be reduced after reaching their peak in 2025 at the latest. If we do not reduce the greenhouse gas emissions that cause global warming and related climate change, the global temperature increase. - 3","Limited to 1.5 degrees and greenhouse gas emissions that cause global warming should be reduced after reaching their peak in 2025 at the latest. If we do not reduce the greenhouse gas emissions that cause global warming and related climate change, the global temperature increase. - Your task:
+
+
+
+Original explanation:
+
+[Field-1]
+
+
+
+Concepts-Set:
+
+[Field-2]
+
+[Field-3]
+
+[Field-4]
+
+
+
+Please provide a better explanation that is informative, clear and effective.","Explanation:
+
+[Field-1] - We need to talk about hormone health. It’s something everyone deals with. Yet, I never see people talking about the root cause behind hormone health: lack of sleep, poor lifestyle choices like bad eating or alcohol, medications. - 1","Explanation:
+
+[Field-1] - We need to talk about hormone health. It’s something everyone deals with. Yet, I never see people talking about the root cause behind hormone health: lack of sleep, poor lifestyle choices like bad eating or alcohol, medications. - 2","Explanation:
+
+[Field-1] - We need to talk about hormone health. It’s something everyone deals with. Yet, I never see people talking about the root cause behind hormone health: lack of sleep, poor lifestyle choices like bad eating or alcohol, medications. - 3","We need to talk about hormone health. It’s something everyone deals with. Yet, I never see people talking about the root cause behind hormone health: lack of sleep, poor lifestyle choices like bad eating or alcohol, medications. - Your task:
+
+
+
+Original explanation:
+
+[Field-1]
+
+
+
+Concepts-Set:
+
+[Field-2]
+
+[Field-3]
+
+[Field-4]
+
+
+
+Please provide a better explanation that is informative, clear and effective.","Explanation:
+
+[Field-1] - Is insomnia treatment necessary? Yes, insomnia treatment at the right time is important because a continuous lack of sleep can cause problems with memory, focus, and general mental health. - 1","Explanation:
+
+[Field-1] - Is insomnia treatment necessary? Yes, insomnia treatment at the right time is important because a continuous lack of sleep can cause problems with memory, focus, and general mental health. - 2","Explanation:
+
+[Field-1] - Is insomnia treatment necessary? Yes, insomnia treatment at the right time is important because a continuous lack of sleep can cause problems with memory, focus, and general mental health. - 3","Is insomnia treatment necessary? Yes, insomnia treatment at the right time is important because a continuous lack of sleep can cause problems with memory, focus, and general mental health. - Your task:
+
+
+
+Original explanation:
+
+[Field-1]
+
+
+
+Concepts-Set:
+
+[Field-2]
+
+[Field-3]
+
+[Field-4]
+
+
+
+Please provide a better explanation that is informative, clear and effective.","Explanation:
+
+[Field-1] - Do sleep though, lack of sleep for a long period could cause seizures and other health issues. Don’t hurt yourself by staying up for all hours. - 1","Explanation:
+
+[Field-1] - Do sleep though, lack of sleep for a long period could cause seizures and other health issues. Don’t hurt yourself by staying up for all hours. - 2","Explanation:
+
+[Field-1] - Do sleep though, lack of sleep for a long period could cause seizures and other health issues. Don’t hurt yourself by staying up for all hours. - 3","Do sleep though, lack of sleep for a long period could cause seizures and other health issues. Don’t hurt yourself by staying up for all hours. - Your task:
+
+
+
+Original explanation:
+
+[Field-1]
+
+
+
+Concepts-Set:
+
+[Field-2]
+
+[Field-3]
+
+[Field-4]
+
+
+
+Please provide a better explanation that is informative, clear and effective."
+"{""ImportId"":""startDate"",""timeZone"":""Europe/London""}","{""ImportId"":""endDate"",""timeZone"":""Europe/London""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""Europe/London""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID6""}","{""ImportId"":""QID7""}","{""ImportId"":""QID8""}","{""ImportId"":""QID9""}","{""ImportId"":""QID10""}","{""ImportId"":""QID11""}","{""ImportId"":""QID41_TEXT""}","{""ImportId"":""1_QID30_1""}","{""ImportId"":""1_QID30_2""}","{""ImportId"":""1_QID30_3""}","{""ImportId"":""1_QID23_TEXT""}","{""ImportId"":""2_QID30_1""}","{""ImportId"":""2_QID30_2""}","{""ImportId"":""2_QID30_3""}","{""ImportId"":""2_QID23_TEXT""}","{""ImportId"":""3_QID30_1""}","{""ImportId"":""3_QID30_2""}","{""ImportId"":""3_QID30_3""}","{""ImportId"":""3_QID23_TEXT""}","{""ImportId"":""4_QID30_1""}","{""ImportId"":""4_QID30_2""}","{""ImportId"":""4_QID30_3""}","{""ImportId"":""4_QID23_TEXT""}","{""ImportId"":""5_QID30_1""}","{""ImportId"":""5_QID30_2""}","{""ImportId"":""5_QID30_3""}","{""ImportId"":""5_QID23_TEXT""}","{""ImportId"":""6_QID30_1""}","{""ImportId"":""6_QID30_2""}","{""ImportId"":""6_QID30_3""}","{""ImportId"":""6_QID23_TEXT""}","{""ImportId"":""7_QID30_1""}","{""ImportId"":""7_QID30_2""}","{""ImportId"":""7_QID30_3""}","{""ImportId"":""7_QID23_TEXT""}","{""ImportId"":""8_QID30_1""}","{""ImportId"":""8_QID30_2""}","{""ImportId"":""8_QID30_3""}","{""ImportId"":""8_QID23_TEXT""}","{""ImportId"":""10_QID30_1""}","{""ImportId"":""10_QID30_2""}","{""ImportId"":""10_QID30_3""}","{""ImportId"":""10_QID23_TEXT""}","{""ImportId"":""12_QID30_1""}","{""ImportId"":""12_QID30_2""}","{""ImportId"":""12_QID30_3""}","{""ImportId"":""12_QID23_TEXT""}","{""ImportId"":""13_QID30_1""}","{""ImportId"":""13_QID30_2""}","{""ImportId"":""13_QID30_3""}","{""ImportId"":""13_QID23_TEXT""}","{""ImportId"":""15_QID30_1""}","{""ImportId"":""15_QID30_2""}","{""ImportId"":""15_QID30_3""}","{""ImportId"":""15_QID23_TEXT""}","{""ImportId"":""16_QID30_1""}","{""ImportId"":""16_QID30_2""}","{""ImportId"":""16_QID30_3""}","{""ImportId"":""16_QID23_TEXT""}","{""ImportId"":""17_QID30_1""}","{""ImportId"":""17_QID30_2""}","{""ImportId"":""17_QID30_3""}","{""ImportId"":""17_QID23_TEXT""}","{""ImportId"":""18_QID30_1""}","{""ImportId"":""18_QID30_2""}","{""ImportId"":""18_QID30_3""}","{""ImportId"":""18_QID23_TEXT""}","{""ImportId"":""19_QID30_1""}","{""ImportId"":""19_QID30_2""}","{""ImportId"":""19_QID30_3""}","{""ImportId"":""19_QID23_TEXT""}","{""ImportId"":""20_QID30_1""}","{""ImportId"":""20_QID30_2""}","{""ImportId"":""20_QID30_3""}","{""ImportId"":""20_QID23_TEXT""}"
+3/14/2024 14:06,3/14/2024 14:14,100,466,TRUE,3/14/2024 14:14,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,6,5,5,"If you have an irregular sleep schedule it can cause the following side effects: irritability, drowsiness, mood swings, concentration and memory problems, headaches and a decline in cognitive skills.",,,,,,,,,,,,,,,,,,,,,2,2,4,"This exercise may cause an increased energy, a good mood and extreme self confidence.",7,5,5,"Global temperature rise, impacting ecosystems, weather patterns and sea levels are all factors that lead to climate change.",,,,,,,,,5,4,5,"Lack of sleep, poor lifestyle choices like bad eating or alcohol and medications can cause your hormone health to deteriorate. ",5,5,,"Lack of sleep is problematic. It can cause problems with memory, focus and general mental health.",,,,
+3/14/2024 14:06,3/14/2024 14:21,100,872,TRUE,3/14/2024 14:21,EN,Yes,Yes,Yes,Yes,Yes,Yes,,5,3,5,"A storm has been set to causing a landfall in Nicaragua. This means Nicatagua will experience very heavy rainfall, landslides and intense winds. This will occur for several days ",,,,,6,6,6,several days of heavy rainfall in areas of southeastern Mexico and Central America is the leading cause of floods and mudslides. ,,,,,6,6,6,"If one is prone to irregular sleep patterns, they will experience irritability, drowsiness, mood swings, concentration and memory problems, headaches, and a decline in cognitive skills. ",,,,,,,,,,,,,6,7,7,Regular exercise is a great way of reducing stress and sleeping problems. The cause of mental and physical problems for many young adults is due to a lack of sleep. ,,,,,,,,,,,,,,,,,,,,,,,,,6,6,6,"Should one treat their insomnia? yes it is very necessary to urgently treat Ansonia because a lack of sleep means less productivity. There are also other problems that insomnia can cause such as loss of focus, memory and a decline in mental health ",,,,
+3/14/2024 14:06,3/14/2024 14:25,100,1143,TRUE,3/14/2024 14:25,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,7,7,7,"Avoid having caffeine before you sleep as it can cause insomnia, rather drink tea to clear your mind. Have a healthy snack before bed and keep to a consistent sleep schedule so you do not confuse your mind.",7,7,7,"Having an irregular sleep schedule can cause irritability, drowsiness, mood swings, concentration and memory problems, headaches as well as a decline in cognitive skills.",,,,,,,,,,,,,,,,,,,,,,,,,7,6,6,"Climate change leads to the rise in global temperature which impacts ecosystems, weather patterns, and sea levels. Greenhouse gas emissions is the cause of the increase in temperature and affects biodiversity, human health, and food security. Urgent action is needed to reduce emissions and adapting to the changing climate conditions is crucial for a sustainable future.",,,,,,,,,7,5,6,"Hormone health needs to be spoken about as it is something that everyone deals with. The root cause behind hormone health is the lack of sleep, poor lifestyle choices like bad eating or alcohol and medications yet i never see people talking about this. ",,,,,6,6,7,The lack of sleep for a long period could cause seizures and other health issues therefore you should sleep instead of harming yourself by staying up for all hours.
+3/14/2024 14:06,3/14/2024 14:34,100,1673,TRUE,3/14/2024 14:34,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,6,7,5,"It is not news that bad diet and minimum to non exercise can cause lot of health problems like diabetes , but it also cause high levels of blood glucose which cause  a big range of symptoms, from exhaustion to heart disease .You need to start act now for a better health and life!",,,,,,,,,,,,,7,7,6,Exercise is very beneficial for your health and latest studies have revealed that it relieves from stress and clear your mind which is one of the cause of insomnia ,6,6,4,"It is proven that exercise cause increased energy, a good mood and help you to have extreme self confidence ,so in the same time u work out your body u end up working on your soul as well!!",,,,,,,,,7,7,5,"We need to reduce the greenhouse gas emissions at the latest in 2025 cause they will reach their peak in 2025 ,otherwise the global warming and related climate change will get out of control and destroy the environment that we live in. It is very serious matter and we need to act now before its to late for our kids .",,,,,6,7,7,"Insomnia is very serious illness and people don't treat it as that .The problem is lack of sleep cause problems with memory ,focus and in general mental health problems are related to insomnia. ",,,,
+3/21/2024 20:44,3/21/2024 21:10,100,1528,TRUE,3/21/2024 21:10,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,,If we continue to burn fossil fuels at the current rate there will be a huge  increase in global temperatures.,,,,,7,7,7,One of the main factors that cause sleep problems is stress,,,,,,,,,,,,,6,5,7,The cause of fluctuations in temperature have been attributed to Milankovitch cycles and natural climate change.,5,,3,It is neccessary to reduce the greenhouse gas emissions that global warmig and related climate change.,,,,,7,7,7,"Lack of sleep can cause problems with memory, focus, and general mental health.",,,,
+3/21/2024 22:53,3/21/2024 22:59,100,365,TRUE,3/21/2024 22:59,EN,Yes,Yes,Yes,Yes,Yes,Yes,,6,5,7,"A slow moving storm will cause very heavy rainfall, landslides and intense winds",6,5,6,Long periods of heavy rainfall can cause flooding,,,,,,,,,,,,,,,,,,,,,3,3,3,"The sun has the ability to cause climate change, powerful storms, massive amounts of volcanic activity",,,,,,,,,5,3,2,"The benefits of exercise can cause increased energy, a good mood, extreme self confidence",,,,,,,,,,,,,5,3,3,"Improper hormone health are caused by lack of sleep, poor lifestyle choices like bad eating or alcohol, medications",,,,,,,,
+3/21/2024 22:51,3/21/2024 22:59,100,500,TRUE,3/21/2024 22:59,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,6,5,5,Insomnia can result from caffeine use too close to bedtime.,,,,,,,,,6,7,6,Burning fossil fuels may lead to increases in global temperatures.,2,2,3,"The sun and its affect on earth can cause climate change, powerful storms, and massive amounts of volcanic activity.",,,,,,,,,,,,,,,,,,,,,,,,,3,2,3,"Imbalanced hormone health may be caused by lack of sleep, poor lifestyle choices like bad eating or alcohol, or medications.",,,,,5,6,5,"Lack of sleep for extended periods of time may cause seizures and other health issues, so adequate sleep nightly is critical to your health."
+3/21/2024 22:50,3/21/2024 22:59,100,572,TRUE,3/21/2024 22:59,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,"Stress is a major cause of sleep problems which can impact one's daily life due to a lack of focus, poor reaction times, and a shortened temper. One way of improving sleep could be exercise, which releases endorphins to help you feel relaxed, as well as tiring you out.",6,6,5,"Exercise has several benefits for both your mental health, in the form of endorphin release which makes you happy, and in the form of physical benefits such as cardiovascular health thanks to exercising your heart. A lack of exercise can be a cause of insomnia, as the body feels less relaxed and less tired at the same time, impacting one's ability to settle down and sleep.",,,,,7,5,7,"Climate change leads to global temperature rise which causes habitat destruction and resource shortages, impacting ecosystems which reduces our biodiversity, weather patterns which can impact food production, and sea levels which can lead to the extinction of some species.",,,,,,,,,4,3,4,"Hormone health is an important talking point which affects everybody. The root cause of hormone problems could be lack of sleep, poor lifestyle choices like bad eating or alcohol, medications, among others.",5,6,7,"Timely insomnia treatment is important, as a lack of sleep over a long and continuous period of time can cause problems with memory, focus, and general mental health which impact one's daily life.",,,,
+3/21/2024 22:49,3/21/2024 23:00,100,668,TRUE,3/21/2024 23:00,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,4,7,4,"Irregular sleep schedule might cause irritability, drowsiness, mood swings, concentration and memory problems, headaches, and a decline in cognitive skills",,,,,6,5,6,"Continuing to burn fossil fuels could increase global temperatures, Carl Sagan says.",3,3,2,"Our ancestors treated the sun as a some kind of god. They knew how powerful it is and that it can cause climate change, powerful storms, massive amounts of volcanic activity.",,,,,,,,,,,,,7,5,6,"Climate change leads to global temperature rise, impacting ecosystems, weather patterns, and sea levels. It is necessary to limit greenhouse gas emissions to prevent this.",,,,,,,,,,,,,5,6,5,"It's necessary to treat insomnia because a constant lack of sleep can cause problems with memory, focus, and general mental health.",,,,
+3/21/2024 22:50,3/21/2024 23:01,100,619,TRUE,3/21/2024 23:01,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,6,5,6," Maintaining a regular sleep schedule results in many positive results, such as reduced irritability, mood swings, problems with concentration and memory, headaches and cognitive decline.",7,6,5,"An extremely important factor is taking care of the appropriate level of glucose in the blood, an increased amount causes many cardiac diseases and fatigue. It is important to maintain a healthy diet and regular exercise",,,,,,,,,,,,,,,,,6,6,4,"Frequent physical exercise contributes to increased energy, well-being and increased self-confidence",,,,,4,3,3,Milankovitch cycles and natural climate change can cause fluctuations in temperature,,,,,,,,,,,,,6,7,5," Sleep is very important, lack of it causes many health problems such as seizures"
+3/21/2024 22:51,3/21/2024 23:05,100,813,TRUE,3/21/2024 23:05,EN,Yes,Yes,Yes,Yes,Yes,Yes,,6,6,6,"Eta storm in Nicaragua and Honduras moving very slowly and will cause heavy rainfall, landslides, and intense winds",6,,5,A stationary front is situated over Florida Coast and prolonged periods of heavy rainfall could cause flooding,,,,,,,,,5,5,5,"Getting a irregular sleep schedule cause irritability, drowsiness, mood swings, concentration and memory problems, headaches, and a decline in cognitive skills",,,,,,,,,6,6,6,"The sun is power, it can start climate change, powerful storms, massive amounts of volcanic activity.",,,,,,,,,6,,5,"Benefits that exercise can cause: increased energy, a good mood, extreme self confidence",,,,,,,,,,,,,,,,,,,,,,,,
+3/21/2024 22:51,3/21/2024 23:10,100,1151,TRUE,3/21/2024 23:10,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,7,7,7,Several days of heavy rainfall can cause floods and mudslides across south eastern Mexico and central america,,,,,,,,,7,6,7,"High levels of blood glucose can cause a range of symptoms, from exhaustion to heat disease.",,,,,5,3,5,"the sun was worshipped because it has the power to cause climate change, powerful storms, massive amounts of volcanic activity.",,,,,7,7,6,"Exercise helps in keeping weight, high blood and cholesterol in check, which prevents the cause of insomnia",,,,,,,,,,,,,6,2,5,the greenhouse gas emmissions that cause global warning and related climatechange should be reduced.,,,,,,,,,,,,
+3/21/2024 22:50,3/21/2024 23:22,100,1921,TRUE,3/21/2024 23:22,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,7,7,7,"Having an irregular sleep schedule may cause issues such as irritability, drowsiness, mood swings, concentration and memory problems, headaches and a decline in cognitive skills. ",,,,,,,,,3,5,3,"From ancient times the sun was worshipped due to its ability to invoke change on the eath by causing climate change, powerful storms and massive amounts of volcanic activity while simultaneously warming the earth's surface.",,,,,6,6,5,Frequent exercise can hinder health conditions which prevent good sleep and may reduce stress which may be the cause of insomnia.,,,,,,,,,5,3,2,Milankovitch cycles and natural climate change cause fluctuations in temperature which can be attributable to the rise in global temperatures since the beginning of the 20th century.,,,,,6,5,3,"Hormone health must be spoken of more often as it is something that a vast majority of people deal with. Particular attention should be brought to the root cause behind bad homrone health, such as lack of sleep, poor lifestyle choices like bad eating or alcohol and medications. ",,,,,,,,
+3/22/2024 0:16,3/22/2024 0:23,100,432,TRUE,3/22/2024 0:23,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,5,6,5,Avoid caffeine as it can cause insomnia. Try a healthy alternative instead.,7,7,7,"Irregular sleep schedule can cause irritability, drowsiness, mood swings, concentration and memory problems, headaches, and a decline in cognitive skills",6,7,7,"High levels of bloof glucose can cause a range of symptoms, from exhaustion to heart disease. Therefore it is important to adopt a healthy style.",,,,,,,,,,,,,5,5,5,Exercise can help prevent insomnia by relieving stress.,,,,,,,,,,,,,,,,,,,,,,,,,6,7,7,Lack of sleep can cause seizures and other health issues.
+3/21/2024 22:36,3/21/2024 22:39,67,183,FALSE,3/28/2024 22:39,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3/21/2024 22:52,3/21/2024 22:58,67,384,FALSE,3/28/2024 22:58,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,5,"Insomnia treatment is important because a continued lack of sleep can cause problems with memory, focus and general mental health.",,,,
+3/21/2024 22:51,3/21/2024 22:58,67,406,FALSE,3/28/2024 22:58,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,6,,"We should talk about hormone health. While many deal with it I never see anyone talking about its root causes: lack if sleep, poor life styles choices like bad eating and alcohol, medications.",,,,,,,,

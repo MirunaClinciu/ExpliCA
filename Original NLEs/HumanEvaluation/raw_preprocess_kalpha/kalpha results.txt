@@ -1,0 +1,9 @@
+Krippendorff's Alpha (Before Outlier Removal):
+Krippendorff's alpha for Informativeness (Before): 0.2759190228721381
+Krippendorff's alpha for Clarity (Before): 0.3346849580551787
+Krippendorff's alpha for Effectiveness (Before): 0.18503984911836624
+
+Krippendorff's Alpha (After Outlier Removal):
+Krippendorff's alpha for Informativeness (After): 0.5578494623655914
+Krippendorff's alpha for Clarity (After): 0.6065698178664354
+Krippendorff's alpha for Effectiveness (After): 0.18914776210913553

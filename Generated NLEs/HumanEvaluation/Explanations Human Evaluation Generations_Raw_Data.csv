@@ -1,0 +1,762 @@
+StartDate,EndDate,Progress,Duration (in seconds),Finished,RecordedDate,UserLanguage,C1,C2,C3,C4,C5,C6,ID,1_T1_1,1_T1_2,1_T1_3,2_T1_1,2_T1_2,2_T1_3,3_T1_1,3_T1_2,3_T1_3,4_T1_1,4_T1_2,4_T1_3,5_T1_1,5_T1_2,5_T1_3,6_T1_1,6_T1_2,6_T1_3,7_T1_1,7_T1_2,7_T1_3,8_T1_1,8_T1_2,8_T1_3,9_T1_1,9_T1_2,9_T1_3,10_T1_1,10_T1_2,10_T1_3,11_T1_1,11_T1_2,11_T1_3,12_T1_1,12_T1_2,12_T1_3,13_T1_1,13_T1_2,13_T1_3,14_T1_1,14_T1_2,14_T1_3,15_T1_1,15_T1_2,15_T1_3,16_T1_1,16_T1_2,16_T1_3,17_T1_1,17_T1_2,17_T1_3,18_T1_1,18_T1_2,18_T1_3,19_T1_1,19_T1_2,19_T1_3,20_T1_1,20_T1_2,20_T1_3,21_T1_1,21_T1_2,21_T1_3,22_T1_1,22_T1_2,22_T1_3,23_T1_1,23_T1_2,23_T1_3,24_T1_1,24_T1_2,24_T1_3,25_T1_1,25_T1_2,25_T1_3,26_T1_1,26_T1_2,26_T1_3,27_T1_1,27_T1_2,27_T1_3,28_T1_1,28_T1_2,28_T1_3,29_T1_1,29_T1_2,29_T1_3,30_T1_1,30_T1_2,30_T1_3,31_T1_1,31_T1_2,31_T1_3,32_T1_1,32_T1_2,32_T1_3,33_T1_1,33_T1_2,33_T1_3,34_T1_1,34_T1_2,34_T1_3,35_T1_1,35_T1_2,35_T1_3,36_T1_1,36_T1_2,36_T1_3,37_T1_1,37_T1_2,37_T1_3,38_T1_1,38_T1_2,38_T1_3,39_T1_1,39_T1_2,39_T1_3,40_T1_1,40_T1_2,40_T1_3,41_T1_1,41_T1_2,41_T1_3,42_T1_1,42_T1_2,42_T1_3,43_T1_1,43_T1_2,43_T1_3,44_T1_1,44_T1_2,44_T1_3,45_T1_1,45_T1_2,45_T1_3,46_T1_1,46_T1_2,46_T1_3,47_T1_1,47_T1_2,47_T1_3,48_T1_1,48_T1_2,48_T1_3,49_T1_1,49_T1_2,49_T1_3,50_T1_1,50_T1_2,50_T1_3,51_T1_1,51_T1_2,51_T1_3,52_T1_1,52_T1_2,52_T1_3,53_T1_1,53_T1_2,53_T1_3,54_T1_1,54_T1_2,54_T1_3,55_T1_1,55_T1_2,55_T1_3,56_T1_1,56_T1_2,56_T1_3,57_T1_1,57_T1_2,57_T1_3,58_T1_1,58_T1_2,58_T1_3,59_T1_1,59_T1_2,59_T1_3,60_T1_1,60_T1_2,60_T1_3,61_T1_1,61_T1_2,61_T1_3,62_T1_1,62_T1_2,62_T1_3,63_T1_1,63_T1_2,63_T1_3,64_T1_1,64_T1_2,64_T1_3,65_T1_1,65_T1_2,65_T1_3,66_T1_1,66_T1_2,66_T1_3,67_T1_1,67_T1_2,67_T1_3,68_T1_1,68_T1_2,68_T1_3,69_T1_1,69_T1_2,69_T1_3,70_T1_1,70_T1_2,70_T1_3,71_T1_1,71_T1_2,71_T1_3,72_T1_1,72_T1_2,72_T1_3,73_T1_1,73_T1_2,73_T1_3,74_T1_1,74_T1_2,74_T1_3,75_T1_1,75_T1_2,75_T1_3,76_T1_1,76_T1_2,76_T1_3,77_T1_1,77_T1_2,77_T1_3,78_T1_1,78_T1_2,78_T1_3,79_T1_1,79_T1_2,79_T1_3,80_T1_1,80_T1_2,80_T1_3,81_T1_1,81_T1_2,81_T1_3,82_T1_1,82_T1_2,82_T1_3,83_T1_1,83_T1_2,83_T1_3,84_T1_1,84_T1_2,84_T1_3,85_T1_1,85_T1_2,85_T1_3,86_T1_1,86_T1_2,86_T1_3,87_T1_1,87_T1_2,87_T1_3,88_T1_1,88_T1_2,88_T1_3,89_T1_1,89_T1_2,89_T1_3,90_T1_1,90_T1_2,90_T1_3,91_T1_1,91_T1_2,91_T1_3,92_T1_1,92_T1_2,92_T1_3,93_T1_1,93_T1_2,93_T1_3,94_T1_1,94_T1_2,94_T1_3,95_T1_1,95_T1_2,95_T1_3,96_T1_1,96_T1_2,96_T1_3,97_T1_1,97_T1_2,97_T1_3,98_T1_1,98_T1_2,98_T1_3,99_T1_1,99_T1_2,99_T1_3,100_T1_1,100_T1_2,100_T1_3,101_T1_1,101_T1_2,101_T1_3
+Start Date,End Date,Progress,Duration (in seconds),Finished,Recorded Date,User Language,1. I confirm I have understood the information on the previous page about the study.,"2. I understand that my participation is voluntary, and that I can withdraw at any time without giving a reason. Withdrawing will not affect any of my rights.",3. I consent to my anonymised data being used in academic publications and presentations.,4. I understand that my anonymised data can be stored for a minimum of two years.,5. I am prepared to allow my data to be used in future ethically approved research.,6. I agree to take part in this study.,What is your Prolific ID ?,"Explanation:
+
+[Field-1] - Storms cause very heavy rainfall and intense winds, which can trigger landslides. - 1","Explanation:
+
+[Field-1] - Storms cause very heavy rainfall and intense winds, which can trigger landslides. - 2","Explanation:
+
+[Field-1] - Storms cause very heavy rainfall and intense winds, which can trigger landslides. - 3","Explanation:
+
+[Field-1] - Prolonged heavy rainfall saturates the ground, causing water to overflow and lead to flooding. - 1","Explanation:
+
+[Field-1] - Prolonged heavy rainfall saturates the ground, causing water to overflow and lead to flooding. - 2","Explanation:
+
+[Field-1] - Prolonged heavy rainfall saturates the ground, causing water to overflow and lead to flooding. - 3","Explanation:
+
+[Field-1] - Heavy rainfall for several days saturates the soil, causing floods and mudslides. - 1","Explanation:
+
+[Field-1] - Heavy rainfall for several days saturates the soil, causing floods and mudslides. - 2","Explanation:
+
+[Field-1] - Heavy rainfall for several days saturates the soil, causing floods and mudslides. - 3","Explanation:
+
+[Field-1] - Caffeine stimulates the nervous system, which can delay sleep onset and cause insomnia. - 1","Explanation:
+
+[Field-1] - Caffeine stimulates the nervous system, which can delay sleep onset and cause insomnia. - 2","Explanation:
+
+[Field-1] - Caffeine stimulates the nervous system, which can delay sleep onset and cause insomnia. - 3","Explanation:
+
+[Field-1] - An irregular sleep schedule disrupts natural circadian rhythms, leading to cognitive impairments and mood disturbances. - 1","Explanation:
+
+[Field-1] - An irregular sleep schedule disrupts natural circadian rhythms, leading to cognitive impairments and mood disturbances. - 2","Explanation:
+
+[Field-1] - An irregular sleep schedule disrupts natural circadian rhythms, leading to cognitive impairments and mood disturbances. - 3","Explanation:
+
+[Field-1] - High levels of blood glucose can damage organs and systems, leading to symptoms from exhaustion to heart disease. - 1","Explanation:
+
+[Field-1] - High levels of blood glucose can damage organs and systems, leading to symptoms from exhaustion to heart disease. - 2","Explanation:
+
+[Field-1] - High levels of blood glucose can damage organs and systems, leading to symptoms from exhaustion to heart disease. - 3","Explanation:
+
+[Field-1] - Burning fossil fuels releases greenhouse gases, which increase global temperatures. - 1","Explanation:
+
+[Field-1] - Burning fossil fuels releases greenhouse gases, which increase global temperatures. - 2","Explanation:
+
+[Field-1] - Burning fossil fuels releases greenhouse gases, which increase global temperatures. - 3","Explanation:
+
+[Field-1] - Increased volcanic activity releases gases, amplifying the greenhouse effect, which, intensified by solar radiation, exacerbates climate change and powerful storms. - 1","Explanation:
+
+[Field-1] - Increased volcanic activity releases gases, amplifying the greenhouse effect, which, intensified by solar radiation, exacerbates climate change and powerful storms. - 2","Explanation:
+
+[Field-1] - Increased volcanic activity releases gases, amplifying the greenhouse effect, which, intensified by solar radiation, exacerbates climate change and powerful storms. - 3","Explanation:
+
+[Field-1] - Stress triggers cortisol release, disrupting sleep patterns and causing sleep problems. - 1","Explanation:
+
+[Field-1] - Stress triggers cortisol release, disrupting sleep patterns and causing sleep problems. - 2","Explanation:
+
+[Field-1] - Stress triggers cortisol release, disrupting sleep patterns and causing sleep problems. - 3","Explanation:
+
+[Field-1] - Exercise close to bedtime can stimulate the body, causing insomnia. - 1","Explanation:
+
+[Field-1] - Exercise close to bedtime can stimulate the body, causing insomnia. - 2","Explanation:
+
+[Field-1] - Exercise close to bedtime can stimulate the body, causing insomnia. - 3","Explanation:
+
+[Field-1] - Regular exercise causes increased energy and a good mood, boosting extreme self-confidence. - 1","Explanation:
+
+[Field-1] - Regular exercise causes increased energy and a good mood, boosting extreme self-confidence. - 2","Explanation:
+
+[Field-1] - Regular exercise causes increased energy and a good mood, boosting extreme self-confidence. - 3","Explanation:
+
+[Field-1] - Climate change causes global temperature rise, which alters ecosystems, weather patterns, and increases sea levels. - 1","Explanation:
+
+[Field-1] - Climate change causes global temperature rise, which alters ecosystems, weather patterns, and increases sea levels. - 2","Explanation:
+
+[Field-1] - Climate change causes global temperature rise, which alters ecosystems, weather patterns, and increases sea levels. - 3","Explanation:
+
+[Field-1] - Milankovitch cycles alter Earth's solar radiation, causing natural temperature fluctuations. - 1","Explanation:
+
+[Field-1] - Milankovitch cycles alter Earth's solar radiation, causing natural temperature fluctuations. - 2","Explanation:
+
+[Field-1] - Milankovitch cycles alter Earth's solar radiation, causing natural temperature fluctuations. - 3","Explanation:
+
+[Field-1] - Greenhouse gas emissions trap heat in the atmosphere, causing global warming and subsequent climate change. - 1","Explanation:
+
+[Field-1] - Greenhouse gas emissions trap heat in the atmosphere, causing global warming and subsequent climate change. - 2","Explanation:
+
+[Field-1] - Greenhouse gas emissions trap heat in the atmosphere, causing global warming and subsequent climate change. - 3","Explanation:
+
+[Field-1] - Poor lifestyle choices and medications can disrupt hormone health by causing lack of sleep. - 1","Explanation:
+
+[Field-1] - Poor lifestyle choices and medications can disrupt hormone health by causing lack of sleep. - 2","Explanation:
+
+[Field-1] - Poor lifestyle choices and medications can disrupt hormone health by causing lack of sleep. - 3","Explanation:
+
+[Field-1] - Lack of sleep impairs brain function, causing memory, focus, and mental health issues. - 1","Explanation:
+
+[Field-1] - Lack of sleep impairs brain function, causing memory, focus, and mental health issues. - 2","Explanation:
+
+[Field-1] - Lack of sleep impairs brain function, causing memory, focus, and mental health issues. - 3","Explanation:
+
+[Field-1] - Lack of sleep can disrupt brain function, increasing the risk of seizures and other health issues. - 1","Explanation:
+
+[Field-1] - Lack of sleep can disrupt brain function, increasing the risk of seizures and other health issues. - 2","Explanation:
+
+[Field-1] - Lack of sleep can disrupt brain function, increasing the risk of seizures and other health issues. - 3","Explanation:
+
+[Field-1] - Lack of exercise, poor sleep, and sunshine avoidance contribute to obesity, leading to various health issues. - 1","Explanation:
+
+[Field-1] - Lack of exercise, poor sleep, and sunshine avoidance contribute to obesity, leading to various health issues. - 2","Explanation:
+
+[Field-1] - Lack of exercise, poor sleep, and sunshine avoidance contribute to obesity, leading to various health issues. - 3","Explanation:
+
+[Field-1] - Stressors and inadequate sleep can exacerbate mental health issues by impairing emotional regulation and cognitive function. - 1","Explanation:
+
+[Field-1] - Stressors and inadequate sleep can exacerbate mental health issues by impairing emotional regulation and cognitive function. - 2","Explanation:
+
+[Field-1] - Stressors and inadequate sleep can exacerbate mental health issues by impairing emotional regulation and cognitive function. - 3","Explanation:
+
+[Field-1] - Using electronic devices excessively causes eye strain and can negatively affect mental health. - 1","Explanation:
+
+[Field-1] - Using electronic devices excessively causes eye strain and can negatively affect mental health. - 2","Explanation:
+
+[Field-1] - Using electronic devices excessively causes eye strain and can negatively affect mental health. - 3","Explanation:
+
+[Field-1] - Looking at a computer screen for long periods causes digital eye strain. - 1","Explanation:
+
+[Field-1] - Looking at a computer screen for long periods causes digital eye strain. - 2","Explanation:
+
+[Field-1] - Looking at a computer screen for long periods causes digital eye strain. - 3","Explanation:
+
+[Field-1] - Blue light exposure causes eye strain and headaches, disrupting sleep patterns. - 1","Explanation:
+
+[Field-1] - Blue light exposure causes eye strain and headaches, disrupting sleep patterns. - 2","Explanation:
+
+[Field-1] - Blue light exposure causes eye strain and headaches, disrupting sleep patterns. - 3","Explanation:
+
+[Field-1] - Increased use of electronic entertainment promotes a sedentary lifestyle by reducing physical activity. - 1","Explanation:
+
+[Field-1] - Increased use of electronic entertainment promotes a sedentary lifestyle by reducing physical activity. - 2","Explanation:
+
+[Field-1] - Increased use of electronic entertainment promotes a sedentary lifestyle by reducing physical activity. - 3","Explanation:
+
+[Field-1] - High unemployment causes increased reliance on subsidies as more people need financial support. - 1","Explanation:
+
+[Field-1] - High unemployment causes increased reliance on subsidies as more people need financial support. - 2","Explanation:
+
+[Field-1] - High unemployment causes increased reliance on subsidies as more people need financial support. - 3","Explanation:
+
+[Field-1] - Burning fossil fuels releases greenhouse gases, worsening climate crisis and deteriorating air quality and food sources. - 1","Explanation:
+
+[Field-1] - Burning fossil fuels releases greenhouse gases, worsening climate crisis and deteriorating air quality and food sources. - 2","Explanation:
+
+[Field-1] - Burning fossil fuels releases greenhouse gases, worsening climate crisis and deteriorating air quality and food sources. - 3","Explanation:
+
+[Field-1] - Extreme weather events cause devastation by destroying infrastructure and disrupting ecosystems. - 1","Explanation:
+
+[Field-1] - Extreme weather events cause devastation by destroying infrastructure and disrupting ecosystems. - 2","Explanation:
+
+[Field-1] - Extreme weather events cause devastation by destroying infrastructure and disrupting ecosystems. - 3","Explanation:
+
+[Field-1] - Poor air quality causes respiratory and cardiovascular diseases by introducing harmful pollutants that damage lung and heart tissues. - 1","Explanation:
+
+[Field-1] - Poor air quality causes respiratory and cardiovascular diseases by introducing harmful pollutants that damage lung and heart tissues. - 2","Explanation:
+
+[Field-1] - Poor air quality causes respiratory and cardiovascular diseases by introducing harmful pollutants that damage lung and heart tissues. - 3","Explanation:
+
+[Field-1] - Poor air quality contains irritants that trigger asthma attacks in many asthmatics. - 1","Explanation:
+
+[Field-1] - Poor air quality contains irritants that trigger asthma attacks in many asthmatics. - 2","Explanation:
+
+[Field-1] - Poor air quality contains irritants that trigger asthma attacks in many asthmatics. - 3","Explanation:
+
+[Field-1] - Air pollution releases harmful chemicals, causing respiratory and cardiovascular diseases. - 1","Explanation:
+
+[Field-1] - Air pollution releases harmful chemicals, causing respiratory and cardiovascular diseases. - 2","Explanation:
+
+[Field-1] - Air pollution releases harmful chemicals, causing respiratory and cardiovascular diseases. - 3","Explanation:
+
+[Field-1] - Poor indoor air quality can lead to sleeping problems due to reduced oxygen levels and increased pollutants. - 1","Explanation:
+
+[Field-1] - Poor indoor air quality can lead to sleeping problems due to reduced oxygen levels and increased pollutants. - 2","Explanation:
+
+[Field-1] - Poor indoor air quality can lead to sleeping problems due to reduced oxygen levels and increased pollutants. - 3","Explanation:
+
+[Field-1] - Remote work can cause a drop in productivity due to increased distractions and less direct supervision. - 1","Explanation:
+
+[Field-1] - Remote work can cause a drop in productivity due to increased distractions and less direct supervision. - 2","Explanation:
+
+[Field-1] - Remote work can cause a drop in productivity due to increased distractions and less direct supervision. - 3","Explanation:
+
+[Field-1] - Remote work eliminates daily commutes, making suburban and exurban living more appealing to workers. - 1","Explanation:
+
+[Field-1] - Remote work eliminates daily commutes, making suburban and exurban living more appealing to workers. - 2","Explanation:
+
+[Field-1] - Remote work eliminates daily commutes, making suburban and exurban living more appealing to workers. - 3","Explanation:
+
+[Field-1] - Remote work does not inherently cause depression; factors like isolation and work-life balance are more influential. - 1","Explanation:
+
+[Field-1] - Remote work does not inherently cause depression; factors like isolation and work-life balance are more influential. - 2","Explanation:
+
+[Field-1] - Remote work does not inherently cause depression; factors like isolation and work-life balance are more influential. - 3","Explanation:
+
+[Field-1] - The pandemic led to job losses, forcing people to seek employment opportunities elsewhere. - 1","Explanation:
+
+[Field-1] - The pandemic led to job losses, forcing people to seek employment opportunities elsewhere. - 2","Explanation:
+
+[Field-1] - The pandemic led to job losses, forcing people to seek employment opportunities elsewhere. - 3","Explanation:
+
+[Field-1] - Poverty and lack of education lead to limited opportunities, prompting some to engage in crime as a survival strategy. - 1","Explanation:
+
+[Field-1] - Poverty and lack of education lead to limited opportunities, prompting some to engage in crime as a survival strategy. - 2","Explanation:
+
+[Field-1] - Poverty and lack of education lead to limited opportunities, prompting some to engage in crime as a survival strategy. - 3","Explanation:
+
+[Field-1] - Poor education limits job opportunities, leading to poverty. - 1","Explanation:
+
+[Field-1] - Poor education limits job opportunities, leading to poverty. - 2","Explanation:
+
+[Field-1] - Poor education limits job opportunities, leading to poverty. - 3","Explanation:
+
+[Field-1] - Poverty limits access to stable housing, leading to homelessness. - 1","Explanation:
+
+[Field-1] - Poverty limits access to stable housing, leading to homelessness. - 2","Explanation:
+
+[Field-1] - Poverty limits access to stable housing, leading to homelessness. - 3","Explanation:
+
+[Field-1] - Social media spreads misinformation due to its rapid sharing capabilities. - 1","Explanation:
+
+[Field-1] - Social media spreads misinformation due to its rapid sharing capabilities. - 2","Explanation:
+
+[Field-1] - Social media spreads misinformation due to its rapid sharing capabilities. - 3","Explanation:
+
+[Field-1] - Social media spread misinformation, exacerbating divisions and eroding societal trust. - 1","Explanation:
+
+[Field-1] - Social media spread misinformation, exacerbating divisions and eroding societal trust. - 2","Explanation:
+
+[Field-1] - Social media spread misinformation, exacerbating divisions and eroding societal trust. - 3","Explanation:
+
+[Field-1] - Cars increase in number, causing congestion and traffic jams. - 1","Explanation:
+
+[Field-1] - Cars increase in number, causing congestion and traffic jams. - 2","Explanation:
+
+[Field-1] - Cars increase in number, causing congestion and traffic jams. - 3","Explanation:
+
+[Field-1] - Poverty decreases as education and skill development lead to economic growth and effective population control strategies. - 1","Explanation:
+
+[Field-1] - Poverty decreases as education and skill development lead to economic growth and effective population control strategies. - 2","Explanation:
+
+[Field-1] - Poverty decreases as education and skill development lead to economic growth and effective population control strategies. - 3","Explanation:
+
+[Field-1] - Heavy rain increases water levels, which then flood and damage vulnerable low-lying areas. - 1","Explanation:
+
+[Field-1] - Heavy rain increases water levels, which then flood and damage vulnerable low-lying areas. - 2","Explanation:
+
+[Field-1] - Heavy rain increases water levels, which then flood and damage vulnerable low-lying areas. - 3","Explanation:
+
+[Field-1] - Disasters cause immeasurable financial loss and loss of life due to their destructive impact on communities and infrastructure. - 1","Explanation:
+
+[Field-1] - Disasters cause immeasurable financial loss and loss of life due to their destructive impact on communities and infrastructure. - 2","Explanation:
+
+[Field-1] - Disasters cause immeasurable financial loss and loss of life due to their destructive impact on communities and infrastructure. - 3","Explanation:
+
+[Field-1] - Deforestation reduces trees that absorb CO2, increasing greenhouse gases and causing climate change. - 1","Explanation:
+
+[Field-1] - Deforestation reduces trees that absorb CO2, increasing greenhouse gases and causing climate change. - 2","Explanation:
+
+[Field-1] - Deforestation reduces trees that absorb CO2, increasing greenhouse gases and causing climate change. - 3","Explanation:
+
+[Field-1] - Agriculture expansion causes deforestation, leading to climate change and loss of wildlife. - 1","Explanation:
+
+[Field-1] - Agriculture expansion causes deforestation, leading to climate change and loss of wildlife. - 2","Explanation:
+
+[Field-1] - Agriculture expansion causes deforestation, leading to climate change and loss of wildlife. - 3","Explanation:
+
+[Field-1] - Animal agriculture leads to deforestation for grazing and feed crops, reducing biodiversity, polluting water, creating marine debris and ocean dead - 1","Explanation:
+
+[Field-1] - Animal agriculture leads to deforestation for grazing and feed crops, reducing biodiversity, polluting water, creating marine debris and ocean dead - 2","Explanation:
+
+[Field-1] - Animal agriculture leads to deforestation for grazing and feed crops, reducing biodiversity, polluting water, creating marine debris and ocean dead - 3","Explanation:
+
+[Field-1] - Global food systems expand agriculture, leading to habitat destruction and terrestrial biodiversity loss. - 1","Explanation:
+
+[Field-1] - Global food systems expand agriculture, leading to habitat destruction and terrestrial biodiversity loss. - 2","Explanation:
+
+[Field-1] - Global food systems expand agriculture, leading to habitat destruction and terrestrial biodiversity loss. - 3","Explanation:
+
+[Field-1] - Inadequate sanitation, hygiene, and drinking water lead to disease, worsening poverty and living standards. - 1","Explanation:
+
+[Field-1] - Inadequate sanitation, hygiene, and drinking water lead to disease, worsening poverty and living standards. - 2","Explanation:
+
+[Field-1] - Inadequate sanitation, hygiene, and drinking water lead to disease, worsening poverty and living standards. - 3","Explanation:
+
+[Field-1] - Lack of clean water and food leads to malnutrition and contamination, causing diseases. - 1","Explanation:
+
+[Field-1] - Lack of clean water and food leads to malnutrition and contamination, causing diseases. - 2","Explanation:
+
+[Field-1] - Lack of clean water and food leads to malnutrition and contamination, causing diseases. - 3","Explanation:
+
+[Field-1] - Active volcanoes can erupt, displacing large water volumes and causing tsunamis. - 1","Explanation:
+
+[Field-1] - Active volcanoes can erupt, displacing large water volumes and causing tsunamis. - 2","Explanation:
+
+[Field-1] - Active volcanoes can erupt, displacing large water volumes and causing tsunamis. - 3","Explanation:
+
+[Field-1] - A destructive ice storm, powerful earthquake, severe wind storm, or solar flare can damage or destroy utility infrastructure, leading to - 1","Explanation:
+
+[Field-1] - A destructive ice storm, powerful earthquake, severe wind storm, or solar flare can damage or destroy utility infrastructure, leading to - 2","Explanation:
+
+[Field-1] - A destructive ice storm, powerful earthquake, severe wind storm, or solar flare can damage or destroy utility infrastructure, leading to - 3","Explanation:
+
+[Field-1] - Disruption of infrastructure limits resources, leading to deaths and injuries due to inadequate services. - 1","Explanation:
+
+[Field-1] - Disruption of infrastructure limits resources, leading to deaths and injuries due to inadequate services. - 2","Explanation:
+
+[Field-1] - Disruption of infrastructure limits resources, leading to deaths and injuries due to inadequate services. - 3","Explanation:
+
+[Field-1] - Renewables generate energy without burning fossil fuels, thus causing less emissions. - 1","Explanation:
+
+[Field-1] - Renewables generate energy without burning fossil fuels, thus causing less emissions. - 2","Explanation:
+
+[Field-1] - Renewables generate energy without burning fossil fuels, thus causing less emissions. - 3","Explanation:
+
+[Field-1] - Bees pollinate plants; without bees, plants fail to reproduce, leading to their withering and death. - 1","Explanation:
+
+[Field-1] - Bees pollinate plants; without bees, plants fail to reproduce, leading to their withering and death. - 2","Explanation:
+
+[Field-1] - Bees pollinate plants; without bees, plants fail to reproduce, leading to their withering and death. - 3","Explanation:
+
+[Field-1] - Wind turbine farms generate noise and vibrations, disrupting whale communication and navigation, leading to increased mortality. - 1","Explanation:
+
+[Field-1] - Wind turbine farms generate noise and vibrations, disrupting whale communication and navigation, leading to increased mortality. - 2","Explanation:
+
+[Field-1] - Wind turbine farms generate noise and vibrations, disrupting whale communication and navigation, leading to increased mortality. - 3","Explanation:
+
+[Field-1] - Free radical damage and oxidative stress accelerate cellular aging by damaging DNA and proteins. - 1","Explanation:
+
+[Field-1] - Free radical damage and oxidative stress accelerate cellular aging by damaging DNA and proteins. - 2","Explanation:
+
+[Field-1] - Free radical damage and oxidative stress accelerate cellular aging by damaging DNA and proteins. - 3","Explanation:
+
+[Field-1] - Shaking causes landslides by destabilizing rocks and soil, pushing them downhill. - 1","Explanation:
+
+[Field-1] - Shaking causes landslides by destabilizing rocks and soil, pushing them downhill. - 2","Explanation:
+
+[Field-1] - Shaking causes landslides by destabilizing rocks and soil, pushing them downhill. - 3","Explanation:
+
+[Field-1] - Tsunamis, giant ocean waves caused by underwater earthquakes, lead to great destruction and casualties on coastal areas. - 1","Explanation:
+
+[Field-1] - Tsunamis, giant ocean waves caused by underwater earthquakes, lead to great destruction and casualties on coastal areas. - 2","Explanation:
+
+[Field-1] - Tsunamis, giant ocean waves caused by underwater earthquakes, lead to great destruction and casualties on coastal areas. - 3","Explanation:
+
+[Field-1] - The next new moon causes an eclipse by aligning directly between Earth and the Sun. - 1","Explanation:
+
+[Field-1] - The next new moon causes an eclipse by aligning directly between Earth and the Sun. - 2","Explanation:
+
+[Field-1] - The next new moon causes an eclipse by aligning directly between Earth and the Sun. - 3","Explanation:
+
+[Field-1] - The moon causes an eclipse by blocking the sun's light. - 1","Explanation:
+
+[Field-1] - The moon causes an eclipse by blocking the sun's light. - 2","Explanation:
+
+[Field-1] - The moon causes an eclipse by blocking the sun's light. - 3","Explanation:
+
+[Field-1] - Water acts as a prism, refracting light into different wavelengths, resulting in a spectrum of colors. - 1","Explanation:
+
+[Field-1] - Water acts as a prism, refracting light into different wavelengths, resulting in a spectrum of colors. - 2","Explanation:
+
+[Field-1] - Water acts as a prism, refracting light into different wavelengths, resulting in a spectrum of colors. - 3","Explanation:
+
+[Field-1] - Uranium's atomic structure absorbs and re-emits light, altering its wavelength. - 1","Explanation:
+
+[Field-1] - Uranium's atomic structure absorbs and re-emits light, altering its wavelength. - 2","Explanation:
+
+[Field-1] - Uranium's atomic structure absorbs and re-emits light, altering its wavelength. - 3","Explanation:
+
+[Field-1] - Very small water droplets in the air cause fog by scattering light. - 1","Explanation:
+
+[Field-1] - Very small water droplets in the air cause fog by scattering light. - 2","Explanation:
+
+[Field-1] - Very small water droplets in the air cause fog by scattering light. - 3","Explanation:
+
+[Field-1] - Goosebumps occur because hair muscles contract in response to cold or fear. - 1","Explanation:
+
+[Field-1] - Goosebumps occur because hair muscles contract in response to cold or fear. - 2","Explanation:
+
+[Field-1] - Goosebumps occur because hair muscles contract in response to cold or fear. - 3","Explanation:
+
+[Field-1] - Muscles contract, pulling on hair follicles, causing goosebumps. - 1","Explanation:
+
+[Field-1] - Muscles contract, pulling on hair follicles, causing goosebumps. - 2","Explanation:
+
+[Field-1] - Muscles contract, pulling on hair follicles, causing goosebumps. - 3","Explanation:
+
+[Field-1] - Solar storms emit charged particles that interact with Earth's magnetic field, causing auroras. - 1","Explanation:
+
+[Field-1] - Solar storms emit charged particles that interact with Earth's magnetic field, causing auroras. - 2","Explanation:
+
+[Field-1] - Solar storms emit charged particles that interact with Earth's magnetic field, causing auroras. - 3","Explanation:
+
+[Field-1] - Changes in the body's chemistry can cause effects similar to hormonal imbalances. - 1","Explanation:
+
+[Field-1] - Changes in the body's chemistry can cause effects similar to hormonal imbalances. - 2","Explanation:
+
+[Field-1] - Changes in the body's chemistry can cause effects similar to hormonal imbalances. - 3","Explanation:
+
+[Field-1] - Lack of sleep impairs cognitive function and hormone regulation, leading to memory problems, increased risk of heart attacks, strokes, diabetes, - 1","Explanation:
+
+[Field-1] - Lack of sleep impairs cognitive function and hormone regulation, leading to memory problems, increased risk of heart attacks, strokes, diabetes, - 2","Explanation:
+
+[Field-1] - Lack of sleep impairs cognitive function and hormone regulation, leading to memory problems, increased risk of heart attacks, strokes, diabetes, - 3","Explanation:
+
+[Field-1] - Depression can be caused by a poor diet, disrupted sleep patterns, and excessive social media use, leading to emotional and - 1","Explanation:
+
+[Field-1] - Depression can be caused by a poor diet, disrupted sleep patterns, and excessive social media use, leading to emotional and - 2","Explanation:
+
+[Field-1] - Depression can be caused by a poor diet, disrupted sleep patterns, and excessive social media use, leading to emotional and - 3","Explanation:
+
+[Field-1] - Listening to music causes the brain to release dopamine, enhancing pleasure. - 1","Explanation:
+
+[Field-1] - Listening to music causes the brain to release dopamine, enhancing pleasure. - 2","Explanation:
+
+[Field-1] - Listening to music causes the brain to release dopamine, enhancing pleasure. - 3","Explanation:
+
+[Field-1] - Listening to music releases dopamine, causing feelings of pleasure. - 1","Explanation:
+
+[Field-1] - Listening to music releases dopamine, causing feelings of pleasure. - 2","Explanation:
+
+[Field-1] - Listening to music releases dopamine, causing feelings of pleasure. - 3","Explanation:
+
+[Field-1] - Listening to music causes the brain to release dopamine, enhancing mood. - 1","Explanation:
+
+[Field-1] - Listening to music causes the brain to release dopamine, enhancing mood. - 2","Explanation:
+
+[Field-1] - Listening to music causes the brain to release dopamine, enhancing mood. - 3","Explanation:
+
+[Field-1] - Lack of sleep causes paleness by reducing blood circulation and skin rejuvenation. - 1","Explanation:
+
+[Field-1] - Lack of sleep causes paleness by reducing blood circulation and skin rejuvenation. - 2","Explanation:
+
+[Field-1] - Lack of sleep causes paleness by reducing blood circulation and skin rejuvenation. - 3","Explanation:
+
+[Field-1] - Hugs cause the release of oxytocin, which promotes bonding and reduces stress. - 1","Explanation:
+
+[Field-1] - Hugs cause the release of oxytocin, which promotes bonding and reduces stress. - 2","Explanation:
+
+[Field-1] - Hugs cause the release of oxytocin, which promotes bonding and reduces stress. - 3","Explanation:
+
+[Field-1] - Cats can cause oxytocin release in humans by triggering feelings of affection and calmness. - 1","Explanation:
+
+[Field-1] - Cats can cause oxytocin release in humans by triggering feelings of affection and calmness. - 2","Explanation:
+
+[Field-1] - Cats can cause oxytocin release in humans by triggering feelings of affection and calmness. - 3","Explanation:
+
+[Field-1] - High wind speeds can cause power lines to fall by snapping poles or dislodging cables. - 1","Explanation:
+
+[Field-1] - High wind speeds can cause power lines to fall by snapping poles or dislodging cables. - 2","Explanation:
+
+[Field-1] - High wind speeds can cause power lines to fall by snapping poles or dislodging cables. - 3","Explanation:
+
+[Field-1] - Online game addiction can lead to poor sleep, depression, anxiety, and severe health issues, potentially causing death. - 1","Explanation:
+
+[Field-1] - Online game addiction can lead to poor sleep, depression, anxiety, and severe health issues, potentially causing death. - 2","Explanation:
+
+[Field-1] - Online game addiction can lead to poor sleep, depression, anxiety, and severe health issues, potentially causing death. - 3","Explanation:
+
+[Field-1] - Ladybugs can secrete a fluid that triggers allergies or exacerbates asthma symptoms. - 1","Explanation:
+
+[Field-1] - Ladybugs can secrete a fluid that triggers allergies or exacerbates asthma symptoms. - 2","Explanation:
+
+[Field-1] - Ladybugs can secrete a fluid that triggers allergies or exacerbates asthma symptoms. - 3","Explanation:
+
+[Field-1] - Strong wind can cause damage by uprooting trees and detaching roof tiles. - 1","Explanation:
+
+[Field-1] - Strong wind can cause damage by uprooting trees and detaching roof tiles. - 2","Explanation:
+
+[Field-1] - Strong wind can cause damage by uprooting trees and detaching roof tiles. - 3","Explanation:
+
+[Field-1] - Lightning strikes can cause power outages, ignite fires, and damage buildings due to their high energy and heat. - 1","Explanation:
+
+[Field-1] - Lightning strikes can cause power outages, ignite fires, and damage buildings due to their high energy and heat. - 2","Explanation:
+
+[Field-1] - Lightning strikes can cause power outages, ignite fires, and damage buildings due to their high energy and heat. - 3","Explanation:
+
+[Field-1] - The laws of physics cause water molecules to form unique hexagonal patterns, creating snowflakes. - 1","Explanation:
+
+[Field-1] - The laws of physics cause water molecules to form unique hexagonal patterns, creating snowflakes. - 2","Explanation:
+
+[Field-1] - The laws of physics cause water molecules to form unique hexagonal patterns, creating snowflakes. - 3","Explanation:
+
+[Field-1] - Low humidity allows faster heat dissipation, causing temperature drops. - 1","Explanation:
+
+[Field-1] - Low humidity allows faster heat dissipation, causing temperature drops. - 2","Explanation:
+
+[Field-1] - Low humidity allows faster heat dissipation, causing temperature drops. - 3","Explanation:
+
+[Field-1] - Carrots are orange because they were selectively bred for this color. - 1","Explanation:
+
+[Field-1] - Carrots are orange because they were selectively bred for this color. - 2","Explanation:
+
+[Field-1] - Carrots are orange because they were selectively bred for this color. - 3","Explanation:
+
+[Field-1] - Eye color affects light sensitivity, altering vision in different lighting conditions. - 1","Explanation:
+
+[Field-1] - Eye color affects light sensitivity, altering vision in different lighting conditions. - 2","Explanation:
+
+[Field-1] - Eye color affects light sensitivity, altering vision in different lighting conditions. - 3","Explanation:
+
+[Field-1] - Pollution releases harmful chemicals that trigger oxidative stress and inflammation in the skin. - 1","Explanation:
+
+[Field-1] - Pollution releases harmful chemicals that trigger oxidative stress and inflammation in the skin. - 2","Explanation:
+
+[Field-1] - Pollution releases harmful chemicals that trigger oxidative stress and inflammation in the skin. - 3","Explanation:
+
+[Field-1] - UV damage accelerates collagen breakdown, causing premature skin aging. - 1","Explanation:
+
+[Field-1] - UV damage accelerates collagen breakdown, causing premature skin aging. - 2","Explanation:
+
+[Field-1] - UV damage accelerates collagen breakdown, causing premature skin aging. - 3","Explanation:
+
+[Field-1] - Long-term exposure to UV radiation damages skin cells, causing premature ageing. - 1","Explanation:
+
+[Field-1] - Long-term exposure to UV radiation damages skin cells, causing premature ageing. - 2","Explanation:
+
+[Field-1] - Long-term exposure to UV radiation damages skin cells, causing premature ageing. - 3","Explanation:
+
+[Field-1] - Aging reduces collagen production, leading to sunken eyes and deeper wrinkles. - 1","Explanation:
+
+[Field-1] - Aging reduces collagen production, leading to sunken eyes and deeper wrinkles. - 2","Explanation:
+
+[Field-1] - Aging reduces collagen production, leading to sunken eyes and deeper wrinkles. - 3","Explanation:
+
+[Field-1] - Toxins cause acne, accelerate skin aging, and lead to dark circles and puffiness under the eyes. - 1","Explanation:
+
+[Field-1] - Toxins cause acne, accelerate skin aging, and lead to dark circles and puffiness under the eyes. - 2","Explanation:
+
+[Field-1] - Toxins cause acne, accelerate skin aging, and lead to dark circles and puffiness under the eyes. - 3","Explanation:
+
+[Field-1] - Nuclear explosions release immense energy, destroying structures and landscapes. - 1","Explanation:
+
+[Field-1] - Nuclear explosions release immense energy, destroying structures and landscapes. - 2","Explanation:
+
+[Field-1] - Nuclear explosions release immense energy, destroying structures and landscapes. - 3","Explanation:
+
+[Field-1] - Lack of understanding about AI capabilities causes fear of AI. - 1","Explanation:
+
+[Field-1] - Lack of understanding about AI capabilities causes fear of AI. - 2","Explanation:
+
+[Field-1] - Lack of understanding about AI capabilities causes fear of AI. - 3","Explanation:
+
+[Field-1] - Exposure to blue light from screens can cause sleep disruption, eye strain, and headaches, potentially leading to digital addiction, anxiety, - 1","Explanation:
+
+[Field-1] - Exposure to blue light from screens can cause sleep disruption, eye strain, and headaches, potentially leading to digital addiction, anxiety, - 2","Explanation:
+
+[Field-1] - Exposure to blue light from screens can cause sleep disruption, eye strain, and headaches, potentially leading to digital addiction, anxiety, - 3","Explanation:
+
+[Field-1] - Excessive daily screen time can disrupt melatonin production, leading to sleep difficulties. - 1","Explanation:
+
+[Field-1] - Excessive daily screen time can disrupt melatonin production, leading to sleep difficulties. - 2","Explanation:
+
+[Field-1] - Excessive daily screen time can disrupt melatonin production, leading to sleep difficulties. - 3","Explanation:
+
+[Field-1] - Blocking the sun causes devastation by disrupting photosynthesis and climate. - 1","Explanation:
+
+[Field-1] - Blocking the sun causes devastation by disrupting photosynthesis and climate. - 2","Explanation:
+
+[Field-1] - Blocking the sun causes devastation by disrupting photosynthesis and climate. - 3","Explanation:
+
+[Field-1] - Increased proximity to the Sun raises temperature due to more intense solar radiation. - 1","Explanation:
+
+[Field-1] - Increased proximity to the Sun raises temperature due to more intense solar radiation. - 2","Explanation:
+
+[Field-1] - Increased proximity to the Sun raises temperature due to more intense solar radiation. - 3","Explanation:
+
+[Field-1] - Increasing sunlight causes leaves to dry out and damage by intensifying evaporation and heat stress. - 1","Explanation:
+
+[Field-1] - Increasing sunlight causes leaves to dry out and damage by intensifying evaporation and heat stress. - 2","Explanation:
+
+[Field-1] - Increasing sunlight causes leaves to dry out and damage by intensifying evaporation and heat stress. - 3","Explanation:
+
+[Field-1] - Removing vegetation near waterways leads to soil erosion, increasing sedimentation in the water. - 1","Explanation:
+
+[Field-1] - Removing vegetation near waterways leads to soil erosion, increasing sedimentation in the water. - 2","Explanation:
+
+[Field-1] - Removing vegetation near waterways leads to soil erosion, increasing sedimentation in the water. - 3","Explanation:
+
+[Field-1] - Raindrops release oils and compounds from plants, trees, and soil, creating a sweet-smelling aroma. - 1","Explanation:
+
+[Field-1] - Raindrops release oils and compounds from plants, trees, and soil, creating a sweet-smelling aroma. - 2","Explanation:
+
+[Field-1] - Raindrops release oils and compounds from plants, trees, and soil, creating a sweet-smelling aroma. - 3","Explanation:
+
+[Field-1] - Rock salt used on icy roads can wash into lawns, increasing soil salinity and thereby damaging grass. - 1","Explanation:
+
+[Field-1] - Rock salt used on icy roads can wash into lawns, increasing soil salinity and thereby damaging grass. - 2","Explanation:
+
+[Field-1] - Rock salt used on icy roads can wash into lawns, increasing soil salinity and thereby damaging grass. - 3","Explanation:
+
+[Field-1] - Higher temperatures increase the kinetic energy of water molecules, leading to increased evaporation rates. - 1","Explanation:
+
+[Field-1] - Higher temperatures increase the kinetic energy of water molecules, leading to increased evaporation rates. - 2","Explanation:
+
+[Field-1] - Higher temperatures increase the kinetic energy of water molecules, leading to increased evaporation rates. - 3","Explanation:
+
+[Field-1] - Soil erosion removes topsoil, reducing soil fertility and plant growth, which then leads to property damage. - 1","Explanation:
+
+[Field-1] - Soil erosion removes topsoil, reducing soil fertility and plant growth, which then leads to property damage. - 2","Explanation:
+
+[Field-1] - Soil erosion removes topsoil, reducing soil fertility and plant growth, which then leads to property damage. - 3"
+"{""ImportId"":""startDate"",""timeZone"":""Europe/London""}","{""ImportId"":""endDate"",""timeZone"":""Europe/London""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""Europe/London""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID6""}","{""ImportId"":""QID7""}","{""ImportId"":""QID8""}","{""ImportId"":""QID9""}","{""ImportId"":""QID10""}","{""ImportId"":""QID11""}","{""ImportId"":""QID41_TEXT""}","{""ImportId"":""1_QID30_1""}","{""ImportId"":""1_QID30_2""}","{""ImportId"":""1_QID30_3""}","{""ImportId"":""2_QID30_1""}","{""ImportId"":""2_QID30_2""}","{""ImportId"":""2_QID30_3""}","{""ImportId"":""3_QID30_1""}","{""ImportId"":""3_QID30_2""}","{""ImportId"":""3_QID30_3""}","{""ImportId"":""4_QID30_1""}","{""ImportId"":""4_QID30_2""}","{""ImportId"":""4_QID30_3""}","{""ImportId"":""5_QID30_1""}","{""ImportId"":""5_QID30_2""}","{""ImportId"":""5_QID30_3""}","{""ImportId"":""6_QID30_1""}","{""ImportId"":""6_QID30_2""}","{""ImportId"":""6_QID30_3""}","{""ImportId"":""7_QID30_1""}","{""ImportId"":""7_QID30_2""}","{""ImportId"":""7_QID30_3""}","{""ImportId"":""8_QID30_1""}","{""ImportId"":""8_QID30_2""}","{""ImportId"":""8_QID30_3""}","{""ImportId"":""9_QID30_1""}","{""ImportId"":""9_QID30_2""}","{""ImportId"":""9_QID30_3""}","{""ImportId"":""10_QID30_1""}","{""ImportId"":""10_QID30_2""}","{""ImportId"":""10_QID30_3""}","{""ImportId"":""11_QID30_1""}","{""ImportId"":""11_QID30_2""}","{""ImportId"":""11_QID30_3""}","{""ImportId"":""12_QID30_1""}","{""ImportId"":""12_QID30_2""}","{""ImportId"":""12_QID30_3""}","{""ImportId"":""13_QID30_1""}","{""ImportId"":""13_QID30_2""}","{""ImportId"":""13_QID30_3""}","{""ImportId"":""14_QID30_1""}","{""ImportId"":""14_QID30_2""}","{""ImportId"":""14_QID30_3""}","{""ImportId"":""15_QID30_1""}","{""ImportId"":""15_QID30_2""}","{""ImportId"":""15_QID30_3""}","{""ImportId"":""16_QID30_1""}","{""ImportId"":""16_QID30_2""}","{""ImportId"":""16_QID30_3""}","{""ImportId"":""17_QID30_1""}","{""ImportId"":""17_QID30_2""}","{""ImportId"":""17_QID30_3""}","{""ImportId"":""18_QID30_1""}","{""ImportId"":""18_QID30_2""}","{""ImportId"":""18_QID30_3""}","{""ImportId"":""19_QID30_1""}","{""ImportId"":""19_QID30_2""}","{""ImportId"":""19_QID30_3""}","{""ImportId"":""20_QID30_1""}","{""ImportId"":""20_QID30_2""}","{""ImportId"":""20_QID30_3""}","{""ImportId"":""21_QID30_1""}","{""ImportId"":""21_QID30_2""}","{""ImportId"":""21_QID30_3""}","{""ImportId"":""22_QID30_1""}","{""ImportId"":""22_QID30_2""}","{""ImportId"":""22_QID30_3""}","{""ImportId"":""23_QID30_1""}","{""ImportId"":""23_QID30_2""}","{""ImportId"":""23_QID30_3""}","{""ImportId"":""24_QID30_1""}","{""ImportId"":""24_QID30_2""}","{""ImportId"":""24_QID30_3""}","{""ImportId"":""25_QID30_1""}","{""ImportId"":""25_QID30_2""}","{""ImportId"":""25_QID30_3""}","{""ImportId"":""26_QID30_1""}","{""ImportId"":""26_QID30_2""}","{""ImportId"":""26_QID30_3""}","{""ImportId"":""27_QID30_1""}","{""ImportId"":""27_QID30_2""}","{""ImportId"":""27_QID30_3""}","{""ImportId"":""28_QID30_1""}","{""ImportId"":""28_QID30_2""}","{""ImportId"":""28_QID30_3""}","{""ImportId"":""29_QID30_1""}","{""ImportId"":""29_QID30_2""}","{""ImportId"":""29_QID30_3""}","{""ImportId"":""30_QID30_1""}","{""ImportId"":""30_QID30_2""}","{""ImportId"":""30_QID30_3""}","{""ImportId"":""31_QID30_1""}","{""ImportId"":""31_QID30_2""}","{""ImportId"":""31_QID30_3""}","{""ImportId"":""32_QID30_1""}","{""ImportId"":""32_QID30_2""}","{""ImportId"":""32_QID30_3""}","{""ImportId"":""33_QID30_1""}","{""ImportId"":""33_QID30_2""}","{""ImportId"":""33_QID30_3""}","{""ImportId"":""34_QID30_1""}","{""ImportId"":""34_QID30_2""}","{""ImportId"":""34_QID30_3""}","{""ImportId"":""35_QID30_1""}","{""ImportId"":""35_QID30_2""}","{""ImportId"":""35_QID30_3""}","{""ImportId"":""36_QID30_1""}","{""ImportId"":""36_QID30_2""}","{""ImportId"":""36_QID30_3""}","{""ImportId"":""37_QID30_1""}","{""ImportId"":""37_QID30_2""}","{""ImportId"":""37_QID30_3""}","{""ImportId"":""38_QID30_1""}","{""ImportId"":""38_QID30_2""}","{""ImportId"":""38_QID30_3""}","{""ImportId"":""39_QID30_1""}","{""ImportId"":""39_QID30_2""}","{""ImportId"":""39_QID30_3""}","{""ImportId"":""40_QID30_1""}","{""ImportId"":""40_QID30_2""}","{""ImportId"":""40_QID30_3""}","{""ImportId"":""41_QID30_1""}","{""ImportId"":""41_QID30_2""}","{""ImportId"":""41_QID30_3""}","{""ImportId"":""42_QID30_1""}","{""ImportId"":""42_QID30_2""}","{""ImportId"":""42_QID30_3""}","{""ImportId"":""43_QID30_1""}","{""ImportId"":""43_QID30_2""}","{""ImportId"":""43_QID30_3""}","{""ImportId"":""44_QID30_1""}","{""ImportId"":""44_QID30_2""}","{""ImportId"":""44_QID30_3""}","{""ImportId"":""45_QID30_1""}","{""ImportId"":""45_QID30_2""}","{""ImportId"":""45_QID30_3""}","{""ImportId"":""46_QID30_1""}","{""ImportId"":""46_QID30_2""}","{""ImportId"":""46_QID30_3""}","{""ImportId"":""47_QID30_1""}","{""ImportId"":""47_QID30_2""}","{""ImportId"":""47_QID30_3""}","{""ImportId"":""48_QID30_1""}","{""ImportId"":""48_QID30_2""}","{""ImportId"":""48_QID30_3""}","{""ImportId"":""49_QID30_1""}","{""ImportId"":""49_QID30_2""}","{""ImportId"":""49_QID30_3""}","{""ImportId"":""50_QID30_1""}","{""ImportId"":""50_QID30_2""}","{""ImportId"":""50_QID30_3""}","{""ImportId"":""51_QID30_1""}","{""ImportId"":""51_QID30_2""}","{""ImportId"":""51_QID30_3""}","{""ImportId"":""52_QID30_1""}","{""ImportId"":""52_QID30_2""}","{""ImportId"":""52_QID30_3""}","{""ImportId"":""53_QID30_1""}","{""ImportId"":""53_QID30_2""}","{""ImportId"":""53_QID30_3""}","{""ImportId"":""54_QID30_1""}","{""ImportId"":""54_QID30_2""}","{""ImportId"":""54_QID30_3""}","{""ImportId"":""55_QID30_1""}","{""ImportId"":""55_QID30_2""}","{""ImportId"":""55_QID30_3""}","{""ImportId"":""56_QID30_1""}","{""ImportId"":""56_QID30_2""}","{""ImportId"":""56_QID30_3""}","{""ImportId"":""57_QID30_1""}","{""ImportId"":""57_QID30_2""}","{""ImportId"":""57_QID30_3""}","{""ImportId"":""58_QID30_1""}","{""ImportId"":""58_QID30_2""}","{""ImportId"":""58_QID30_3""}","{""ImportId"":""59_QID30_1""}","{""ImportId"":""59_QID30_2""}","{""ImportId"":""59_QID30_3""}","{""ImportId"":""60_QID30_1""}","{""ImportId"":""60_QID30_2""}","{""ImportId"":""60_QID30_3""}","{""ImportId"":""61_QID30_1""}","{""ImportId"":""61_QID30_2""}","{""ImportId"":""61_QID30_3""}","{""ImportId"":""62_QID30_1""}","{""ImportId"":""62_QID30_2""}","{""ImportId"":""62_QID30_3""}","{""ImportId"":""63_QID30_1""}","{""ImportId"":""63_QID30_2""}","{""ImportId"":""63_QID30_3""}","{""ImportId"":""64_QID30_1""}","{""ImportId"":""64_QID30_2""}","{""ImportId"":""64_QID30_3""}","{""ImportId"":""65_QID30_1""}","{""ImportId"":""65_QID30_2""}","{""ImportId"":""65_QID30_3""}","{""ImportId"":""66_QID30_1""}","{""ImportId"":""66_QID30_2""}","{""ImportId"":""66_QID30_3""}","{""ImportId"":""67_QID30_1""}","{""ImportId"":""67_QID30_2""}","{""ImportId"":""67_QID30_3""}","{""ImportId"":""68_QID30_1""}","{""ImportId"":""68_QID30_2""}","{""ImportId"":""68_QID30_3""}","{""ImportId"":""69_QID30_1""}","{""ImportId"":""69_QID30_2""}","{""ImportId"":""69_QID30_3""}","{""ImportId"":""70_QID30_1""}","{""ImportId"":""70_QID30_2""}","{""ImportId"":""70_QID30_3""}","{""ImportId"":""71_QID30_1""}","{""ImportId"":""71_QID30_2""}","{""ImportId"":""71_QID30_3""}","{""ImportId"":""72_QID30_1""}","{""ImportId"":""72_QID30_2""}","{""ImportId"":""72_QID30_3""}","{""ImportId"":""73_QID30_1""}","{""ImportId"":""73_QID30_2""}","{""ImportId"":""73_QID30_3""}","{""ImportId"":""74_QID30_1""}","{""ImportId"":""74_QID30_2""}","{""ImportId"":""74_QID30_3""}","{""ImportId"":""75_QID30_1""}","{""ImportId"":""75_QID30_2""}","{""ImportId"":""75_QID30_3""}","{""ImportId"":""76_QID30_1""}","{""ImportId"":""76_QID30_2""}","{""ImportId"":""76_QID30_3""}","{""ImportId"":""77_QID30_1""}","{""ImportId"":""77_QID30_2""}","{""ImportId"":""77_QID30_3""}","{""ImportId"":""78_QID30_1""}","{""ImportId"":""78_QID30_2""}","{""ImportId"":""78_QID30_3""}","{""ImportId"":""79_QID30_1""}","{""ImportId"":""79_QID30_2""}","{""ImportId"":""79_QID30_3""}","{""ImportId"":""80_QID30_1""}","{""ImportId"":""80_QID30_2""}","{""ImportId"":""80_QID30_3""}","{""ImportId"":""81_QID30_1""}","{""ImportId"":""81_QID30_2""}","{""ImportId"":""81_QID30_3""}","{""ImportId"":""82_QID30_1""}","{""ImportId"":""82_QID30_2""}","{""ImportId"":""82_QID30_3""}","{""ImportId"":""83_QID30_1""}","{""ImportId"":""83_QID30_2""}","{""ImportId"":""83_QID30_3""}","{""ImportId"":""84_QID30_1""}","{""ImportId"":""84_QID30_2""}","{""ImportId"":""84_QID30_3""}","{""ImportId"":""85_QID30_1""}","{""ImportId"":""85_QID30_2""}","{""ImportId"":""85_QID30_3""}","{""ImportId"":""86_QID30_1""}","{""ImportId"":""86_QID30_2""}","{""ImportId"":""86_QID30_3""}","{""ImportId"":""87_QID30_1""}","{""ImportId"":""87_QID30_2""}","{""ImportId"":""87_QID30_3""}","{""ImportId"":""88_QID30_1""}","{""ImportId"":""88_QID30_2""}","{""ImportId"":""88_QID30_3""}","{""ImportId"":""89_QID30_1""}","{""ImportId"":""89_QID30_2""}","{""ImportId"":""89_QID30_3""}","{""ImportId"":""90_QID30_1""}","{""ImportId"":""90_QID30_2""}","{""ImportId"":""90_QID30_3""}","{""ImportId"":""91_QID30_1""}","{""ImportId"":""91_QID30_2""}","{""ImportId"":""91_QID30_3""}","{""ImportId"":""92_QID30_1""}","{""ImportId"":""92_QID30_2""}","{""ImportId"":""92_QID30_3""}","{""ImportId"":""93_QID30_1""}","{""ImportId"":""93_QID30_2""}","{""ImportId"":""93_QID30_3""}","{""ImportId"":""94_QID30_1""}","{""ImportId"":""94_QID30_2""}","{""ImportId"":""94_QID30_3""}","{""ImportId"":""95_QID30_1""}","{""ImportId"":""95_QID30_2""}","{""ImportId"":""95_QID30_3""}","{""ImportId"":""96_QID30_1""}","{""ImportId"":""96_QID30_2""}","{""ImportId"":""96_QID30_3""}","{""ImportId"":""97_QID30_1""}","{""ImportId"":""97_QID30_2""}","{""ImportId"":""97_QID30_3""}","{""ImportId"":""98_QID30_1""}","{""ImportId"":""98_QID30_2""}","{""ImportId"":""98_QID30_3""}","{""ImportId"":""99_QID30_1""}","{""ImportId"":""99_QID30_2""}","{""ImportId"":""99_QID30_3""}","{""ImportId"":""100_QID30_1""}","{""ImportId"":""100_QID30_2""}","{""ImportId"":""100_QID30_3""}","{""ImportId"":""101_QID30_1""}","{""ImportId"":""101_QID30_2""}","{""ImportId"":""101_QID30_3""}"
+10/29/2024 11:00,10/29/2024 11:01,100,42,TRUE,10/29/2024 11:01,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,3,
+10/29/2024 11:08,10/29/2024 11:09,100,88,TRUE,10/29/2024 11:09,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,6,2,,,,,,,,,,,,,5,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 11:08,10/29/2024 11:09,100,80,TRUE,10/29/2024 11:09,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,5,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,6,7,,,,,,,,,,,,,,,,,,,5,6,6,,,,,,,,,,,,,,,,6,7,6,,,,6,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 11:08,10/29/2024 11:09,100,109,TRUE,10/29/2024 11:09,EN,Yes,Yes,Yes,Yes,Yes,Yes,,5,6,6,,,,,,,,,,,,,,,,,,,,,,6,6,6,6,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,6,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,3,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 11:08,10/29/2024 11:09,100,106,TRUE,10/29/2024 11:09,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,6,,,,,,,,,,,,,,,,,,,5,5,5,,,,,,,,,,,,,,,,,,,,,,5,5,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,5,5,,,,,,,,,,,,,,,,,,,,,,,,,6,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 11:08,10/29/2024 11:09,100,110,TRUE,10/29/2024 11:09,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,5,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,6,,,,,,,,,,,,,,,,6,7,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 11:08,10/29/2024 11:10,100,119,TRUE,10/29/2024 11:10,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,,6,5,4,,,,,,,,,,,,,,,,5,6,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,7,,,,,6,6,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 11:07,10/29/2024 11:10,100,152,TRUE,10/29/2024 11:10,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,5,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,5,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,6,,,,,,,7,6,6
+10/29/2024 11:08,10/29/2024 11:10,100,119,TRUE,10/29/2024 11:10,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,6,4,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,5,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 11:08,10/29/2024 11:10,100,155,TRUE,10/29/2024 11:10,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,6,6,,,,,,,,,,,,,7,5,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,4,5,,,,,,,6,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,5,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 11:08,10/29/2024 11:10,100,164,TRUE,10/29/2024 11:10,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,6,6,3,,,,,,,6,7,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 11:08,10/29/2024 11:10,100,147,TRUE,10/29/2024 11:10,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,5,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,6,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,6,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,5,4,,,,,,,,,,,,,,,,5,5,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 11:08,10/29/2024 11:10,100,168,TRUE,10/29/2024 11:10,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,7,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,5,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,,,,,,,,,,,,,7,7,1,,,,7,6,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 11:08,10/29/2024 11:10,100,178,TRUE,10/29/2024 11:11,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,7,1,,,,,,,,,,,,,,,,,,,5,3,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,7,6,,,,,,,,,,6,3,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,5,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 11:08,10/29/2024 11:11,100,156,TRUE,10/29/2024 11:11,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,5,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,3,3,,,,3,4,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,5,5,,,,,,,,,,,,
+10/29/2024 11:08,10/29/2024 11:11,100,176,TRUE,10/29/2024 11:11,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,4,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,5,4,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,5,,,,
+10/29/2024 11:08,10/29/2024 11:11,100,183,TRUE,10/29/2024 11:11,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,6,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,5,5,,,,6,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 11:08,10/29/2024 11:11,100,171,TRUE,10/29/2024 11:11,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,7,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,5,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,5,6,,,,5,7,6,,,,,,,,,,,,,,,,,,,5,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 11:08,10/29/2024 11:11,100,184,TRUE,10/29/2024 11:11,EN,Yes,Yes,Yes,Yes,Yes,Yes,,7,7,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,4,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,5,5,,,,,,,,,,,,,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 11:08,10/29/2024 11:11,100,170,TRUE,10/29/2024 11:11,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,6,5,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,5,5,,,,6,6,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 11:08,10/29/2024 11:11,100,196,TRUE,10/29/2024 11:11,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,,,,,,,,,,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,6,,,,,,,,,,,,,6,4,5
+10/29/2024 11:08,10/29/2024 11:11,100,206,TRUE,10/29/2024 11:11,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,5,5,,,,,,,,,,,,,,,,,,,7,7,6,,,,,,,,,,,,,,,,,,,7,7,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,5,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,1,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 11:08,10/29/2024 11:11,100,212,TRUE,10/29/2024 11:11,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,7,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,5,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,7,5,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 11:08,10/29/2024 11:11,100,172,TRUE,10/29/2024 11:11,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,5,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,6,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,5,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,6,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,
+10/29/2024 11:09,10/29/2024 11:11,100,171,TRUE,10/29/2024 11:11,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,7,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,7,7,6,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 11:09,10/29/2024 11:12,100,141,TRUE,10/29/2024 11:12,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,7,,,,,,,,,,,,,,,,,,,,,,6,5,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,5,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,5,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,5,7,,,,,,,,,,,,
+10/29/2024 11:09,10/29/2024 11:12,100,136,TRUE,10/29/2024 11:12,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,6,5,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,6,6,,,,,,,,,,7,6,6,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,6,6
+10/29/2024 11:08,10/29/2024 11:12,100,238,TRUE,10/29/2024 11:12,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,5,5,,,,,,,,,,,,,,3,3,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,5,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 11:08,10/29/2024 11:12,100,233,TRUE,10/29/2024 11:12,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 11:10,10/29/2024 11:12,100,148,TRUE,10/29/2024 11:12,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,6,6,,,,,,,,,,,,,5,4,4,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,7,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,7,5,,,,,,
+10/29/2024 11:09,10/29/2024 11:12,100,202,TRUE,10/29/2024 11:12,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,5,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,7,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,3,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,7,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,,,,,,,,,
+10/29/2024 11:08,10/29/2024 11:12,100,258,TRUE,10/29/2024 11:12,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,5,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,5,,,,,,,,,,,,,,,,,,,,,,5,6,6,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 11:09,10/29/2024 11:12,100,228,TRUE,10/29/2024 11:12,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,5,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,3,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,7,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 11:08,10/29/2024 11:12,100,281,TRUE,10/29/2024 11:12,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,3,3,,,,,,,,,,,,,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,5,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,7,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 11:08,10/29/2024 11:13,100,253,TRUE,10/29/2024 11:13,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,3,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 11:08,10/29/2024 11:13,100,258,TRUE,10/29/2024 11:13,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,6,5,,,,,,,,,,,,,6,6,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,5,5,,,,,,,,,,,,,6,7,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,5,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 11:10,10/29/2024 11:13,100,139,TRUE,10/29/2024 11:13,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,6,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,6,5,,,,,,,,,,,,
+10/29/2024 11:10,10/29/2024 11:13,100,177,TRUE,10/29/2024 11:13,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,5,,,,,,,,,,,,,,,,,,,6,5,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,6,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,3,3,,,,,,,,,,,,,,,,,,,6,5,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 11:08,10/29/2024 11:13,100,255,TRUE,10/29/2024 11:13,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,6,6,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,5,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,7,,,,,,,,,,5,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,7,7,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 11:09,10/29/2024 11:13,100,217,TRUE,10/29/2024 11:13,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,5,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,6,,,,5,4,5,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 11:08,10/29/2024 11:13,100,306,TRUE,10/29/2024 11:13,EN,Yes,Yes,Yes,Yes,Yes,Yes,,5,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,5,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,5,2,,,,,,,,,,,,,,,,,,,,,,,,,5,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 11:08,10/29/2024 11:13,100,291,TRUE,10/29/2024 11:13,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,2,,,,,,,,,,,,,,,,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 11:09,10/29/2024 11:13,100,254,TRUE,10/29/2024 11:13,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,,5,,,,,,,,,,7,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,6,,,,,,,,,,,,,,,,,,,,,,3,5,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 11:08,10/29/2024 11:13,100,336,TRUE,10/29/2024 11:13,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,3,,,,,,,,,,,6,7,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,5,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,3,,6,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 11:11,10/29/2024 11:13,100,141,TRUE,10/29/2024 11:13,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,5,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,5,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,7,7,,,,,,,,,,6,7,7,,,,,,,,,,,,,,,,,,,6,7,7,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 11:08,10/29/2024 11:14,100,309,TRUE,10/29/2024 11:14,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,7,7,,,,7,6,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,5,3,,,,,,,,,,,,,5,3,3
+10/29/2024 11:08,10/29/2024 11:14,100,355,TRUE,10/29/2024 11:14,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,5,5,5,,,,,,,,,,,,,,,,,,,5,4,3,,,,,,,,,,,,,6,5,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,5,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,3,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 11:09,10/29/2024 11:14,100,307,TRUE,10/29/2024 11:14,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,7,,,,,,,,,,,,,,,,,7,7,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,7,4,,,,,,,,,,7,7,7,,,,,,,,,
+10/29/2024 11:09,10/29/2024 11:14,100,274,TRUE,10/29/2024 11:14,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,6,7,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,5,3,,,,,,,,,,6,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,4,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,6,6,,,,,,,,,,,,,,,
+10/29/2024 11:08,10/29/2024 11:14,100,362,TRUE,10/29/2024 11:14,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,,,,,,
+10/29/2024 11:08,10/29/2024 11:14,100,380,TRUE,10/29/2024 11:14,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,6,6,,,,,,,,,,,,,,,,,,,5,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,6,,,
+10/29/2024 11:08,10/29/2024 11:14,100,373,TRUE,10/29/2024 11:14,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,7,7,,,,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 11:07,10/29/2024 11:14,100,416,TRUE,10/29/2024 11:14,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,3,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,7,5,,,,,,,,,,6,5,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,6,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,,,
+10/29/2024 11:09,10/29/2024 11:15,100,342,TRUE,10/29/2024 11:15,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,4,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,,,,,,,,,,,,,,,,,,,,,,,6,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,6,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,3,5,,,,,,
+10/29/2024 11:11,10/29/2024 11:15,100,230,TRUE,10/29/2024 11:15,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,3,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,1,7,,,,,,,,,,,,,,,
+10/29/2024 11:09,10/29/2024 11:15,100,403,TRUE,10/29/2024 11:15,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,7,7,,,,,,,,,,,,,,,,5,7,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,6,6,,,,5,5,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 11:08,10/29/2024 11:15,100,445,TRUE,10/29/2024 11:15,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,6,5,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,5,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 11:08,10/29/2024 11:16,100,482,TRUE,10/29/2024 11:16,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,3,5,,,,7,6,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,5,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,2,1,,,,,,,,,
+10/29/2024 11:09,10/29/2024 11:16,100,453,TRUE,10/29/2024 11:16,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,5,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,5,5,,,,,,,,,,,,,6,7,6,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 11:12,10/29/2024 11:17,100,260,TRUE,10/29/2024 11:17,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,3,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7
+10/29/2024 11:10,10/29/2024 11:17,100,392,TRUE,10/29/2024 11:17,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,6,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,5,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,1,3,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 11:09,10/29/2024 11:18,100,540,TRUE,10/29/2024 11:18,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,5,6,,,,,,,,,,,,,,,,,,,,,,3,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,5,4,,,,,,,4,2,1,,,,,,,5,6,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 11:08,10/29/2024 11:19,100,684,TRUE,10/29/2024 11:19,EN,Yes,Yes,Yes,Yes,Yes,Yes,,7,6,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,5,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,2,3,,,,,,,,,,,,,,,,5,3,3,6,5,5,,,,,,
+10/29/2024 11:14,10/29/2024 11:20,100,356,TRUE,10/29/2024 11:20,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,7,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,5,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,4,5,,,,,,,,,,,,,,,,,,,5,6,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,3,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 11:18,10/29/2024 11:21,100,148,TRUE,10/29/2024 11:21,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,6,6,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,6,,,,,,,,,,,,,,,,,,,,,,6,6,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 11:09,10/29/2024 11:24,100,923,TRUE,10/29/2024 11:24,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,6,5,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,6,5,6,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,6,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 11:19,10/29/2024 11:25,100,369,TRUE,10/29/2024 11:25,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,5,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 11:13,10/29/2024 11:30,100,1015,TRUE,10/29/2024 11:30,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,4,3,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,3,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,3,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,6
+10/29/2024 11:30,10/29/2024 11:34,100,208,TRUE,10/29/2024 11:34,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,5,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 11:57,10/29/2024 11:58,100,64,TRUE,10/29/2024 11:58,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,4,5,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,3,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,5,5,,,,,,,,,,,,,,,,,,,,,,4,4,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,5,5,,,,,,,,,,,,,,,,,,
+10/29/2024 11:57,10/29/2024 11:59,100,130,TRUE,10/29/2024 11:59,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,5,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,5,,,,,,,,,,,6,5,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,4,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 11:57,10/29/2024 12:00,100,197,TRUE,10/29/2024 12:00,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,6,7,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,6,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,5,,,,,,
+10/29/2024 11:57,10/29/2024 12:00,100,191,TRUE,10/29/2024 12:00,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,6,6,,,,,,,,,,,,,6,5,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,6,6,,,,,,,,,,,,,,,,,,,,,,,,,5,6,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,3,2,,,,,,,,,,,,,,,,,,
+10/29/2024 11:57,10/29/2024 12:01,100,262,TRUE,10/29/2024 12:01,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,,,,,,,7,7,7,,,,,,,,,,6,7,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 11:57,10/29/2024 12:02,100,249,TRUE,10/29/2024 12:02,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,7,7,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,7,7,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,3,2,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 11:57,10/29/2024 12:04,100,438,TRUE,10/29/2024 12:04,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,6,7,6,,,,,,,,,,5,5,5,,,,,,,,,,,,,,,,,,,6,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,7,6,,,,,,,,,,6,6,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 12:00,10/29/2024 12:04,100,272,TRUE,10/29/2024 12:04,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,6,6,7,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,3,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7
+10/29/2024 11:57,10/29/2024 12:04,100,460,TRUE,10/29/2024 12:04,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,2,,,,,,,,,,,7,,6,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 11:57,10/29/2024 12:05,100,472,TRUE,10/29/2024 12:05,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,7,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,6,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,4,4,,,,,,,,,,,,,,,,,,,,,,7,7,6,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 11:58,10/29/2024 12:06,100,447,TRUE,10/29/2024 12:06,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,5,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,5,6,,,,,,,,,,,,,,,,,,,5,6,5,,,,,,,,,,,,,,,,,,,,,,5,4,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 11:58,10/29/2024 12:08,100,630,TRUE,10/29/2024 12:08,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,7,6,6,,,,,,,,,,5,4,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,7,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,6,3,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 14:08,10/29/2024 14:10,100,103,TRUE,10/29/2024 14:10,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,5,4,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,5,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,3,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,3,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,3,3,,,,,,,,,,,,
+10/29/2024 14:03,10/29/2024 14:10,100,439,TRUE,10/29/2024 14:10,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,5,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,7,5,,,,,,,,,,,,,,,,,,,,,,,,,7,6,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,3,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 14:08,10/29/2024 14:10,100,105,TRUE,10/29/2024 14:10,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,5,,,,,,,,,,,,,,,,,6,6,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,5,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 14:09,10/29/2024 14:10,100,106,TRUE,10/29/2024 14:10,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,5,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 14:08,10/29/2024 14:10,100,122,TRUE,10/29/2024 14:10,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,5,5,,,,,,,,,,,,,,,,5,6,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,5,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,6,7,,,,,,
+10/29/2024 14:08,10/29/2024 14:11,100,172,TRUE,10/29/2024 14:11,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,4,5,,,,,,,,,,,,,6,6,6,,,,1,2,1
+10/29/2024 14:09,10/29/2024 14:11,100,138,TRUE,10/29/2024 14:11,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,5,6,,,,,,,,,,,,,,,,,,,,,,5,5,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,3,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,5,3,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 14:09,10/29/2024 14:12,100,180,TRUE,10/29/2024 14:12,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,5,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,3,,,,,6,6,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,5,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,4,5,,,
+10/29/2024 14:09,10/29/2024 14:13,100,210,TRUE,10/29/2024 14:13,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,4,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,,,,7,5,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,7,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 14:09,10/29/2024 14:14,100,291,TRUE,10/29/2024 14:14,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,5,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,5,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,5,7,,,,,,,,,,,,,,,,,,
+10/29/2024 14:09,10/29/2024 14:14,100,296,TRUE,10/29/2024 14:14,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,4,5,,,,,,,,,,,,,5,5,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,7,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 14:11,10/29/2024 14:14,100,174,TRUE,10/29/2024 14:14,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,6,6,6,,,,,,,,,,,,,,,,,,,,,,5,4,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,3,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 14:09,10/29/2024 14:14,100,325,TRUE,10/29/2024 14:14,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,7,6,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,6,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,6,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,6,6,,,,,,,,,
+10/29/2024 14:09,10/29/2024 14:14,100,311,TRUE,10/29/2024 14:14,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,7,6,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,5,5,5,6,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,2,2,,,,,,,,,,6,6,5,,,,,,
+10/29/2024 14:08,10/29/2024 14:14,100,361,TRUE,10/29/2024 14:14,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,3,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,6,,,,,,,,,,,,,,,,6,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,3,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 14:09,10/29/2024 14:17,100,474,TRUE,10/29/2024 14:17,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,6,,,,,,,,,,,,,,,,,,,,,,7,5,5,,,,,,,,,,,,,,,,3,2,2,,,,6,5,5,,,,,,,,,,5,4,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 14:09,10/29/2024 14:17,100,476,TRUE,10/29/2024 14:17,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,6,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,6,6,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,5,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 14:10,10/29/2024 14:18,100,490,TRUE,10/29/2024 14:18,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,,,,,,,,,,6,7,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,2,6,,,,,,,,,,7,7,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1,,,,,,
+10/29/2024 14:09,10/29/2024 14:18,100,538,TRUE,10/29/2024 14:18,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,3,3,,,,,,,,,,,,,5,4,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,4,3,,,
+10/29/2024 14:15,10/29/2024 14:19,100,223,TRUE,10/29/2024 14:19,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,7,7,7,,,,5,3,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,4,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,5,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,6,5,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 15:47,10/29/2024 15:49,100,154,TRUE,10/29/2024 15:49,EN,Yes,Yes,Yes,Yes,Yes,Yes,,5,6,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,6,2,,,,,,,,,,,,,,,,,,,,,,5,5,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,3,2,,,,,,
+10/29/2024 15:46,10/29/2024 15:50,100,206,TRUE,10/29/2024 15:50,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,7,6,,,,,,,,,,,,,,,,6,6,7,,,,,,,,,,6,6,6,,,,,,,,,,,,,,,,,,,,,,6,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 15:49,10/29/2024 15:51,100,129,TRUE,10/29/2024 15:51,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,6,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,7,7,7,,,,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,6,6,,,,,,,,,,,,,,,,,,
+10/29/2024 15:48,10/29/2024 15:51,100,208,TRUE,10/29/2024 15:51,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,6,6,5,,,,,,,,,,,,,,,,,,,,,,6,6,6,,,,,,,,,,,,,6,5,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 15:50,10/29/2024 15:52,100,112,TRUE,10/29/2024 15:52,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,5,6,5,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,6,6,5,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 15:44,10/29/2024 15:53,100,545,TRUE,10/29/2024 15:53,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,5,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,5,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,6,,,,,,,,,,,,,2,3,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,5,3,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 15:52,10/29/2024 15:55,100,168,TRUE,10/29/2024 15:55,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,3,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,6,6,,,,,,,,,,,,,,,,,,,,,,6,5,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,4,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,6,6,,,
+10/29/2024 15:53,10/29/2024 15:55,100,125,TRUE,10/29/2024 15:55,EN,Yes,Yes,Yes,Yes,Yes,Yes,,5,5,5,,,,,,,,,,,,,6,5,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,6,,,,,,,5,4,,,,,,,,,,,7,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 15:54,10/29/2024 15:56,100,123,TRUE,10/29/2024 15:56,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,6,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,7,5,,,,,,,,,,3,5,6,,,,,,,,,,,,,,,,,,,,,,,,,6,5,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,5,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 15:53,10/29/2024 15:56,100,143,TRUE,10/29/2024 15:56,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,7,7,,,,,,,7,7,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,7,7,,,,,,
+10/29/2024 15:53,10/29/2024 15:56,100,147,TRUE,10/29/2024 15:56,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,7,6,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,3,3,5,4,5,,,,,,,,,,,,,,,,,,,6,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 15:53,10/29/2024 15:56,100,148,TRUE,10/29/2024 15:56,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,6,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,5,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,5,5,,,,,,,,,,,,,,,,,,,6,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,6,7,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 15:53,10/29/2024 15:56,100,151,TRUE,10/29/2024 15:56,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,5,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,5,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,5,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,5,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 15:53,10/29/2024 15:56,100,160,TRUE,10/29/2024 15:56,EN,Yes,Yes,Yes,Yes,Yes,Yes,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,,,,,,,,,,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,3,,,,,,,,,,,,,,,,,,
+10/29/2024 15:53,10/29/2024 15:56,100,154,TRUE,10/29/2024 15:56,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,7,6,,,,,,,,,,,,,,,,,,,,,,5,4,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 15:53,10/29/2024 15:56,100,176,TRUE,10/29/2024 15:56,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,7,7,7,,,,6,5,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,3,2,,,,,,,,,,,,,,,,,,,,,,6,6,6,,,,,,,,,,,,,,,,,,,,,,,,,5,4,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 15:53,10/29/2024 15:56,100,193,TRUE,10/29/2024 15:56,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,6,7,6,5,6,,,,,,,,,,,,,,,,,,,7,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,3,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,5,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 15:51,10/29/2024 15:56,100,316,TRUE,10/29/2024 15:56,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,2,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,5,6,,,,,,,,,,,,,,,,,,,,,,2,3,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,6,,,,,,,,,,,,,,,,,,,3,2,4,,,,,,,,,,,,,,,
+10/29/2024 15:50,10/29/2024 15:57,100,430,TRUE,10/29/2024 15:57,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,3,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,5,5,,,,,,,,,,,,,,,,,,,,,,4,4,4,,,,,,,,,,,,,,,
+10/29/2024 15:53,10/29/2024 15:57,100,207,TRUE,10/29/2024 15:57,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,7,7,7,,,,,,,,,,,,,7,6,6,,,,,,,,,,,,,7,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,1
+10/29/2024 15:55,10/29/2024 15:57,100,146,TRUE,10/29/2024 15:57,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,5,5,,,,,,,,,,,,,,,,,,,6,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,7,6,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 15:53,10/29/2024 15:57,100,221,TRUE,10/29/2024 15:57,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,5,6,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,7,6,,,,5,7,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,3,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 15:53,10/29/2024 15:57,100,244,TRUE,10/29/2024 15:57,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,7,5,2,5,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 15:53,10/29/2024 15:58,100,252,TRUE,10/29/2024 15:58,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,4,4,,,,,,,,,,,,,,,,,,,,,,,,,5,5,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,3,3,,,,,,,,,,,,,,,,,,,6,5,6
+10/29/2024 15:55,10/29/2024 15:58,100,213,TRUE,10/29/2024 15:58,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,6,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 15:53,10/29/2024 15:58,100,320,TRUE,10/29/2024 15:58,EN,Yes,Yes,Yes,Yes,Yes,Yes,,6,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,6,6,,,,5,5,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,3,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,4,4,,,,,,,,,
+10/29/2024 15:54,10/29/2024 15:59,100,332,TRUE,10/29/2024 15:59,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,6,6,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,5,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,2,4,,,,5,6,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,4,5,,,
+10/29/2024 15:53,10/29/2024 15:59,100,365,TRUE,10/29/2024 15:59,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,7,7,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,7,7,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 15:53,10/29/2024 16:00,100,381,TRUE,10/29/2024 16:00,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,7,,,,,,,,,,7,6,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 15:55,10/29/2024 16:00,100,311,TRUE,10/29/2024 16:00,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,6,5,6,7,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,3,4,,,
+10/29/2024 15:53,10/29/2024 16:02,100,504,TRUE,10/29/2024 16:02,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,2,2,,,,,,,,,,,,,,,,,,,5,7,3,,,,,,,,,,,,,,,,7,6,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,3,3,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 15:54,10/29/2024 16:03,100,505,TRUE,10/29/2024 16:03,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,,,,5,7,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,5,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,6,6,,,,,,,,,,,,,,,,,,
+10/29/2024 15:57,10/29/2024 16:03,100,372,TRUE,10/29/2024 16:03,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,4,3,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,4,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,4,5,,,,,,,,,,,,,,,,,,,,,,5,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,5,5,,,,,,
+10/29/2024 15:59,10/29/2024 16:03,100,226,TRUE,10/29/2024 16:03,EN,Yes,Yes,Yes,Yes,Yes,Yes,,5,6,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,4,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,,,
+10/29/2024 16:00,10/29/2024 16:03,100,219,TRUE,10/29/2024 16:03,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,,,,,,,,,,6,7,6,,,,,,,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,5,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,6,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 15:59,10/29/2024 16:07,100,501,TRUE,10/29/2024 16:07,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,,,,,,,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 15:54,10/29/2024 16:07,100,772,TRUE,10/29/2024 16:07,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,6,6,,,,,,,,,,7,7,7,7,6,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 16:31,10/29/2024 16:33,100,102,TRUE,10/29/2024 16:33,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,7,7,6,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,,,,,,,,,,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7
+10/29/2024 16:30,10/29/2024 16:35,100,289,TRUE,10/29/2024 16:35,EN,Yes,Yes,Yes,Yes,Yes,Yes,,6,7,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,3,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,,,,,,,6,7,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11/3/2024 12:55,11/3/2024 12:56,100,34,TRUE,11/3/2024 12:56,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,2,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,2,5,,,,6,6,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,5,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,5,7,,,,,,,,,
+10/29/2024 11:08,10/29/2024 11:10,77,164,FALSE,11/5/2024 11:10,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,5,4,,,,4,4,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,,,,,,,,,,,,,7,7,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 11:08,10/29/2024 11:11,77,192,FALSE,11/5/2024 11:11,EN,Yes,Yes,Yes,Yes,Yes,Yes,,5,,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,5,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 11:08,10/29/2024 11:12,92,220,FALSE,11/5/2024 11:12,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 11:08,10/29/2024 11:13,92,279,FALSE,11/5/2024 11:13,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,3,3,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,3,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,5,5,3,3,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,3,3,,,,,,,,,,,,,,,
+10/29/2024 12:04,10/29/2024 12:05,15,20,FALSE,11/5/2024 12:05,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 11:58,10/29/2024 12:13,92,908,FALSE,11/5/2024 12:13,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,5,,,,,,,,,,,,,,,,,,,,,,,,,5,4,6,,,,,,,,,,6,6,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 14:24,10/29/2024 14:24,15,4,FALSE,11/5/2024 14:24,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 15:47,10/29/2024 15:50,77,164,FALSE,11/5/2024 15:50,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 15:50,10/29/2024 15:53,92,159,FALSE,11/5/2024 15:53,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,4,4,,,,,,,,,,,,,,,,,,,6,5,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,5,5,,,,,,,4,3,4,,,,,,,,,,,,,,,
+10/29/2024 15:55,10/29/2024 15:57,77,88,FALSE,11/5/2024 15:57,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/29/2024 14:08,10/29/2024 17:29,77,12028,FALSE,11/5/2024 17:29,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,7,6,,,,,,,,,,,,,,,,,,,4,4,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,3,3,,,,,,,5,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10/30/2024 6:14,10/30/2024 6:40,15,1594,FALSE,11/6/2024 6:40,EN,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

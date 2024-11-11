@@ -1,0 +1,944 @@
+StartDate,EndDate,Progress,Duration (in seconds),Finished,RecordedDate,UserLanguage,C1,C2,C3,C4,C5,C6,ID,1_T1_1,1_T1_2,1_T1_3,1_T2,2_T1_1,2_T1_2,2_T1_3,2_T2,3_T1_1,3_T1_2,3_T1_3,3_T2,4_T1_1,4_T1_2,4_T1_3,4_T2,5_T1_1,5_T1_2,5_T1_3,5_T2,6_T1_1,6_T1_2,6_T1_3,6_T2,7_T1_1,7_T1_2,7_T1_3,7_T2,8_T1_1,8_T1_2,8_T1_3,8_T2,9_T1_1,9_T1_2,9_T1_3,9_T2,10_T1_1,10_T1_2,10_T1_3,10_T2,11_T1_1,11_T1_2,11_T1_3,11_T2,12_T1_1,12_T1_2,12_T1_3,12_T2,13_T1_1,13_T1_2,13_T1_3,13_T2,14_T1_1,14_T1_2,14_T1_3,14_T2,15_T1_1,15_T1_2,15_T1_3,15_T2,16_T1_1,16_T1_2,16_T1_3,16_T2,17_T1_1,17_T1_2,17_T1_3,17_T2,18_T1_1,18_T1_2,18_T1_3,18_T2,19_T1_1,19_T1_2,19_T1_3,19_T2,20_T1_1,20_T1_2,20_T1_3,20_T2,21_T1_1,21_T1_2,21_T1_3,21_T2,22_T1_1,22_T1_2,22_T1_3,22_T2,23_T1_1,23_T1_2,23_T1_3,23_T2,24_T1_1,24_T1_2,24_T1_3,24_T2,25_T1_1,25_T1_2,25_T1_3,25_T2,26_T1_1,26_T1_2,26_T1_3,26_T2,27_T1_1,27_T1_2,27_T1_3,27_T2,28_T1_1,28_T1_2,28_T1_3,28_T2,29_T1_1,29_T1_2,29_T1_3,29_T2,30_T1_1,30_T1_2,30_T1_3,30_T2,31_T1_1,31_T1_2,31_T1_3,31_T2,32_T1_1,32_T1_2,32_T1_3,32_T2,33_T1_1,33_T1_2,33_T1_3,33_T2,34_T1_1,34_T1_2,34_T1_3,34_T2,35_T1_1,35_T1_2,35_T1_3,35_T2
+Start Date,End Date,Progress,Duration (in seconds),Finished,Recorded Date,User Language,1. I confirm I have understood the information on the previous page about the study.,"2. I understand that my participation is voluntary, and that I can withdraw at any time without giving a reason. Withdrawing will not affect any of my rights.",3. I consent to my anonymised data being used in academic publications and presentations.,4. I understand that my anonymised data can be stored for a minimum of two years.,5. I am prepared to allow my data to be used in future ethically approved research.,6. I agree to take part in this study.,What is your Prolific ID ?,"Explanation:
+
+[Field-1] - Prolonged periods of heavy rainfall training over the exact same area could cause a significant flooding event in isolated locations across the southeast Florida coast today and over the next several days, as a stationary front is situated over that region. - 1","Explanation:
+
+[Field-1] - Prolonged periods of heavy rainfall training over the exact same area could cause a significant flooding event in isolated locations across the southeast Florida coast today and over the next several days, as a stationary front is situated over that region. - 2","Explanation:
+
+[Field-1] - Prolonged periods of heavy rainfall training over the exact same area could cause a significant flooding event in isolated locations across the southeast Florida coast today and over the next several days, as a stationary front is situated over that region. - 3","Prolonged periods of heavy rainfall training over the exact same area could cause a significant flooding event in isolated locations across the southeast Florida coast today and over the next several days, as a stationary front is situated over that region. - Your task:
+
+
+
+Original explanation:
+
+[Field-1]
+
+
+
+Concepts-Set:
+
+[Field-2]
+
+[Field-3]
+
+[Field-4]
+
+
+
+Please provide a better explanation that is informative, clear and effective.","Explanation:
+
+[Field-1] - Several days of heavy rainfall across portions of southeastern Mexico and Central America could cause life-threatening flash floods and mudslides. - 1","Explanation:
+
+[Field-1] - Several days of heavy rainfall across portions of southeastern Mexico and Central America could cause life-threatening flash floods and mudslides. - 2","Explanation:
+
+[Field-1] - Several days of heavy rainfall across portions of southeastern Mexico and Central America could cause life-threatening flash floods and mudslides. - 3","Several days of heavy rainfall across portions of southeastern Mexico and Central America could cause life-threatening flash floods and mudslides. - Your task:
+
+
+
+Original explanation:
+
+[Field-1]
+
+
+
+Concepts-Set:
+
+[Field-2]
+
+[Field-3]
+
+[Field-4]
+
+
+
+Please provide a better explanation that is informative, clear and effective.","Explanation:
+
+[Field-1] - In 1985, Carl Sagan told Congress that continuing to burn fossil fuels would increase global temperatures, cause climate change, melt glaciers and ice sheets, and cause sea levels to rise.   - 1","Explanation:
+
+[Field-1] - In 1985, Carl Sagan told Congress that continuing to burn fossil fuels would increase global temperatures, cause climate change, melt glaciers and ice sheets, and cause sea levels to rise.   - 2","Explanation:
+
+[Field-1] - In 1985, Carl Sagan told Congress that continuing to burn fossil fuels would increase global temperatures, cause climate change, melt glaciers and ice sheets, and cause sea levels to rise.   - 3","In 1985, Carl Sagan told Congress that continuing to burn fossil fuels would increase global temperatures, cause climate change, melt glaciers and ice sheets, and cause sea levels to rise.   - Your task:
+
+
+
+Original explanation:
+
+[Field-1]
+
+
+
+Concepts-Set:
+
+[Field-2]
+
+[Field-3]
+
+[Field-4]
+
+
+
+Please provide a better explanation that is informative, clear and effective.","Explanation:
+
+[Field-1] - Limited to 1.5 degrees and greenhouse gas emissions that cause global warming should be reduced after reaching their peak in 2025 at the latest. If we do not reduce the greenhouse gas emissions that cause global warming and related climate change, the global temperature increase.   - 1","Explanation:
+
+[Field-1] - Limited to 1.5 degrees and greenhouse gas emissions that cause global warming should be reduced after reaching their peak in 2025 at the latest. If we do not reduce the greenhouse gas emissions that cause global warming and related climate change, the global temperature increase.   - 2","Explanation:
+
+[Field-1] - Limited to 1.5 degrees and greenhouse gas emissions that cause global warming should be reduced after reaching their peak in 2025 at the latest. If we do not reduce the greenhouse gas emissions that cause global warming and related climate change, the global temperature increase.   - 3","Limited to 1.5 degrees and greenhouse gas emissions that cause global warming should be reduced after reaching their peak in 2025 at the latest. If we do not reduce the greenhouse gas emissions that cause global warming and related climate change, the global temperature increase.   - Your task:
+
+
+
+Original explanation:
+
+[Field-1]
+
+
+
+Concepts-Set:
+
+[Field-2]
+
+[Field-3]
+
+[Field-4]
+
+
+
+Please provide a better explanation that is informative, clear and effective.","Explanation:
+
+[Field-1] - 3) Using electronic devices such as smartphones, laptops, and other devices for extended periods can cause eye strain and affect mental health. It's essential to take breaks and reduce screen time to avoid these issues.  - 1","Explanation:
+
+[Field-1] - 3) Using electronic devices such as smartphones, laptops, and other devices for extended periods can cause eye strain and affect mental health. It's essential to take breaks and reduce screen time to avoid these issues.  - 2","Explanation:
+
+[Field-1] - 3) Using electronic devices such as smartphones, laptops, and other devices for extended periods can cause eye strain and affect mental health. It's essential to take breaks and reduce screen time to avoid these issues.  - 3","3) Using electronic devices such as smartphones, laptops, and other devices for extended periods can cause eye strain and affect mental health. It's essential to take breaks and reduce screen time to avoid these issues.  - Your task:
+
+
+
+Original explanation:
+
+[Field-1]
+
+
+
+Concepts-Set:
+
+[Field-2]
+
+[Field-3]
+
+[Field-4]
+
+
+
+Please provide a better explanation that is informative, clear and effective.","Explanation:
+
+[Field-1] - Extreme weather events driven by climate change can cause devastation and impact both indoor and outdoor air. For example, the CDC and US EPA suggest a link between more frequent and severe wildfires, smoke, and decreased air quality.   - 1","Explanation:
+
+[Field-1] - Extreme weather events driven by climate change can cause devastation and impact both indoor and outdoor air. For example, the CDC and US EPA suggest a link between more frequent and severe wildfires, smoke, and decreased air quality.   - 2","Explanation:
+
+[Field-1] - Extreme weather events driven by climate change can cause devastation and impact both indoor and outdoor air. For example, the CDC and US EPA suggest a link between more frequent and severe wildfires, smoke, and decreased air quality.   - 3","Extreme weather events driven by climate change can cause devastation and impact both indoor and outdoor air. For example, the CDC and US EPA suggest a link between more frequent and severe wildfires, smoke, and decreased air quality.   - Your task:
+
+
+
+Original explanation:
+
+[Field-1]
+
+
+
+Concepts-Set:
+
+[Field-2]
+
+[Field-3]
+
+[Field-4]
+
+
+
+Please provide a better explanation that is informative, clear and effective.","Explanation:
+
+[Field-1] - There was a real concern when the pandemic hit that remote work was going to cause a drop in productivity.   - 1","Explanation:
+
+[Field-1] - There was a real concern when the pandemic hit that remote work was going to cause a drop in productivity.   - 2","Explanation:
+
+[Field-1] - There was a real concern when the pandemic hit that remote work was going to cause a drop in productivity.   - 3","There was a real concern when the pandemic hit that remote work was going to cause a drop in productivity.   - Your task:
+
+
+
+Original explanation:
+
+[Field-1]
+
+
+
+Concepts-Set:
+
+[Field-2]
+
+[Field-3]
+
+[Field-4]
+
+
+
+Please provide a better explanation that is informative, clear and effective.","Explanation:
+
+[Field-1] - This was my main long-term concern about the pandemic. Remote work (a good thing) would cause more workers to flock to suburban and exurban sprawl (a bad thing). We need more space in our homes to be able to work there.  - 1","Explanation:
+
+[Field-1] - This was my main long-term concern about the pandemic. Remote work (a good thing) would cause more workers to flock to suburban and exurban sprawl (a bad thing). We need more space in our homes to be able to work there.  - 2","Explanation:
+
+[Field-1] - This was my main long-term concern about the pandemic. Remote work (a good thing) would cause more workers to flock to suburban and exurban sprawl (a bad thing). We need more space in our homes to be able to work there.  - 3","This was my main long-term concern about the pandemic. Remote work (a good thing) would cause more workers to flock to suburban and exurban sprawl (a bad thing). We need more space in our homes to be able to work there.  - Your task:
+
+
+
+Original explanation:
+
+[Field-1]
+
+
+
+Concepts-Set:
+
+[Field-2]
+
+[Field-3]
+
+[Field-4]
+
+
+
+Please provide a better explanation that is informative, clear and effective.","Explanation:
+
+[Field-1] - The pandemic causes people without jobs to look elsewhere, or those who could work remotely, can have more choice.  - 1","Explanation:
+
+[Field-1] - The pandemic causes people without jobs to look elsewhere, or those who could work remotely, can have more choice.  - 2","Explanation:
+
+[Field-1] - The pandemic causes people without jobs to look elsewhere, or those who could work remotely, can have more choice.  - 3","The pandemic causes people without jobs to look elsewhere, or those who could work remotely, can have more choice.  - Your task:
+
+
+
+Original explanation:
+
+[Field-1]
+
+
+
+Concepts-Set:
+
+[Field-2]
+
+[Field-3]
+
+[Field-4]
+
+
+
+Please provide a better explanation that is informative, clear and effective.","Explanation:
+
+[Field-1] - These people claim that poverty and lack of education cause crime and then accuse the richest most educated people in the world of being the greatest criminals on this earth by the nature of their wealth.  - 1","Explanation:
+
+[Field-1] - These people claim that poverty and lack of education cause crime and then accuse the richest most educated people in the world of being the greatest criminals on this earth by the nature of their wealth.  - 2","Explanation:
+
+[Field-1] - These people claim that poverty and lack of education cause crime and then accuse the richest most educated people in the world of being the greatest criminals on this earth by the nature of their wealth.  - 3","These people claim that poverty and lack of education cause crime and then accuse the richest most educated people in the world of being the greatest criminals on this earth by the nature of their wealth.  - Your task:
+
+
+
+Original explanation:
+
+[Field-1]
+
+
+
+Concepts-Set:
+
+[Field-2]
+
+[Field-3]
+
+[Field-4]
+
+
+
+Please provide a better explanation that is informative, clear and effective.","Explanation:
+
+[Field-1] - Poor education on how to budget, and sort taxes and lack of education on household abilities like how to cook at home can cause poverty. If you can not do these simple things then you find yourself spending on takeaways and not budgeting properly. Better Education - Better Parents.  - 1","Explanation:
+
+[Field-1] - Poor education on how to budget, and sort taxes and lack of education on household abilities like how to cook at home can cause poverty. If you can not do these simple things then you find yourself spending on takeaways and not budgeting properly. Better Education - Better Parents.  - 2","Explanation:
+
+[Field-1] - Poor education on how to budget, and sort taxes and lack of education on household abilities like how to cook at home can cause poverty. If you can not do these simple things then you find yourself spending on takeaways and not budgeting properly. Better Education - Better Parents.  - 3","Poor education on how to budget, and sort taxes and lack of education on household abilities like how to cook at home can cause poverty. If you can not do these simple things then you find yourself spending on takeaways and not budgeting properly. Better Education - Better Parents.  - Your task:
+
+
+
+Original explanation:
+
+[Field-1]
+
+
+
+Concepts-Set:
+
+[Field-2]
+
+[Field-3]
+
+[Field-4]
+
+
+
+Please provide a better explanation that is informative, clear and effective.","Explanation:
+
+[Field-1] - It was simply misinformation from Google’s Gemini. This was not an official announcement from Google leadership. Social media has caused a lot of societal breakdowns. I fear modern AI will cause greater societal harm. - 1","Explanation:
+
+[Field-1] - It was simply misinformation from Google’s Gemini. This was not an official announcement from Google leadership. Social media has caused a lot of societal breakdowns. I fear modern AI will cause greater societal harm. - 2","Explanation:
+
+[Field-1] - It was simply misinformation from Google’s Gemini. This was not an official announcement from Google leadership. Social media has caused a lot of societal breakdowns. I fear modern AI will cause greater societal harm. - 3","It was simply misinformation from Google’s Gemini. This was not an official announcement from Google leadership. Social media has caused a lot of societal breakdowns. I fear modern AI will cause greater societal harm. - Your task:
+
+
+
+Original explanation:
+
+[Field-1]
+
+
+
+Concepts-Set:
+
+[Field-2]
+
+[Field-3]
+
+[Field-4]
+
+
+
+Please provide a better explanation that is informative, clear and effective.","Explanation:
+
+[Field-1] - Cars cause congestion and traffic, not cyclists, pedestrians, and public transport users. Those who don't ""need"" to use their car should free up road space for those who do ""need"" to make changes & address their car addiction. - 1","Explanation:
+
+[Field-1] - Cars cause congestion and traffic, not cyclists, pedestrians, and public transport users. Those who don't ""need"" to use their car should free up road space for those who do ""need"" to make changes & address their car addiction. - 2","Explanation:
+
+[Field-1] - Cars cause congestion and traffic, not cyclists, pedestrians, and public transport users. Those who don't ""need"" to use their car should free up road space for those who do ""need"" to make changes & address their car addiction. - 3","Cars cause congestion and traffic, not cyclists, pedestrians, and public transport users. Those who don't ""need"" to use their car should free up road space for those who do ""need"" to make changes & address their car addiction. - Your task:
+
+
+
+Original explanation:
+
+[Field-1]
+
+
+
+Concepts-Set:
+
+[Field-2]
+
+[Field-3]
+
+[Field-4]
+
+
+
+Please provide a better explanation that is informative, clear and effective.","Explanation:
+
+[Field-1] - Hunger is the effect. The real cause of poverty is the government that ignores : 1. Education / Skill development 2. Economic development 3. Population control - 1","Explanation:
+
+[Field-1] - Hunger is the effect. The real cause of poverty is the government that ignores : 1. Education / Skill development 2. Economic development 3. Population control - 2","Explanation:
+
+[Field-1] - Hunger is the effect. The real cause of poverty is the government that ignores : 1. Education / Skill development 2. Economic development 3. Population control - 3","Hunger is the effect. The real cause of poverty is the government that ignores : 1. Education / Skill development 2. Economic development 3. Population control - Your task:
+
+
+
+Original explanation:
+
+[Field-1]
+
+
+
+Concepts-Set:
+
+[Field-2]
+
+[Field-3]
+
+[Field-4]
+
+
+
+Please provide a better explanation that is informative, clear and effective.","Explanation:
+
+[Field-1] - It is not possible to predict when natural disasters such as earthquakes, landslides, tsunamis, storms, heavy rains, etc. have to be faced in the coming adverse times. Such disasters cause immeasurable financial and loss of life. - 1","Explanation:
+
+[Field-1] - It is not possible to predict when natural disasters such as earthquakes, landslides, tsunamis, storms, heavy rains, etc. have to be faced in the coming adverse times. Such disasters cause immeasurable financial and loss of life. - 2","Explanation:
+
+[Field-1] - It is not possible to predict when natural disasters such as earthquakes, landslides, tsunamis, storms, heavy rains, etc. have to be faced in the coming adverse times. Such disasters cause immeasurable financial and loss of life. - 3","It is not possible to predict when natural disasters such as earthquakes, landslides, tsunamis, storms, heavy rains, etc. have to be faced in the coming adverse times. Such disasters cause immeasurable financial and loss of life. - Your task:
+
+
+
+Original explanation:
+
+[Field-1]
+
+
+
+Concepts-Set:
+
+[Field-2]
+
+[Field-3]
+
+[Field-4]
+
+
+
+Please provide a better explanation that is informative, clear and effective.","Explanation:
+
+[Field-1] - Animal agriculture is the leading cause of deforestation, biodiversity loss, water pollution/depletion, marine debris, ocean dead zones and more emissions than all transportation combined, hence ending animal agriculture is inarguably the most effective climate action we can take. - 1","Explanation:
+
+[Field-1] - Animal agriculture is the leading cause of deforestation, biodiversity loss, water pollution/depletion, marine debris, ocean dead zones and more emissions than all transportation combined, hence ending animal agriculture is inarguably the most effective climate action we can take. - 2","Explanation:
+
+[Field-1] - Animal agriculture is the leading cause of deforestation, biodiversity loss, water pollution/depletion, marine debris, ocean dead zones and more emissions than all transportation combined, hence ending animal agriculture is inarguably the most effective climate action we can take. - 3","Animal agriculture is the leading cause of deforestation, biodiversity loss, water pollution/depletion, marine debris, ocean dead zones and more emissions than all transportation combined, hence ending animal agriculture is inarguably the most effective climate action we can take. - Your task:
+
+
+
+Original explanation:
+
+[Field-1]
+
+
+
+Concepts-Set:
+
+[Field-2]
+
+[Field-3]
+
+[Field-4]
+
+
+
+Please provide a better explanation that is informative, clear and effective.","Explanation:
+
+[Field-1] - Modern agriculture has altered the face of the planet more than any other human activity. We need to urgently rethink our global food systems, which are responsible for 80% of deforestation, 70% of freshwater use, and the cause of terrestrial biodiversity loss. - 1","Explanation:
+
+[Field-1] - Modern agriculture has altered the face of the planet more than any other human activity. We need to urgently rethink our global food systems, which are responsible for 80% of deforestation, 70% of freshwater use, and the cause of terrestrial biodiversity loss. - 2","Explanation:
+
+[Field-1] - Modern agriculture has altered the face of the planet more than any other human activity. We need to urgently rethink our global food systems, which are responsible for 80% of deforestation, 70% of freshwater use, and the cause of terrestrial biodiversity loss. - 3","Modern agriculture has altered the face of the planet more than any other human activity. We need to urgently rethink our global food systems, which are responsible for 80% of deforestation, 70% of freshwater use, and the cause of terrestrial biodiversity loss. - Your task:
+
+
+
+Original explanation:
+
+[Field-1]
+
+
+
+Concepts-Set:
+
+[Field-2]
+
+[Field-3]
+
+[Field-4]
+
+
+
+Please provide a better explanation that is informative, clear and effective.","Explanation:
+
+[Field-1] - It's a good time to talk about emergency prep in Southern Ontario. We could have a destructive ice storm, powerful earthquake, severe wind storm or even a solar flare. All of which could cause weeks-long loss of utility infrastructure. Have at least 1 week's worth of food and water ready. - 1","Explanation:
+
+[Field-1] - It's a good time to talk about emergency prep in Southern Ontario. We could have a destructive ice storm, powerful earthquake, severe wind storm or even a solar flare. All of which could cause weeks-long loss of utility infrastructure. Have at least 1 week's worth of food and water ready. - 2","Explanation:
+
+[Field-1] - It's a good time to talk about emergency prep in Southern Ontario. We could have a destructive ice storm, powerful earthquake, severe wind storm or even a solar flare. All of which could cause weeks-long loss of utility infrastructure. Have at least 1 week's worth of food and water ready. - 3","It's a good time to talk about emergency prep in Southern Ontario. We could have a destructive ice storm, powerful earthquake, severe wind storm or even a solar flare. All of which could cause weeks-long loss of utility infrastructure. Have at least 1 week's worth of food and water ready. - Your task:
+
+
+
+Original explanation:
+
+[Field-1]
+
+
+
+Concepts-Set:
+
+[Field-2]
+
+[Field-3]
+
+[Field-4]
+
+
+
+Please provide a better explanation that is informative, clear and effective.","Explanation:
+
+[Field-1] - For example if an earthquake occurred in a city, the cause of deaths and injuries are from collapsing infrastructure, disruption of services, and limited resources rather than the earthquake directly. - 1","Explanation:
+
+[Field-1] - For example if an earthquake occurred in a city, the cause of deaths and injuries are from collapsing infrastructure, disruption of services, and limited resources rather than the earthquake directly. - 2","Explanation:
+
+[Field-1] - For example if an earthquake occurred in a city, the cause of deaths and injuries are from collapsing infrastructure, disruption of services, and limited resources rather than the earthquake directly. - 3","For example if an earthquake occurred in a city, the cause of deaths and injuries are from collapsing infrastructure, disruption of services, and limited resources rather than the earthquake directly. - Your task:
+
+
+
+Original explanation:
+
+[Field-1]
+
+
+
+Concepts-Set:
+
+[Field-2]
+
+[Field-3]
+
+[Field-4]
+
+
+
+Please provide a better explanation that is informative, clear and effective.","Explanation:
+
+[Field-1] - You didn't even attempt to explain the graphs. That's why I asked for sources, which you first claimed were there. Renewable energy has an exponential growth. Renewables use far fewer resources and cause far less emissions than fossils. Carbon intensity is falling. - 1","Explanation:
+
+[Field-1] - You didn't even attempt to explain the graphs. That's why I asked for sources, which you first claimed were there. Renewable energy has an exponential growth. Renewables use far fewer resources and cause far less emissions than fossils. Carbon intensity is falling. - 2","Explanation:
+
+[Field-1] - You didn't even attempt to explain the graphs. That's why I asked for sources, which you first claimed were there. Renewable energy has an exponential growth. Renewables use far fewer resources and cause far less emissions than fossils. Carbon intensity is falling. - 3","You didn't even attempt to explain the graphs. That's why I asked for sources, which you first claimed were there. Renewable energy has an exponential growth. Renewables use far fewer resources and cause far less emissions than fossils. Carbon intensity is falling. - Your task:
+
+
+
+Original explanation:
+
+[Field-1]
+
+
+
+Concepts-Set:
+
+[Field-2]
+
+[Field-3]
+
+[Field-4]
+
+
+
+Please provide a better explanation that is informative, clear and effective.","Explanation:
+
+[Field-1] - If you’re wondering what the heck a tsunami is: it’s a series of ocean waves, usually caused by earthquakes, underwater landslides, or volcanic eruptions, that can last many hours and can cause great destruction and casualties.  - 1","Explanation:
+
+[Field-1] - If you’re wondering what the heck a tsunami is: it’s a series of ocean waves, usually caused by earthquakes, underwater landslides, or volcanic eruptions, that can last many hours and can cause great destruction and casualties.  - 2","Explanation:
+
+[Field-1] - If you’re wondering what the heck a tsunami is: it’s a series of ocean waves, usually caused by earthquakes, underwater landslides, or volcanic eruptions, that can last many hours and can cause great destruction and casualties.  - 3","If you’re wondering what the heck a tsunami is: it’s a series of ocean waves, usually caused by earthquakes, underwater landslides, or volcanic eruptions, that can last many hours and can cause great destruction and casualties.  - Your task:
+
+
+
+Original explanation:
+
+[Field-1]
+
+
+
+Concepts-Set:
+
+[Field-2]
+
+[Field-3]
+
+[Field-4]
+
+
+
+Please provide a better explanation that is informative, clear and effective.","Explanation:
+
+[Field-1] - A solar eclipse occurs when the moon’s shadow falls on the Earth. If the moon is relatively close to the Earth, it will completely obscure the sun and cause a total eclipse. The next total eclipse visible from the U.S. will be on April 8, 2024. - 1","Explanation:
+
+[Field-1] - A solar eclipse occurs when the moon’s shadow falls on the Earth. If the moon is relatively close to the Earth, it will completely obscure the sun and cause a total eclipse. The next total eclipse visible from the U.S. will be on April 8, 2024. - 2","Explanation:
+
+[Field-1] - A solar eclipse occurs when the moon’s shadow falls on the Earth. If the moon is relatively close to the Earth, it will completely obscure the sun and cause a total eclipse. The next total eclipse visible from the U.S. will be on April 8, 2024. - 3","A solar eclipse occurs when the moon’s shadow falls on the Earth. If the moon is relatively close to the Earth, it will completely obscure the sun and cause a total eclipse. The next total eclipse visible from the U.S. will be on April 8, 2024. - Your task:
+
+
+
+Original explanation:
+
+[Field-1]
+
+
+
+Concepts-Set:
+
+[Field-2]
+
+[Field-3]
+
+[Field-4]
+
+
+
+Please provide a better explanation that is informative, clear and effective.","Explanation:
+
+[Field-1] - Fun fact: we get goosebumps when we’re cold cause the hair muscles contract. - 1","Explanation:
+
+[Field-1] - Fun fact: we get goosebumps when we’re cold cause the hair muscles contract. - 2","Explanation:
+
+[Field-1] - Fun fact: we get goosebumps when we’re cold cause the hair muscles contract. - 3","Fun fact: we get goosebumps when we’re cold cause the hair muscles contract. - Your task:
+
+
+
+Original explanation:
+
+[Field-1]
+
+
+
+Concepts-Set:
+
+[Field-2]
+
+[Field-3]
+
+[Field-4]
+
+
+
+Please provide a better explanation that is informative, clear and effective.","Explanation:
+
+[Field-1] - Did you know goosebumps are caused by a muscle? At the base of every hair follicle are tiny fan-shaped muscles called Arrector pili. These muscles contract when the body is cold in an effort to warm the body up and cause a person's hair to ""stand up straight"" on their skin aka goosebumps.  - 1","Explanation:
+
+[Field-1] - Did you know goosebumps are caused by a muscle? At the base of every hair follicle are tiny fan-shaped muscles called Arrector pili. These muscles contract when the body is cold in an effort to warm the body up and cause a person's hair to ""stand up straight"" on their skin aka goosebumps.  - 2","Explanation:
+
+[Field-1] - Did you know goosebumps are caused by a muscle? At the base of every hair follicle are tiny fan-shaped muscles called Arrector pili. These muscles contract when the body is cold in an effort to warm the body up and cause a person's hair to ""stand up straight"" on their skin aka goosebumps.  - 3","Did you know goosebumps are caused by a muscle? At the base of every hair follicle are tiny fan-shaped muscles called Arrector pili. These muscles contract when the body is cold in an effort to warm the body up and cause a person's hair to ""stand up straight"" on their skin aka goosebumps.  - Your task:
+
+
+
+Original explanation:
+
+[Field-1]
+
+
+
+Concepts-Set:
+
+[Field-2]
+
+[Field-3]
+
+[Field-4]
+
+
+
+Please provide a better explanation that is informative, clear and effective.","Explanation:
+
+[Field-1] - The cause of depression for most people is a lack of proper diet, lack of a good sleep schedule, and excessive social media usage. - 1","Explanation:
+
+[Field-1] - The cause of depression for most people is a lack of proper diet, lack of a good sleep schedule, and excessive social media usage. - 2","Explanation:
+
+[Field-1] - The cause of depression for most people is a lack of proper diet, lack of a good sleep schedule, and excessive social media usage. - 3","The cause of depression for most people is a lack of proper diet, lack of a good sleep schedule, and excessive social media usage. - Your task:
+
+
+
+Original explanation:
+
+[Field-1]
+
+
+
+Concepts-Set:
+
+[Field-2]
+
+[Field-3]
+
+[Field-4]
+
+
+
+Please provide a better explanation that is informative, clear and effective.","Explanation:
+
+[Field-1] - How does music improve motivation? Scientific studies prove that music can improve your motivation. Music can cause the brain to release dopamine, a chemical that works to regulate motivation and goal-oriented behaviour ... - 1","Explanation:
+
+[Field-1] - How does music improve motivation? Scientific studies prove that music can improve your motivation. Music can cause the brain to release dopamine, a chemical that works to regulate motivation and goal-oriented behaviour ... - 2","Explanation:
+
+[Field-1] - How does music improve motivation? Scientific studies prove that music can improve your motivation. Music can cause the brain to release dopamine, a chemical that works to regulate motivation and goal-oriented behaviour ... - 3","How does music improve motivation? Scientific studies prove that music can improve your motivation. Music can cause the brain to release dopamine, a chemical that works to regulate motivation and goal-oriented behaviour ... - Your task:
+
+
+
+Original explanation:
+
+[Field-1]
+
+
+
+Concepts-Set:
+
+[Field-2]
+
+[Field-3]
+
+[Field-4]
+
+
+
+Please provide a better explanation that is informative, clear and effective.","Explanation:
+
+[Field-1] - Cats don't cause a release of oxytocin like dogs do. - 1","Explanation:
+
+[Field-1] - Cats don't cause a release of oxytocin like dogs do. - 2","Explanation:
+
+[Field-1] - Cats don't cause a release of oxytocin like dogs do. - 3","Cats don't cause a release of oxytocin like dogs do. - Your task:
+
+
+
+Original explanation:
+
+[Field-1]
+
+
+
+Concepts-Set:
+
+[Field-2]
+
+[Field-3]
+
+[Field-4]
+
+
+
+Please provide a better explanation that is informative, clear and effective.","Explanation:
+
+[Field-1] - Power flashes. If you have ever seen a tornado you know a power flash when you see one. With wind speeds so high no doubt that would cause power lines to go down and may have started subsequent fires. - 1","Explanation:
+
+[Field-1] - Power flashes. If you have ever seen a tornado you know a power flash when you see one. With wind speeds so high no doubt that would cause power lines to go down and may have started subsequent fires. - 2","Explanation:
+
+[Field-1] - Power flashes. If you have ever seen a tornado you know a power flash when you see one. With wind speeds so high no doubt that would cause power lines to go down and may have started subsequent fires. - 3","Power flashes. If you have ever seen a tornado you know a power flash when you see one. With wind speeds so high no doubt that would cause power lines to go down and may have started subsequent fires. - Your task:
+
+
+
+Original explanation:
+
+[Field-1]
+
+
+
+Concepts-Set:
+
+[Field-2]
+
+[Field-3]
+
+[Field-4]
+
+
+
+Please provide a better explanation that is informative, clear and effective.","Explanation:
+
+[Field-1] - Wreak havoc on the earth below. For some, the sound of thunder can be frightening, while others find it exhilarating. During a thunderstorm, lightning strikes can cause power outages, fires, and even damage to buildings. It's important to seek shelter indoors and stay away from windows during a storm to stay safe. Despite the potential danger, thunderstorms are also vital for the environment. They help to replenish the earth with much-needed rainwater, nourishing plants, and replenishing groundwater supplies. So next time you find yourself caught in a thunderstorm, take a moment to appreciate the raw power and beauty of nature at work. Stay safe and enjoy the show! - 1","Explanation:
+
+[Field-1] - Wreak havoc on the earth below. For some, the sound of thunder can be frightening, while others find it exhilarating. During a thunderstorm, lightning strikes can cause power outages, fires, and even damage to buildings. It's important to seek shelter indoors and stay away from windows during a storm to stay safe. Despite the potential danger, thunderstorms are also vital for the environment. They help to replenish the earth with much-needed rainwater, nourishing plants, and replenishing groundwater supplies. So next time you find yourself caught in a thunderstorm, take a moment to appreciate the raw power and beauty of nature at work. Stay safe and enjoy the show! - 2","Explanation:
+
+[Field-1] - Wreak havoc on the earth below. For some, the sound of thunder can be frightening, while others find it exhilarating. During a thunderstorm, lightning strikes can cause power outages, fires, and even damage to buildings. It's important to seek shelter indoors and stay away from windows during a storm to stay safe. Despite the potential danger, thunderstorms are also vital for the environment. They help to replenish the earth with much-needed rainwater, nourishing plants, and replenishing groundwater supplies. So next time you find yourself caught in a thunderstorm, take a moment to appreciate the raw power and beauty of nature at work. Stay safe and enjoy the show! - 3","Wreak havoc on the earth below. For some, the sound of thunder can be frightening, while others find it exhilarating. During a thunderstorm, lightning strikes can cause power outages, fires, and even damage to buildings. It's important to seek shelter indoors and stay away from windows during a storm to stay safe. Despite the potential danger, thunderstorms are also vital for the environment. They help to replenish the earth with much-needed rainwater, nourishing plants, and replenishing groundwater supplies. So next time you find yourself caught in a thunderstorm, take a moment to appreciate the raw power and beauty of nature at work. Stay safe and enjoy the show! - Your task:
+
+
+
+Original explanation:
+
+[Field-1]
+
+
+
+Concepts-Set:
+
+[Field-2]
+
+[Field-3]
+
+[Field-4]
+
+
+
+Please provide a better explanation that is informative, clear and effective.","Explanation:
+
+[Field-1] - What makes you think any of this is impossible? The laws of physics cause freezing water molecules to form countless unique snowflakes—the fact that you can't comprehend it has no bearing on reality. - 1","Explanation:
+
+[Field-1] - What makes you think any of this is impossible? The laws of physics cause freezing water molecules to form countless unique snowflakes—the fact that you can't comprehend it has no bearing on reality. - 2","Explanation:
+
+[Field-1] - What makes you think any of this is impossible? The laws of physics cause freezing water molecules to form countless unique snowflakes—the fact that you can't comprehend it has no bearing on reality. - 3","What makes you think any of this is impossible? The laws of physics cause freezing water molecules to form countless unique snowflakes—the fact that you can't comprehend it has no bearing on reality. - Your task:
+
+
+
+Original explanation:
+
+[Field-1]
+
+
+
+Concepts-Set:
+
+[Field-2]
+
+[Field-3]
+
+[Field-4]
+
+
+
+Please provide a better explanation that is informative, clear and effective.","Explanation:
+
+[Field-1] - It's a cold desert! The temperature drops like a rock at night cause there's no humidity! - 1","Explanation:
+
+[Field-1] - It's a cold desert! The temperature drops like a rock at night cause there's no humidity! - 2","Explanation:
+
+[Field-1] - It's a cold desert! The temperature drops like a rock at night cause there's no humidity! - 3","It's a cold desert! The temperature drops like a rock at night cause there's no humidity! - Your task:
+
+
+
+Original explanation:
+
+[Field-1]
+
+
+
+Concepts-Set:
+
+[Field-2]
+
+[Field-3]
+
+[Field-4]
+
+
+
+Please provide a better explanation that is informative, clear and effective.","Explanation:
+
+[Field-1] - Long-term exposure to UV radiation can have more serious effects on human skin. It can cause premature ageing, which is characterized by wrinkles, fine lines, and age spots. This is because UV radiation damages the collagen and elastin fibres in the skin, which are responsible for keeping it firm and elastic. Over time, this damage can lead to sagging skin and a loss of elasticity.  Long-term exposure to UV radiation can also increase the risk of skin cancer. This is because UV radiation damages the DNA in skin cells, which can lead to mutations that can cause cancer. The most common types of skin cancer are basal cell carcinoma, squamous cell carcinoma, and melanoma. - 1","Explanation:
+
+[Field-1] - Long-term exposure to UV radiation can have more serious effects on human skin. It can cause premature ageing, which is characterized by wrinkles, fine lines, and age spots. This is because UV radiation damages the collagen and elastin fibres in the skin, which are responsible for keeping it firm and elastic. Over time, this damage can lead to sagging skin and a loss of elasticity.  Long-term exposure to UV radiation can also increase the risk of skin cancer. This is because UV radiation damages the DNA in skin cells, which can lead to mutations that can cause cancer. The most common types of skin cancer are basal cell carcinoma, squamous cell carcinoma, and melanoma. - 2","Explanation:
+
+[Field-1] - Long-term exposure to UV radiation can have more serious effects on human skin. It can cause premature ageing, which is characterized by wrinkles, fine lines, and age spots. This is because UV radiation damages the collagen and elastin fibres in the skin, which are responsible for keeping it firm and elastic. Over time, this damage can lead to sagging skin and a loss of elasticity.  Long-term exposure to UV radiation can also increase the risk of skin cancer. This is because UV radiation damages the DNA in skin cells, which can lead to mutations that can cause cancer. The most common types of skin cancer are basal cell carcinoma, squamous cell carcinoma, and melanoma. - 3","Long-term exposure to UV radiation can have more serious effects on human skin. It can cause premature ageing, which is characterized by wrinkles, fine lines, and age spots. This is because UV radiation damages the collagen and elastin fibres in the skin, which are responsible for keeping it firm and elastic. Over time, this damage can lead to sagging skin and a loss of elasticity.  Long-term exposure to UV radiation can also increase the risk of skin cancer. This is because UV radiation damages the DNA in skin cells, which can lead to mutations that can cause cancer. The most common types of skin cancer are basal cell carcinoma, squamous cell carcinoma, and melanoma. - Your task:
+
+
+
+Original explanation:
+
+[Field-1]
+
+
+
+Concepts-Set:
+
+[Field-2]
+
+[Field-3]
+
+[Field-4]
+
+
+
+Please provide a better explanation that is informative, clear and effective.","Explanation:
+
+[Field-1] - Toxins that accumulate for a long time in the body not only cause you to get acne but also cause your skin to age quickly, causing dark circles and puffiness under the eyes. However, this condition can be improved if you regularly drink warm water every day. This helps restore skin cells damaged by harmful free radicals and makes the skin smoother and plumper. - 1","Explanation:
+
+[Field-1] - Toxins that accumulate for a long time in the body not only cause you to get acne but also cause your skin to age quickly, causing dark circles and puffiness under the eyes. However, this condition can be improved if you regularly drink warm water every day. This helps restore skin cells damaged by harmful free radicals and makes the skin smoother and plumper. - 2","Explanation:
+
+[Field-1] - Toxins that accumulate for a long time in the body not only cause you to get acne but also cause your skin to age quickly, causing dark circles and puffiness under the eyes. However, this condition can be improved if you regularly drink warm water every day. This helps restore skin cells damaged by harmful free radicals and makes the skin smoother and plumper. - 3","Toxins that accumulate for a long time in the body not only cause you to get acne but also cause your skin to age quickly, causing dark circles and puffiness under the eyes. However, this condition can be improved if you regularly drink warm water every day. This helps restore skin cells damaged by harmful free radicals and makes the skin smoother and plumper. - Your task:
+
+
+
+Original explanation:
+
+[Field-1]
+
+
+
+Concepts-Set:
+
+[Field-2]
+
+[Field-3]
+
+[Field-4]
+
+
+
+Please provide a better explanation that is informative, clear and effective.","Explanation:
+
+[Field-1] - Limit screen time. Blue light from screens can cause sleep disruption, eye strain, headaches, digital addiction, anxiety and depression. - 1","Explanation:
+
+[Field-1] - Limit screen time. Blue light from screens can cause sleep disruption, eye strain, headaches, digital addiction, anxiety and depression. - 2","Explanation:
+
+[Field-1] - Limit screen time. Blue light from screens can cause sleep disruption, eye strain, headaches, digital addiction, anxiety and depression. - 3","Limit screen time. Blue light from screens can cause sleep disruption, eye strain, headaches, digital addiction, anxiety and depression. - Your task:
+
+
+
+Original explanation:
+
+[Field-1]
+
+
+
+Concepts-Set:
+
+[Field-2]
+
+[Field-3]
+
+[Field-4]
+
+
+
+Please provide a better explanation that is informative, clear and effective.","Explanation:
+
+[Field-1] - Soil erosion is the process of the top layer of soil being washed away or blown away by wind or water. It can cause significant damage to properties, including loss of valuable topsoil, reduced soil fertility, and decreased plant growth. - 1","Explanation:
+
+[Field-1] - Soil erosion is the process of the top layer of soil being washed away or blown away by wind or water. It can cause significant damage to properties, including loss of valuable topsoil, reduced soil fertility, and decreased plant growth. - 2","Explanation:
+
+[Field-1] - Soil erosion is the process of the top layer of soil being washed away or blown away by wind or water. It can cause significant damage to properties, including loss of valuable topsoil, reduced soil fertility, and decreased plant growth. - 3","Soil erosion is the process of the top layer of soil being washed away or blown away by wind or water. It can cause significant damage to properties, including loss of valuable topsoil, reduced soil fertility, and decreased plant growth. - Your task:
+
+
+
+Original explanation:
+
+[Field-1]
+
+
+
+Concepts-Set:
+
+[Field-2]
+
+[Field-3]
+
+[Field-4]
+
+
+
+Please provide a better explanation that is informative, clear and effective."
+"{""ImportId"":""startDate"",""timeZone"":""Europe/London""}","{""ImportId"":""endDate"",""timeZone"":""Europe/London""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""Europe/London""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID6""}","{""ImportId"":""QID7""}","{""ImportId"":""QID8""}","{""ImportId"":""QID9""}","{""ImportId"":""QID10""}","{""ImportId"":""QID11""}","{""ImportId"":""QID41_TEXT""}","{""ImportId"":""1_QID30_1""}","{""ImportId"":""1_QID30_2""}","{""ImportId"":""1_QID30_3""}","{""ImportId"":""1_QID23_TEXT""}","{""ImportId"":""2_QID30_1""}","{""ImportId"":""2_QID30_2""}","{""ImportId"":""2_QID30_3""}","{""ImportId"":""2_QID23_TEXT""}","{""ImportId"":""3_QID30_1""}","{""ImportId"":""3_QID30_2""}","{""ImportId"":""3_QID30_3""}","{""ImportId"":""3_QID23_TEXT""}","{""ImportId"":""4_QID30_1""}","{""ImportId"":""4_QID30_2""}","{""ImportId"":""4_QID30_3""}","{""ImportId"":""4_QID23_TEXT""}","{""ImportId"":""5_QID30_1""}","{""ImportId"":""5_QID30_2""}","{""ImportId"":""5_QID30_3""}","{""ImportId"":""5_QID23_TEXT""}","{""ImportId"":""6_QID30_1""}","{""ImportId"":""6_QID30_2""}","{""ImportId"":""6_QID30_3""}","{""ImportId"":""6_QID23_TEXT""}","{""ImportId"":""7_QID30_1""}","{""ImportId"":""7_QID30_2""}","{""ImportId"":""7_QID30_3""}","{""ImportId"":""7_QID23_TEXT""}","{""ImportId"":""8_QID30_1""}","{""ImportId"":""8_QID30_2""}","{""ImportId"":""8_QID30_3""}","{""ImportId"":""8_QID23_TEXT""}","{""ImportId"":""9_QID30_1""}","{""ImportId"":""9_QID30_2""}","{""ImportId"":""9_QID30_3""}","{""ImportId"":""9_QID23_TEXT""}","{""ImportId"":""10_QID30_1""}","{""ImportId"":""10_QID30_2""}","{""ImportId"":""10_QID30_3""}","{""ImportId"":""10_QID23_TEXT""}","{""ImportId"":""11_QID30_1""}","{""ImportId"":""11_QID30_2""}","{""ImportId"":""11_QID30_3""}","{""ImportId"":""11_QID23_TEXT""}","{""ImportId"":""12_QID30_1""}","{""ImportId"":""12_QID30_2""}","{""ImportId"":""12_QID30_3""}","{""ImportId"":""12_QID23_TEXT""}","{""ImportId"":""13_QID30_1""}","{""ImportId"":""13_QID30_2""}","{""ImportId"":""13_QID30_3""}","{""ImportId"":""13_QID23_TEXT""}","{""ImportId"":""14_QID30_1""}","{""ImportId"":""14_QID30_2""}","{""ImportId"":""14_QID30_3""}","{""ImportId"":""14_QID23_TEXT""}","{""ImportId"":""15_QID30_1""}","{""ImportId"":""15_QID30_2""}","{""ImportId"":""15_QID30_3""}","{""ImportId"":""15_QID23_TEXT""}","{""ImportId"":""16_QID30_1""}","{""ImportId"":""16_QID30_2""}","{""ImportId"":""16_QID30_3""}","{""ImportId"":""16_QID23_TEXT""}","{""ImportId"":""17_QID30_1""}","{""ImportId"":""17_QID30_2""}","{""ImportId"":""17_QID30_3""}","{""ImportId"":""17_QID23_TEXT""}","{""ImportId"":""18_QID30_1""}","{""ImportId"":""18_QID30_2""}","{""ImportId"":""18_QID30_3""}","{""ImportId"":""18_QID23_TEXT""}","{""ImportId"":""19_QID30_1""}","{""ImportId"":""19_QID30_2""}","{""ImportId"":""19_QID30_3""}","{""ImportId"":""19_QID23_TEXT""}","{""ImportId"":""20_QID30_1""}","{""ImportId"":""20_QID30_2""}","{""ImportId"":""20_QID30_3""}","{""ImportId"":""20_QID23_TEXT""}","{""ImportId"":""21_QID30_1""}","{""ImportId"":""21_QID30_2""}","{""ImportId"":""21_QID30_3""}","{""ImportId"":""21_QID23_TEXT""}","{""ImportId"":""22_QID30_1""}","{""ImportId"":""22_QID30_2""}","{""ImportId"":""22_QID30_3""}","{""ImportId"":""22_QID23_TEXT""}","{""ImportId"":""23_QID30_1""}","{""ImportId"":""23_QID30_2""}","{""ImportId"":""23_QID30_3""}","{""ImportId"":""23_QID23_TEXT""}","{""ImportId"":""24_QID30_1""}","{""ImportId"":""24_QID30_2""}","{""ImportId"":""24_QID30_3""}","{""ImportId"":""24_QID23_TEXT""}","{""ImportId"":""25_QID30_1""}","{""ImportId"":""25_QID30_2""}","{""ImportId"":""25_QID30_3""}","{""ImportId"":""25_QID23_TEXT""}","{""ImportId"":""26_QID30_1""}","{""ImportId"":""26_QID30_2""}","{""ImportId"":""26_QID30_3""}","{""ImportId"":""26_QID23_TEXT""}","{""ImportId"":""27_QID30_1""}","{""ImportId"":""27_QID30_2""}","{""ImportId"":""27_QID30_3""}","{""ImportId"":""27_QID23_TEXT""}","{""ImportId"":""28_QID30_1""}","{""ImportId"":""28_QID30_2""}","{""ImportId"":""28_QID30_3""}","{""ImportId"":""28_QID23_TEXT""}","{""ImportId"":""29_QID30_1""}","{""ImportId"":""29_QID30_2""}","{""ImportId"":""29_QID30_3""}","{""ImportId"":""29_QID23_TEXT""}","{""ImportId"":""30_QID30_1""}","{""ImportId"":""30_QID30_2""}","{""ImportId"":""30_QID30_3""}","{""ImportId"":""30_QID23_TEXT""}","{""ImportId"":""31_QID30_1""}","{""ImportId"":""31_QID30_2""}","{""ImportId"":""31_QID30_3""}","{""ImportId"":""31_QID23_TEXT""}","{""ImportId"":""32_QID30_1""}","{""ImportId"":""32_QID30_2""}","{""ImportId"":""32_QID30_3""}","{""ImportId"":""32_QID23_TEXT""}","{""ImportId"":""33_QID30_1""}","{""ImportId"":""33_QID30_2""}","{""ImportId"":""33_QID30_3""}","{""ImportId"":""33_QID23_TEXT""}","{""ImportId"":""34_QID30_1""}","{""ImportId"":""34_QID30_2""}","{""ImportId"":""34_QID30_3""}","{""ImportId"":""34_QID23_TEXT""}","{""ImportId"":""35_QID30_1""}","{""ImportId"":""35_QID30_2""}","{""ImportId"":""35_QID30_3""}","{""ImportId"":""35_QID23_TEXT""}"
+5/1/2024 11:02,5/1/2024 11:08,100,321,TRUE,5/1/2024 11:08,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,6,3,3,Extreme weather events cause devastation ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,5,3,Natural disasters are a cause of immeasurable financial and loss of life ,,,,,6,6,5,We need to urgently rethink our global food systems which are the leading cause of terrestrial biodiversity loss,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,3,2,Wind speeds so high cause power lines to go down,,,,,,,,,1,6,2,The temperature drops causing no humidity ,,,,,,,,,,,,,,,,
+5/1/2024 10:59,5/1/2024 11:09,100,557,TRUE,5/1/2024 11:09,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,3,5,The pandemic caused work to be possible to be done remotely. Making people without jobs be able to look to look elsewhere,5,3,5,"People claim that poverty and lack of education is the cause of crime and, at the same time, accuse the richest and most educated people of being the greatest criminals.",,,,,,,,,,,,,,,,,6,6,6,Natural disasters cause immeasurable financial and loss of life mostly because we do not have a good way of predicting them in advance,,,,,,,,,,,,,5,6,7,"If an earthquake occurs in a city, infrastructure, disruption of services, and limited resources are the cause of death and injuries",,,,,,,,,,,,,6,6,7,We get goosebumps when we're cold cause it makes the hair muscles contract,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5/1/2024 11:03,5/1/2024 11:12,100,523,TRUE,5/1/2024 11:12,EN,Yes,Yes,Yes,Yes,Yes,Yes,,5,2,3,Incessant rainfall in isolated locations can cause significant floods,3,3,5,"Flash floods and mudslides could threaten the lives of people across mexico and central america, caused by several days of heavy rainfall",,,,,3,2,2,The global temperature will increase if we do not prevent greenhouse gases. If we limit them to 1.5 degrees then after 2025 they will begin decreasing,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,5,6,"Depression is often caused by a bad diet, lack of sleep, and excessive social media usage",,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,6,"Toxins accumulate in your body, causing acne and skin aging. However, drinking warm water can restore damsged skin cells",,,,,,,,
+5/1/2024 11:02,5/1/2024 11:13,100,637,TRUE,5/1/2024 11:13,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,3,3,You need to be taught how to budget and live in the real world throught good education which will enable you to be a better parent and make good choices to avoid poverty,,,,,,,,,,,,,5,4,5,"With natual disasters we incounter for example earthquakes, landslides, tsunamis and storms we dont really know what the casue is.  But we need to educate and learn as much as we can so we can protect against finacial loss and people dying.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,3,2,"Lots of peole suffer from depression and this can be casued by many factors.  We could try altering our life style to include vegtables, a good nights sleep and making sue we get regular interation with friends.",,,,,,,,,,,,,,,,,,,,,5,5,5,In the desert the temprature will drop at night becasue there is no humididty,,,,,,,,,,,,,6,6,6,"If you have soil erosion in the area you live it has probably been casued by bad weather washing the top layer of the soil away.  This can casue so much damage to the surrounding area, which includes ground and buildings."
+5/1/2024 10:58,5/1/2024 11:14,100,956,TRUE,5/1/2024 11:14,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,6,When the pandemic began people assumed that there could have have been a drop in productivity caused by remote working. ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,,,It is not possible to predict when natural disasters may occur. These such future events cause immeasurable financial and loss of life. ,,,,,6,6,6,Today’s agriculture has changed the planet more than anything to date. Changes need to be made to our global food system which negatively affects the planet and is the cause of terrestrial biodiversity loss.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,5,5,If you have ever seen a tornado you will know a power flash. With wind speeds so high they are likely to cause power lines to go down. ,5,5,5,"During a thunderstorm, lightning strikes can cause power outages, fires, and even damage to buildings. It's important to seek shelter indoors and stay away from windows during a storm to stay safe. Despite the potential danger, thunderstorms are also vital for the environment. They help to replenish the earth with much-needed rainwater, nourishing plants, and replenishing groundwater supplies. So next time you find yourself caught in a thunderstorm, take a moment to appreciate the raw power and beauty of nature at work. Stay safe and enjoy the show!",,,,,,,,,,,,,,,,,,,,,,,,
+5/1/2024 11:02,5/1/2024 11:14,100,732,TRUE,5/1/2024 11:14,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,2,3,People claim that poverty and lack of education cause crime.,,,,,,,,,3,5,4,The main cause of congestion and traffic is cars.,,,,,5,4,4,"It is not possible to predict when natural disasters, such as earthquakes and landslides, will occur in the future. These disasters can cause immeasurable financial issues and loss of life.",5,5,5,"Animal agriculture is the leading cause of deforestation, biodiversity loss, water pollution/depletion, marine debris, ocean dead zones and more emissions than all transportation combined. ending animal agriculture is inarguably the most effective climate action we can take.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,Goosebumps are caused by Arrector pili muscles found at the base of hair follicles. These muscles contract which cause hairs to 'stand up' to warm the body up when a person is cold.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5/1/2024 11:02,5/1/2024 11:14,100,739,TRUE,5/1/2024 11:14,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,6,6,A total eclipse is when the moon completely Shadows the sun. Eclipse happens when the moon's shadow falls on the Earth and that is a partial eclipse,,,,,7,6,6,A muscle at the end of every hair strand is the cause of goosebumps. Wendy's muscles contract then they give you Goosebumps or what we call the hair standing up,,,,,6,5,6,Studies have shown that listening to music releases a happy hormone called dopamine which will help increase your motivation and effectiveness,,,,,,,,,,,,,,,,,4,6,4,The temperature in a cold desert is caused by no humidity in the air so at night the temperature drops drastically,7,7,7,A long-term exposure to UV radiation can cause premature aging as well as wrinkled skin. This happened due to prolonged UV exposure which causes certain DNA cells to die,,,,,,,,,,,,
+5/1/2024 11:00,5/1/2024 11:15,100,925,TRUE,5/1/2024 11:15,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,2,3,"People always claim that poverty and lack of education cause crime, which does not make sense when they accuse rich people of being the greatest criminals on Earth.",,,,,,,,,,,,,3,1,2,"The real cause of poverty comes from the ignorance of the government, hunger then becomes the effect. 1. Education/ skill development, 2. Economic development, 3. Population control",,,,,,,,,,,,,,,,,,,,,,,,,7,7,6,"If you are wondering what is a tsunami: it is a series of ocean waves caused by earthquakes, underwater landslides that can cause great destruction and casualities.",7,7,7,When the moon's shadow falls upon the Earth it is called a solar eclipse. When the moon is close to Earth it will obscure the sun and cause a total eclipse.,,,,,,,,,,,,,,,,,5,2,5,Dogs cause the release of oxytocin more than dogs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5/1/2024 11:01,5/1/2024 11:16,100,862,TRUE,5/1/2024 11:16,EN,Yes,Yes,Yes,Yes,Yes,Yes,,5,5,3,"Storm cause very heavy rain fall, landslides and intense winds. They can cause a significant flooding event",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,5,6,"Poverty leads to lack on education/skill, development, economic development, population control. Poverty cause Hunger ",,,,,,,,,,,,,,,,,4,5,3,A possible earthquake may cause injuries and deaths. The infrastructure may collapse,,,,,,,,,,,,,,,,,5,6,5,Goosebumps are causes by a muscle. At the base of every hair follicle are little fan shaped muscles ,,,,,,,,,,,,,,,,,,,,,,,,,5,6,5,In desert the temperature drops cause there's no humidity. It's like a rock at night ,,,,,,,,,,,,,,,,
+5/1/2024 11:03,5/1/2024 11:16,100,734,TRUE,5/1/2024 11:16,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,7,7,4," climate change, melt glaciers and ice sheets, and  sea levels is caused by burning of fossil fuels  ",,,,,6,7,6,Being always on your phone can cause eye problem  rather lower the brightness on your phone,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,3,4,The government must make sure the roads are big enough for all the cars to prevent traffic ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,Depression is caused by many things in life to avoid being depressed you must eat healthy and exercise ,6,7,5,Music can make you relax and forget about some of your problems,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5/1/2024 11:02,5/1/2024 11:16,100,868,TRUE,5/1/2024 11:16,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,6,6,6,"Carl Sagan warned Congress in 1985 that burning fossil fuels would increase climate change, melt glaciers and ice sheets, and cause sea levels to rise.",,,,,7,7,7,It is essential to take breaks from using electronics such as smart phones and laptops for extended periods as they can cause eye strain and affect mental health.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,2,2,"In adverse times it is not always possible to predict when natural disasters such as earthquakes, landslides, tsunamis, storms and heavy rains may occur. This can result in immeasurable financial loss and loss of life. ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,6,Scientific studies have proved that music can improve motivation. This is due to the release of dopamine from our brains while listening to music. Dopamone is a chemical that works to regulate motivation and goal-motivated behavior. ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,6,"Anxiety, depression, digital addiction, eye strain and headaches can be caused by too much screen time and the exposure of blue light.",,,,
+5/1/2024 10:56,5/1/2024 11:17,100,1257,TRUE,5/1/2024 11:17,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,5,6,"A tsunami is a series of large sized ocean waves caused by earthquakes, underwater landslides or volcanic eruptions. ",,,,,,,,,,,,,5,3,3,"Depression may be caused by lifestyle factors, such as an unhealthy diet, lack of sleep and excessive hours on social media.",5,5,6,"Music improves one's motivation via the release of dopamine in the brain, this chemical is known to regulate goal-oriented behaviour.",,,,,,,,,,,,,,,,,2,2,3,There are extreme temperature drops in the desert at night because there is no humidity in the area. ,,,,,,,,,,,,,6,7,6,Soil erosion is a process whereby the top layer or soil is washed away by strong wind or water. Topsoil is valuable and this process causes reduced soil fertility. 
+5/1/2024 11:02,5/1/2024 11:18,100,947,TRUE,5/1/2024 11:18,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,7,7,6,Carl Sagan said in 1985 that burni g of fossil fuel will lead toan increase in global temperatures which may lead to the rise of sea levels.,4,3,4,"If we do not reduce the greenhouse gas emissions that cause global warming and related climate change, the global temperature increase. The greenhouse gases that cuase global warming must be reduced when they reach theier peak in 2025 and be limited to 1.5 degrees.",,,,,,,,,7,6,6,"When the pandemic hit, there was a real concern that remote work was going to cause a drop in productivity.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,3,2,The laws of physics cause freezing water molecules to form countless unique snowflakes. What makes you think this is imposible?,,,,,,,,,,,,,6,5,5,"Blue light from screens can cause sleep disruption, eye strain, headaches, digital addiction, anxiety and depression. limit screen time.",,,,
+5/1/2024 11:03,5/1/2024 11:18,100,939,TRUE,5/1/2024 11:18,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,5,5,5,"continuing to burn fossil fuels like coal will increase global temperatures, this leads to climate change, melting ice glaciers and ice sheets, and cause sea levels to rise.",,,,,,,,,5,5,,"Extreme weather events in recent years can cause devastation and impact both indoor and outdoor air. For example, the CDC and US EPA suggest a link between more frequent and severe wildfires, smoke, and decreased air quality.",,,,,,,,,,,,,,,,,5,6,5,"Poor education on how to budget, and sort taxes and lack of education can cause poverty. If you havent been taught basic skills then you risk yourself spending on takeaways and not budgeting properly.",,3,3,It was misinformation from Google’s Gemini. This was not an official announcement from Google leadership. Social media has spread a of misinformation. Modern AI is still in its early stages and mistakes will occur,5,5,3,"Cars cause congestion and traffic. Those who don't ""need"" to use their car should consider alternatives like cycle and public transport.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5/1/2024 11:04,5/1/2024 11:21,100,994,TRUE,5/1/2024 11:21,EN,Yes,Yes,Yes,Yes,Yes,Yes,,7,7,7,"Consistent storm hitting southeast Florida would cause a devastating effect due to very heavy rainfall, landslides, and intense winds.",,,,,,,,,,,,,7,7,7,"The use of electronic devices, i.e., smartphones, laptops, and other devices, for long periods cause eye strain and affect mental health. Thus, it is necessary to take breaks in between screen times to avoid these problems.",,,,,2,5,3,People raised their concerns that the amount of remote work would definitely cause a great percentage of a drop in productivity during the pandemic.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,4,3,"During a tornado, power flashes are expected. During this phenomena, wind speeds are so high that it may cause power lines to go down and could start subsequent fires.",,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,"Soil erosion, that is the washing or blowing off of the soil's top layer, may cause significant damage to properties, including loss of valuable topsoil, reduced soil fertility, and decreased plant growth."
+5/1/2024 11:11,5/1/2024 11:22,100,641,TRUE,5/1/2024 11:22,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,5,6,6,"The greenhouse gas emissions that cause global warming should be reduced after reaching their peak by 2025. If we do not reduce the greenhouse gas emissions that cause global warming and related climate change, the global temperature will increase.",,,,,,,,,3,3,3,The greatest concern caused by the pandemic led to huge drop in remote work productivity.,5,3,3,Major concern about pandemic caused more workers to flock to surbaban and exurban sprawl. This means more space is needed in our homes for work to be done.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,5,6,"It's a good time to talk about emergency prep in Southern Ontario. We could have a destructive ice storm, powerful earthquake, severe wind storm or even a solar flare  which could cause weeks-long loss of utility infrastructure. It is important to have at least 1 week worth of food and water ready.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Cats do not cause high levels of oxytocin like dogs do.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5/1/2024 11:01,5/1/2024 11:31,100,1795,TRUE,5/1/2024 11:31,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,6,6,," Extended use of electronic devices, including smartphones, laptops, and other gadgets, can result in eye strain and have a negative impact on mental health. To mitigate these effects, it's crucial to take regular breaks and limit screen time.",,,,,6,6,," When the pandemic began, there was genuine concern that the transition to remote work would lead to a decline in productivity.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,4," The alteration of the planet's landscape by modern agriculture surpasses that of any other human endeavor. Our global food systems, responsible for 80% of deforestation and 70% of freshwater use, are directly linked to the loss of terrestrial biodiversity. Urgent reevaluation of these systems is imperative to mitigate their detrimental impact on the environment.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,,"The primary contributors to depression for many people include a lack of proper diet, insufficient sleep, and excessive social media usage. Addressing these factors is crucial in managing and preventing depression, as they play significant roles in mental well-being.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,," Reducing screen time is advisable due to the harmful effects of blue light emitted by screens. Prolonged exposure to this type of light can disrupt sleep patterns, strain the eyes, trigger headaches, and contribute to conditions such as digital addiction, anxiety, and depression. By limiting screen time, individuals can alleviate these adverse effects and promote better overall well-being.",,,,
+5/1/2024 11:01,5/1/2024 11:35,100,2009,TRUE,5/1/2024 11:35,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,3,3,"What causes poverty? It's a lack of education/skill development, economic development and population control",,,,,,,,,,,,,5,5,5,"How can I protect myself from the damage caused by destructive ice storms, powerful earthquakes, severe wind storms or even solar flares?  Be prepared! Every one of these events can cause loss of utility infrastructure. ",,,,,,,,,,,,,7,7,7,What causes a solar eclipse? When the moon's shadow falls on the Earth it obscures the sun for a few minutes causing darkness to fall. ,,,,,7,7,7,What are goosebumps? When the hairs on your arm stand up straight these are called Goosebumps. They are caused by the muscles contracting in each hair follicle in your body trying to keep you warm.  ,,,,,,,,,,,,,,,,,,,,,,,,,5,5,4,Why are deserts so cold at night? The main cause is because there is no humidity which means the temperature drops a lot,,,,,,,,,,,,,,,,
+5/1/2024 12:00,5/1/2024 12:11,100,675,TRUE,5/1/2024 12:11,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,6,7,7,"It has been proven that using electronic devices for an extended period of time can cause eye strain and hace an affect to mental health, to prevent this, you should reduce the time you spend on the devices and take regular breaks.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,6,Humans get goosebumps when they're cold. The cause of this is the hair muscles contract.,,,,,,,,,,,,,,,,,6,6,6,Power flashes can be caused by tornados. With wind speeds so high they can causepower lines to go down. ,,,,,,,,,5,6,6,At night in the desert the temperature drops. It becomes very cold and the cause is no humidity.,,,,,,,,,,,,,5,5,6,"Soil erosion can cause damage to properties, including loss of valuable topsoil, reduced soil fertility, and decreased plant growth."
+5/1/2024 11:40,5/1/2024 12:14,100,2046,TRUE,5/1/2024 12:14,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,6,7,6,"Long usage of electronic devices, such as smartphones and laptops, can result in eye strain and adversely affect mental health. It's important to take periodic breaks and reduce screen time to mitigate these potential issues.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,4,1,"The main cause of poverty lies in the negligence of the government ignoring education/skill development, economic development, population control and hunger is merely the consequence.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,"An eclipse happens when the moon overshadow the earth. When the moon is very close to the Earth, it completely blocks out the sun, causing in a total eclipse. The next total eclipse in the U.S. is scheduled for April 8, 2024.",,,,,,,,,5,6,5,"The lack of a good sleep, proper diet and excessive social media usage are  main cause for depression for most people.",,,,,,,,,,,,,,,,,,,,,6,7,6,"The temperature drops sharply at night in the cold desert due to the absence of humidity, leading to rapid cooling.",,,,,,,,,,,,,,,,
+5/1/2024 12:06,5/1/2024 12:18,100,724,TRUE,5/1/2024 12:18,EN,Yes,Yes,Yes,Yes,Yes,Yes,,6,3,7,"Ongoing storms over the same area can cause severe floods in isolated location across southeast Florida. That is very heavy rainfall, landslides and intense winds might lead to floods over the next several days.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,5,6,"Hunger is the effect of poverty. The cause of poverty is the goverment because it neglects education and skill development, economic development and it cannot control its population.",,,,,,,,,7,7,6,"Our global food systems are the main cause of 80% of deforestation, 70% of freshwater use and terrestrial biodiversity loss.",,,,,7,7,7,"Deaths and injuries that might occur in a city due to an earthquake might be a cause of collapsed buildings, disruption of services and limited access to resources rather than the earthquake itself.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,3,2,The temperature at this location drops. The main cause is that there is no humidity.,,,,,,,,,,,,,,,,
+5/1/2024 11:04,5/1/2024 15:38,100,16479,TRUE,5/1/2024 15:38,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,6,7,Poor governenecy and over population can lead to poverty ,,,,,,,,,,,,,7,6,7,Natural disasters can happen unexpected causing a lot  of damage  therefore you have to keep some food for emergencies ,7,7,7,Devastatin earthquake led to the deceasing and  hurting of people due to the operation failure of services,,,,,,,,,,,,,,,,,6,6,5,Body temperature can cause muscles contrantion that will lead to goosebumps ,,,,,,,,,,,,,,,,,7,7,7,Lightning strikes can cause power outrages .fire and even damage to buildings so you must alwys try to be safe ,,,,,,,,,,,,,,,,,,,,,,,,
+5/2/2024 8:51,5/2/2024 9:09,100,1033,TRUE,5/2/2024 9:09,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,7,"Goosebumps are caused by muscles contracting. The Arrector pili muscles around every hair follicle contract when the body is cold in an effort to warm up again, this causes the hair to stand up also known as goosebumps.",,,,,6,6,5,"Music can help improve your motivation. Listening to music can cause the brain to release more dopamine, which regulates motivation and goal-oriented behaviour.",3,4,2,Cats unlike dogs do not cause a release of oxtocin.,,,,,3,3,2,"Lightning strikes can cause power outages, fires and even damage to buildings. Despite this danger they are also vital for the enviroment, they replenish earth with water nourishing plants and filling groundwater supplies.",,,,,,,,,,,,,5,6,6,"Toxins in your body that cause you to age quicker, get more acne and have dark circles under your eyes can be treated with drinking warm water every day. Warm water helps restore damaged skin cells making the skin smoother.",,,,,,,,
+5/2/2024 8:51,5/2/2024 9:16,100,1466,TRUE,5/2/2024 9:16,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,3,2,2,"Greenhouse gas emissions, responsible for global warming, have reached peak levels. Failing to decrease the greenhouse gas levels by the year 2025 will lead to considerable climate change and increase the global temperature beyond the critical limit of 1.5 degrees. ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,3,2,"Exceeding usage of cars for transportation can lead to traffic jams. Eliminating unnecessary trips with cars can improve the traffic congestion and create more welcoming conditions for friendlier means of transportation, such as cycling, walking, and means of public transportation. ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,5,4,"Tsunami is a natural phenomenon, demonstrating as a series of ocean waves. It is usually caused by phenomena such as earthquakes, underwater landslides, or volcanic eruption. Tsunamis can last for a prolonged period of time and lead to great destruction and casualties.",,,,,,,,,,,,,,,,,5,5,6,Scientific research has demonstrated that music can improve motivation. Music can cause the release of dopamine in the brain. Dopamine is a chemical able to regulate motivation and goal-oriented behaviour ...,,,,,,,,,,,,,3,3,2,"Laws of physics extend beyond our limited human perception. For example, they cause freezing water molecules to form inummerable unique snowflakes.",,,,,,,,,,,,,,,,,,,,
+5/1/2024 10:45,5/1/2024 10:46,67,46,FALSE,5/8/2024 10:46,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5/1/2024 10:58,5/1/2024 10:58,67,43,FALSE,5/8/2024 10:59,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5/1/2024 11:02,5/1/2024 11:02,67,27,FALSE,5/8/2024 11:03,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5/1/2024 11:02,5/1/2024 11:03,67,78,FALSE,5/8/2024 11:03,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5/1/2024 11:00,5/1/2024 11:11,67,622,FALSE,5/8/2024 11:11,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,6,5,4,"In 1985, Carl Sagan cautioned Congress that burning fossil fuels would raise global temperatures, leading to climate change, glacier melting, and sea level rise.",,,,,,,,,5,7,3,"Extreme weather events, worsened by climate change, devastate areas and impact air quality. For instance, the CDC and US EPA link more frequent wildfires, their smoke, and declining air quality.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,5,5,"Animal agriculture is the main cause of deforestation, biodiversity loss, water pollution, marine debris, ocean dead zones, and emissions surpassing all transportation combined. Therefore, ending animal agriculture is the most effective climate action we can take",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5/1/2024 11:03,5/1/2024 11:24,67,1276,FALSE,5/8/2024 11:24,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,6,"Poverty is caused by poor education on how to budget,and sort taxes. Lack of education on house hold abilities to cook at home. ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,6,"I asked for sources, which you claimed were there because you didnt even attempt to explain the graphs. There is an increase in Renewables.Fewer resources are used by renewables and they cause far less emissions then fossils. Carbon intensity is failing",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5/1/2024 11:37,5/1/2024 11:37,67,16,FALSE,5/8/2024 11:37,EN,Yes,Yes,Yes,Yes,Yes,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
