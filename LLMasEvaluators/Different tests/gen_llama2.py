@@ -10,7 +10,7 @@ from transformers import AutoModel
 
 from transformers import AutoModel
 
-access_token = "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"
+access_token = ""
 
 
 model_id = "meta-llama/Meta-Llama-3-8B-Instruct"
